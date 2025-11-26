@@ -9852,3 +9852,16 @@ div.chart {
 /* Provide a slightly larger size for about/avatar widgets if needed */
 .wg-about-avatar ul.network-icon .big-icon {
   font-size: 0.85rem !important; }
+
+/* Align the Interests block to the left while keeping the profile column centered */
+.person-interests {
+  text-align: left;
+  align-self: stretch; }
+
+.person-interests .ul-interests {
+  padding-left: 1rem;
+  margin: 0; }
+
+.person-interests .ul-interests li {
+  list-style: disc;
+  margin-left: 0.5rem; }
