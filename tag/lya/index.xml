@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lya | ASGARD Group</title>
+    <link>https://example.com/tag/lya/</link>
+      <atom:link href="https://example.com/tag/lya/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lya</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/media/icon_hu_be15dbaf67d618b8.png</url>
+      <title>Lya</title>
+      <link>https://example.com/tag/lya/</link>
+    </image>
+    
+    <item>
+      <title>Lyman-alpha as a proxy for ionizing photon escape</title>
+      <link>https://example.com/project/lyalyc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/lyalyc/</guid>
+      <description>&lt;p&gt;We know that the Universe turned from neutral to ionized in the so-called &amp;lsquo;Epoch of Reionization&amp;rsquo;. However, we do not know yet how the photons that were responsible for this era escaped their host-galaxies as they can be absorbed by gas already inside the galaxies. Luckily for astrophysics, Lyman-alpha photons are susceptible to the same gas as ionizing photons. In this project, you will run your own radiative transfer simulations to figure out a link between the escape of ionizing and Lyman-alpha photons.&lt;/p&gt;
+&lt;p&gt;This is a numerical/theoretical thesis with connection to observations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lyman-alpha pumping during the dark ages</title>
+      <link>https://example.com/project/lya-pumping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/lya-pumping/</guid>
+      <description>&lt;p&gt;The next generation of telescopes such as the SKA target the 21cm spinflip transition line of neutral hydrogen to map out the Epoch of Reionization (EoR). Ly𝛼 scattering changes the state of hydrogen and thus affects the 21cm signal through the so-called Wouthuysen–Field effect. While this effect is known since a long time, models studying it are very rudimentary. This is because the range of scales (≪pc mean free path of Ly𝛼 photons to &amp;gt;Mpc coherent regions in the EoR) is simply too large to model the effect correctly. In this project, you will run Ly𝛼 radiative transfer simulations of models of galaxies and their surroundings, record the scattering rates and try to find prescriptions to model this effect correctly in larger scale EoR simulations where the gas and radiative transfer around galaxies cannot properly be resolved.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

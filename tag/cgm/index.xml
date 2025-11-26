@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CGM | ASGARD Group</title>
+    <link>https://example.com/tag/cgm/</link>
+      <atom:link href="https://example.com/tag/cgm/index.xml" rel="self" type="application/rss+xml" />
+    <description>CGM</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/media/icon_hu_be15dbaf67d618b8.png</url>
+      <title>CGM</title>
+      <link>https://example.com/tag/cgm/</link>
+    </image>
+    
+    <item>
+      <title>Stability of Cold Streams in the Circumgalactic Medium</title>
+      <link>https://example.com/project/cold-streams-lss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/cold-streams-lss/</guid>
+      <description>&lt;p&gt;Cold streams are believed to supply a major fraction of the gas that fuels galaxy growth at high redshift, yet their stability as they penetrate the hot circumgalactic medium remains an open question. While analytical models and idealized simulations provide criteria for when streams should survive or fragment, it is unclear how these predictions translate to the complex, dynamical environments found in realistic halos.&lt;br&gt;
+In this project, you will use large-volume cosmological simulations to identify and extract cold streams, characterize their thermodynamic and kinematic properties, and systematically compare them to theoretical survival criteria. This work will clarify the physical conditions that regulate stream persistence and help connect idealized stability models to the multiphase structure of the CGM.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The effect of spectral stacking on the information content</title>
+      <link>https://example.com/project/stacking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/stacking/</guid>
+      <description>&lt;p&gt;Electromagnetic radiation is our primary window to observe galaxies and to constrain our theoretical models. In particular, resonant lines such as Lyman-alpha or MgII play a pivotal role in astrophysics as a tool to study low surface brightness region such as the circumgalactic medium. As the detection of a single object is so challenging, it is common practice to perform &amp;ldquo;stacking&amp;rdquo; of individual object, thus beating down the noise and enhancing the signal. However, from a theoretical perspective it is unclear what the stacking analysis does to the spectral shape or the information contained in the data.
+In this project, we will systematically explore the information content of individual spectra versus stacks. To do so, you will run radiative transfer simulations and assemble individual synthetic spectra, perform a stacking analysis, and build a fitting pipeline to obtain the information contained in the stacks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thermal Instability and Heating Mechanisms in Stratified Atmospheres</title>
+      <link>https://example.com/project/ti-stratified/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/ti-stratified/</guid>
+      <description>&lt;p&gt;Thermal instability (TI) in stratified atmospheres is believed to play a central role in producing the cold gas observed in galaxy clusters’ intracluster medium. A key but poorly understood ingredient is the form of heating that balances cooling: previous work has typically assumed highly idealized, spatially uniform “magic heating” to maintain global thermal equilibrium.&lt;br&gt;
+In this project, you will explore TI both theoretically and with numerical simulations, replacing such ad hoc heating prescriptions with more realistic, physically motivated models. By mapping how different heating mechanisms influence condensation, stability criteria, and cold-gas morphology, this work will help build a more robust understanding of how multiphase structure forms in cluster atmospheres.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thermal Instability in Turbulent Multiphase Media</title>
+      <link>https://example.com/project/ti-turb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/ti-turb/</guid>
+      <description>&lt;p&gt;Thermal instability plays a key role in shaping the multiphase structure of the ISM, CGM, and ICM, yet its onset within turbulent environments remains poorly understood. In supersonic and subsonic turbulence, compressed regions can cool rapidly and condense, but the precise conditions for when and where this occurs are not well established.&lt;br&gt;
+In this project, you will perform turbulent-box simulations and follow the thermodynamic trajectories of gas parcels to determine how turbulence seeds and amplifies thermal instability. The goal is to build a predictive framework connecting local dynamical conditions—compression, cooling times, and turbulent driving—to the formation of cold gas in astrophysical environments.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

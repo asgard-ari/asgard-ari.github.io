@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Former Members | ASGARD Group</title>
+    <link>https://example.com/author/former-members/</link>
+      <atom:link href="https://example.com/author/former-members/index.xml" rel="self" type="application/rss+xml" />
+    <description>Former Members</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/media/icon_hu_be15dbaf67d618b8.png</url>
+      <title>Former Members</title>
+      <link>https://example.com/author/former-members/</link>
+    </image>
+    
+  </channel>
+</rss>

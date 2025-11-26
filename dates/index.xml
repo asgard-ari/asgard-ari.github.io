@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dates | ASGARD Group</title>
+    <link>https://example.com/dates/</link>
+      <atom:link href="https://example.com/dates/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dates</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Jan 2026 14:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_be15dbaf67d618b8.png</url>
+      <title>Dates</title>
+      <link>https://example.com/dates/</link>
+    </image>
+    
+    <item>
+      <title>External talks — Hitesh Kishore Das, Seok-Jun Chang, Sunmyon Chon</title>
+      <link>https://example.com/dates/2025-11-19-hitesh-seok-jun-sunmyon/</link>
+      <pubDate>Wed, 19 Nov 2025 14:00:00 +0100</pubDate>
+      <guid>https://example.com/dates/2025-11-19-hitesh-seok-jun-sunmyon/</guid>
+      <description>&lt;p&gt;External talks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meet the new neighbors &amp; Multiphase 25 recap — Tobias Buck, Fernando, Rafael, Ritali, Alankar, Max</title>
+      <link>https://example.com/dates/2025-11-12-tobias-buck-fernando-etal/</link>
+      <pubDate>Wed, 12 Nov 2025 14:00:00 +0100</pubDate>
+      <guid>https://example.com/dates/2025-11-12-tobias-buck-fernando-etal/</guid>
+      <description>&lt;p&gt;Meet the new neighbors talk and Multiphase 25 recap.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The curious escape of Lyman-α photons</title>
+      <link>https://example.com/dates/2025-11-10-lyman-alpha-escape/</link>
+      <pubDate>Mon, 10 Nov 2025 15:00:00 +0100</pubDate>
+      <guid>https://example.com/dates/2025-11-10-lyman-alpha-escape/</guid>
+      <description>&lt;p&gt;Recent results on how Lyman-α photons escape through ionized channels.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meet the new neighbors — Kathryn Kreckel &amp; Oleg Egorov</title>
+      <link>https://example.com/dates/2025-10-29-kathryn-kreckel-oleg-egorov/</link>
+      <pubDate>Wed, 29 Oct 2025 14:00:00 +0100</pubDate>
+      <guid>https://example.com/dates/2025-10-29-kathryn-kreckel-oleg-egorov/</guid>
+      <description>&lt;p&gt;Meet the new neighbors talks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meet the new neighbors / conference recap — Kai Wu &amp; Silvia</title>
+      <link>https://example.com/dates/2025-10-22-kai-wu-silvia/</link>
+      <pubDate>Wed, 22 Oct 2025 14:00:00 +0100</pubDate>
+      <guid>https://example.com/dates/2025-10-22-kai-wu-silvia/</guid>
+      <description>&lt;p&gt;Meet the new neighbors talk, conference recap and mini arXiv round.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conference recaps — Fernando, Alankar, Seok-Jun</title>
+      <link>https://example.com/dates/2025-10-15-fernando-alankar-seok-jun/</link>
+      <pubDate>Wed, 15 Oct 2025 14:00:00 +0100</pubDate>
+      <guid>https://example.com/dates/2025-10-15-fernando-alankar-seok-jun/</guid>
+      <description>&lt;p&gt;Conference recaps and project updates.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Magneto-radiative instabilities in outflows</title>
+      <link>https://example.com/dates/2025-10-15-magneto-rt-talk/</link>
+      <pubDate>Wed, 15 Oct 2025 14:00:00 +0100</pubDate>
+      <guid>https://example.com/dates/2025-10-15-magneto-rt-talk/</guid>
+      <description>&lt;p&gt;A look at instabilities in magnetised radiative outflows.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Update round: shotgun style — All</title>
+      <link>https://example.com/dates/2025-09-24-update-shotgun/</link>
+      <pubDate>Wed, 24 Sep 2025 14:00:00 +0100</pubDate>
+      <guid>https://example.com/dates/2025-09-24-update-shotgun/</guid>
+      <description>&lt;p&gt;Group update round (shotgun style).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction &amp; RT on GPUs — Rafael &amp; Chris Byrohl</title>
+      <link>https://example.com/dates/2025-09-17-rafael-chris-byrohl/</link>
+      <pubDate>Wed, 17 Sep 2025 14:00:00 +0100</pubDate>
+      <guid>https://example.com/dates/2025-09-17-rafael-chris-byrohl/</guid>
+      <description>&lt;p&gt;Introductions and radiative transfer on GPUs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cooling flows in TRMLs &amp; arXiv round — Alankar &amp; group</title>
+      <link>https://example.com/dates/2025-09-10-alankar-all/</link>
+      <pubDate>Wed, 10 Sep 2025 14:00:00 +0100</pubDate>
+      <guid>https://example.com/dates/2025-09-10-alankar-all/</guid>
+      <description>&lt;p&gt;Cooling flows in TRMLs and an arXiv round.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MPA recap &amp; arXiv round — Hitesh &amp; group</title>
+      <link>https://example.com/dates/2025-09-03-hitesh-all/</link>
+      <pubDate>Wed, 03 Sep 2025 14:00:00 +0100</pubDate>
+      <guid>https://example.com/dates/2025-09-03-hitesh-all/</guid>
+      <description>&lt;p&gt;MPA recap and arXiv round.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Observations for theorists &amp; Adjacent Correlation Analysis — Johannes Buchner &amp; Guang-Xing Li</title>
+      <link>https://example.com/dates/2025-08-13-johannes-buchner-guang-xing-li/</link>
+      <pubDate>Wed, 13 Aug 2025 14:00:00 +0100</pubDate>
+      <guid>https://example.com/dates/2025-08-13-johannes-buchner-guang-xing-li/</guid>
+      <description>&lt;p&gt;Guest presentations: Observations for theorists and Adjacent Correlation Analysis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project update &amp; arXiv round — Ioannis &amp; group</title>
+      <link>https://example.com/dates/2025-08-06-ioannis/</link>
+      <pubDate>Wed, 06 Aug 2025 14:00:00 +0100</pubDate>
+      <guid>https://example.com/dates/2025-08-06-ioannis/</guid>
+      <description>&lt;p&gt;Project update and arXiv round.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TI in turbulence / ELAN modeling / Sunburst Arc — Ankita, Pietro, Vicky</title>
+      <link>https://example.com/dates/2025-07-30-ankita-pietro-vicky/</link>
+      <pubDate>Wed, 30 Jul 2025 14:00:00 +0100</pubDate>
+      <guid>https://example.com/dates/2025-07-30-ankita-pietro-vicky/</guid>
+      <description>&lt;p&gt;Talks on TI in turbulence, ELAN modeling, and the Sunburst Arc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AIP conference recap — Hitesh, Alankar, Ritali, Fernando, Max</title>
+      <link>https://example.com/dates/2025-07-23-aip-recap/</link>
+      <pubDate>Wed, 23 Jul 2025 14:00:00 +0100</pubDate>
+      <guid>https://example.com/dates/2025-07-23-aip-recap/</guid>
+      <description>&lt;p&gt;AIP conference recap and related project updates.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project Update &amp; Stockholm conference recap — Rajesh &amp; Silvia</title>
+      <link>https://example.com/dates/2025-07-16-rajesh-silvia/</link>
+      <pubDate>Wed, 16 Jul 2025 14:00:00 +0100</pubDate>
+      <guid>https://example.com/dates/2025-07-16-rajesh-silvia/</guid>
+      <description>&lt;p&gt;Project update and Stockholm conference recap.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TI &amp; subgrid turbulence — Hitesh &amp; Vadim Semenov</title>
+      <link>https://example.com/dates/2025-07-09-hitesh-vadim-semenov/</link>
+      <pubDate>Wed, 09 Jul 2025 14:00:00 +0100</pubDate>
+      <guid>https://example.com/dates/2025-07-09-hitesh-vadim-semenov/</guid>
+      <description>&lt;p&gt;Talk on TI &amp;amp; subgrid turbulence.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mini-hackathon</title>
+      <link>https://example.com/dates/2025-07-02-mini-hackathon/</link>
+      <pubDate>Wed, 02 Jul 2025 14:00:00 +0100</pubDate>
+      <guid>https://example.com/dates/2025-07-02-mini-hackathon/</guid>
+      <description>&lt;p&gt;Mini-hackathon — group session.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/dates/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/dates/readme/</guid>
+      <description>&lt;h1 id=&#34;dates-meetings&#34;&gt;Dates (meetings)&lt;/h1&gt;
+&lt;p&gt;This folder contains the meeting pages for the group. Each meeting is a standard Hugo content page with front matter. Keep the files sorted or name them with the date prefix to make them easier to scan.&lt;/p&gt;
+&lt;p&gt;Quick tips:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create a new meeting scaffold with the archetype: &lt;code&gt;hugo new dates/my-talk.md&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Required front matter fields: &lt;code&gt;title&lt;/code&gt;, &lt;code&gt;date&lt;/code&gt;, &lt;code&gt;speakers&lt;/code&gt; (array).&lt;/li&gt;
+&lt;li&gt;The list page is generated from &lt;code&gt;layouts/dates/list.html&lt;/code&gt; and individual pages use &lt;code&gt;layouts/dates/single.html&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Example:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;title: &amp;#34;My New Talk&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;date: 2025-12-10T14:00:00+01:00
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;speakers:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  - &amp;#34;Dr. Example&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Short abstract or links.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;If you&amp;rsquo;d rather keep meetings under &lt;code&gt;content/research/&lt;/code&gt;, let me know and I can revert or create an alias. This README is for maintainers and does not affect the site build.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

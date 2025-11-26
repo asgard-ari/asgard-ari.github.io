@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MHD | ASGARD Group</title>
+    <link>https://example.com/tag/mhd/</link>
+      <atom:link href="https://example.com/tag/mhd/index.xml" rel="self" type="application/rss+xml" />
+    <description>MHD</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/media/icon_hu_be15dbaf67d618b8.png</url>
+      <title>MHD</title>
+      <link>https://example.com/tag/mhd/</link>
+    </image>
+    
+    <item>
+      <title>Cold Gas Survival in Galactic Winds</title>
+      <link>https://example.com/project/cc-extend/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/cc-extend/</guid>
+      <description>&lt;p&gt;Cold gas clouds embedded in hot galactic winds face rapid destruction through hydrodynamic instabilities and turbulent mixing, yet observations show that such gas can survive over large distances. The balance between mixing and radiative cooling is crucial, but previous work has explored only a narrow region of parameter space (e.g., Mach numbers around ~1.5 and density contrasts of ~100).&lt;br&gt;
+In this project, you will run high-resolution hydrodynamical simulations across a broad range of Mach numbers, density contrasts, and cooling efficiencies to determine when and how cold gas can endure. The goal is to produce a survival map of cold clouds in galactic outflows, providing valuable constraints for interpreting observations and improving galaxy-scale models.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modeling gas clouds in the vicinity of a black hole</title>
+      <link>https://example.com/project/g2-cloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/g2-cloud/</guid>
+      <description>&lt;p&gt;Gas clouds such as G2 orbit the central supermassive black hole of the Milky Way. On their journey they are subject to extreme gravitational acceleration which disrupts them eventually before the gas reaches the black hole. Counteracting this fragmentation is radiative cooling which &amp;ndash; aided by turbulent mixing &amp;ndash; continuously creates new, cold gas and effectively keeps the gas cloud &amp;ldquo;alive&amp;rdquo;.
+In this project you will perform hydrodynamical simulations to study the evolution of a gas cloud subject to gravitational fragmentation with the inclusion of gravitational cooling.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Radiation Pressure–Driven Acceleration and Survival of Cold Gas</title>
+      <link>https://example.com/project/cc-radiation-pressure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/cc-radiation-pressure/</guid>
+      <description>&lt;p&gt;Radiation pressure from young stars or AGN is often invoked as a mechanism to accelerate cold gas, yet its role in enabling — or preventing — the long-term survival of this gas remains poorly understood. Competing processes such as shear, instabilities, and radiative cooling complicate the dynamics, and current theories do not reliably predict when radiation pressure helps preserve clouds versus tearing them apart.&lt;br&gt;
+In this project, you will conduct radiation–hydrodynamic simulations to study how cold gas clouds respond to radiation pressure under a range of luminosities, optical depths, and ambient conditions. By identifying the regimes in which clouds accelerate, remain coherent, or fragment, the project will shed light on the physical pathways through which radiation pressure shapes multiphase outflows.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thermal Instability and Heating Mechanisms in Stratified Atmospheres</title>
+      <link>https://example.com/project/ti-stratified/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/ti-stratified/</guid>
+      <description>&lt;p&gt;Thermal instability (TI) in stratified atmospheres is believed to play a central role in producing the cold gas observed in galaxy clusters’ intracluster medium. A key but poorly understood ingredient is the form of heating that balances cooling: previous work has typically assumed highly idealized, spatially uniform “magic heating” to maintain global thermal equilibrium.&lt;br&gt;
+In this project, you will explore TI both theoretically and with numerical simulations, replacing such ad hoc heating prescriptions with more realistic, physically motivated models. By mapping how different heating mechanisms influence condensation, stability criteria, and cold-gas morphology, this work will help build a more robust understanding of how multiphase structure forms in cluster atmospheres.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thermal Instability in Turbulent Multiphase Media</title>
+      <link>https://example.com/project/ti-turb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/ti-turb/</guid>
+      <description>&lt;p&gt;Thermal instability plays a key role in shaping the multiphase structure of the ISM, CGM, and ICM, yet its onset within turbulent environments remains poorly understood. In supersonic and subsonic turbulence, compressed regions can cool rapidly and condense, but the precise conditions for when and where this occurs are not well established.&lt;br&gt;
+In this project, you will perform turbulent-box simulations and follow the thermodynamic trajectories of gas parcels to determine how turbulence seeds and amplifies thermal instability. The goal is to build a predictive framework connecting local dynamical conditions—compression, cooling times, and turbulent driving—to the formation of cold gas in astrophysical environments.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

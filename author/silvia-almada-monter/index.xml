@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Silvia Almada Monter | ASGARD Group</title>
+    <link>https://example.com/author/silvia-almada-monter/</link>
+      <atom:link href="https://example.com/author/silvia-almada-monter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Silvia Almada Monter</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_be15dbaf67d618b8.png</url>
+      <title>Silvia Almada Monter</title>
+      <link>https://example.com/author/silvia-almada-monter/</link>
+    </image>
+    
+    <item>
+      <title>Silvia Almada Monter wins Kippenhahn Prize</title>
+      <link>https://example.com/post/25-07-22-kippenhahn-prize/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/25-07-22-kippenhahn-prize/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/uploads/silvia-kippenhahn-attached.png&#34; alt=&#34;Silvia Almada Monter wins Kippenhahn Prize&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The Max Planck Institute for Astrophysics (MPA) has awarded the Rudolf-Kippenhahn-Prize for the best scientific paper by a student to Silvia Almada Monter.&lt;/p&gt;
+&lt;p&gt;Silvia received the award for her paper titled &amp;ldquo;Crossing walls and windows: the curious escape of Lyman-α photons through ionized channels&amp;rdquo;. Her research challenges existing assumptions about how Lyman-alpha photons escape from galaxies, proposing a new physical picture.&lt;/p&gt;
+&lt;p&gt;The prize recognizes originality, scientific impact, and the quality of writing in publications where students made substantial contributions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

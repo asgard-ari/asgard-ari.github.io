@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ritali Ghosh | ASGARD Group</title>
+    <link>https://example.com/author/ritali-ghosh/</link>
+      <atom:link href="https://example.com/author/ritali-ghosh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ritali Ghosh</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_be15dbaf67d618b8.png</url>
+      <title>Ritali Ghosh</title>
+      <link>https://example.com/author/ritali-ghosh/</link>
+    </image>
+    
+    <item>
+      <title>Woven by the Whirls: The growth and entrainment of cold clouds in turbulent hot winds</title>
+      <link>https://example.com/publication/preprint/2025-10-03-woven-by-the-whirls-the-growth-and-entrainment-of-cold-clouds-in-turbulent-hot-winds/</link>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/preprint/2025-10-03-woven-by-the-whirls-the-growth-and-entrainment-of-cold-clouds-in-turbulent-hot-winds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond radial profiles: using log-normal distributions to model the multiphase circumgalactic medium</title>
+      <link>https://example.com/publication/journal-article/2024-06-14-beyond-radial-profiles-using-log-normal-distributions-to-model-the-multiphase-circumgalactic-medium/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/journal-article/2024-06-14-beyond-radial-profiles-using-log-normal-distributions-to-model-the-multiphase-circumgalactic-medium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ram pressure stripping in clusters: gravity can bind the ISM but not the CGM</title>
+      <link>https://example.com/publication/journal-article/2024-06-05-ram-pressure-stripping-in-clusters-gravity-can-bind-the-ism-but-not-the-cgm/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/journal-article/2024-06-05-ram-pressure-stripping-in-clusters-gravity-can-bind-the-ism-but-not-the-cgm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

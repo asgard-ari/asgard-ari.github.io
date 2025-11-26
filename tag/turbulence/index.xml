@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Turbulence | ASGARD Group</title>
+    <link>https://example.com/tag/turbulence/</link>
+      <atom:link href="https://example.com/tag/turbulence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Turbulence</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/media/icon_hu_be15dbaf67d618b8.png</url>
+      <title>Turbulence</title>
+      <link>https://example.com/tag/turbulence/</link>
+    </image>
+    
+    <item>
+      <title>Thermal Instability in Turbulent Multiphase Media</title>
+      <link>https://example.com/project/ti-turb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/ti-turb/</guid>
+      <description>&lt;p&gt;Thermal instability plays a key role in shaping the multiphase structure of the ISM, CGM, and ICM, yet its onset within turbulent environments remains poorly understood. In supersonic and subsonic turbulence, compressed regions can cool rapidly and condense, but the precise conditions for when and where this occurs are not well established.&lt;br&gt;
+In this project, you will perform turbulent-box simulations and follow the thermodynamic trajectories of gas parcels to determine how turbulence seeds and amplifies thermal instability. The goal is to build a predictive framework connecting local dynamical conditions—compression, cooling times, and turbulent driving—to the formation of cold gas in astrophysical environments.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

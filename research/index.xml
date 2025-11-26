@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Meetings | ASGARD Group</title>
+    <link>https://example.com/research/</link>
+      <atom:link href="https://example.com/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research Meetings</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Nov 2025 15:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_be15dbaf67d618b8.png</url>
+      <title>Research Meetings</title>
+      <link>https://example.com/research/</link>
+    </image>
+    
+    <item>
+      <title>The curious escape of Lyman-α photons</title>
+      <link>https://example.com/research/2025-11-10-lyman-alpha-escape/</link>
+      <pubDate>Mon, 10 Nov 2025 15:00:00 +0100</pubDate>
+      <guid>https://example.com/research/2025-11-10-lyman-alpha-escape/</guid>
+      <description>&lt;p&gt;Recent results on how Lyman-α photons escape through ionized channels.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Magneto-radiative instabilities in outflows</title>
+      <link>https://example.com/research/2025-10-15-magneto-rt-talk/</link>
+      <pubDate>Wed, 15 Oct 2025 14:00:00 +0100</pubDate>
+      <guid>https://example.com/research/2025-10-15-magneto-rt-talk/</guid>
+      <description>&lt;p&gt;A look at instabilities in magnetised radiative outflows.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

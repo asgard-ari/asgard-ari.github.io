@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Observations | ASGARD Group</title>
+    <link>https://example.com/tag/observations/</link>
+      <atom:link href="https://example.com/tag/observations/index.xml" rel="self" type="application/rss+xml" />
+    <description>Observations</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/media/icon_hu_be15dbaf67d618b8.png</url>
+      <title>Observations</title>
+      <link>https://example.com/tag/observations/</link>
+    </image>
+    
+    <item>
+      <title>Lyman-alpha as a proxy for ionizing photon escape</title>
+      <link>https://example.com/project/lyalyc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/lyalyc/</guid>
+      <description>&lt;p&gt;We know that the Universe turned from neutral to ionized in the so-called &amp;lsquo;Epoch of Reionization&amp;rsquo;. However, we do not know yet how the photons that were responsible for this era escaped their host-galaxies as they can be absorbed by gas already inside the galaxies. Luckily for astrophysics, Lyman-alpha photons are susceptible to the same gas as ionizing photons. In this project, you will run your own radiative transfer simulations to figure out a link between the escape of ionizing and Lyman-alpha photons.&lt;/p&gt;
+&lt;p&gt;This is a numerical/theoretical thesis with connection to observations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The effect of spectral stacking on the information content</title>
+      <link>https://example.com/project/stacking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/stacking/</guid>
+      <description>&lt;p&gt;Electromagnetic radiation is our primary window to observe galaxies and to constrain our theoretical models. In particular, resonant lines such as Lyman-alpha or MgII play a pivotal role in astrophysics as a tool to study low surface brightness region such as the circumgalactic medium. As the detection of a single object is so challenging, it is common practice to perform &amp;ldquo;stacking&amp;rdquo; of individual object, thus beating down the noise and enhancing the signal. However, from a theoretical perspective it is unclear what the stacking analysis does to the spectral shape or the information contained in the data.
+In this project, we will systematically explore the information content of individual spectra versus stacks. To do so, you will run radiative transfer simulations and assemble individual synthetic spectra, perform a stacking analysis, and build a fitting pipeline to obtain the information contained in the stacks.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
