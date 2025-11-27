@@ -778,6 +778,9 @@
     <loc>https://example.com/author/former-members/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/author/gitanjali-gitanjali/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/home/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -815,9 +818,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/radiative-transfer/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/author/rafael-zavala-molina/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/author/seok-jun-chang/</loc>
