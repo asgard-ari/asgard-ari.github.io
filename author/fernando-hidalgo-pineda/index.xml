@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fernando Hidalgo Pineda | ASGARD Group</title>
-    <link>https://example.com/author/fernando-hidalgo-pineda/</link>
-      <atom:link href="https://example.com/author/fernando-hidalgo-pineda/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://asgard-ari.github.io/author/fernando-hidalgo-pineda/</link>
+      <atom:link href="http://asgard-ari.github.io/author/fernando-hidalgo-pineda/index.xml" rel="self" type="application/rss+xml" />
     <description>Fernando Hidalgo Pineda</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/media/icon_hu_be15dbaf67d618b8.png</url>
+      <url>http://asgard-ari.github.io/media/icon_hu_be15dbaf67d618b8.png</url>
       <title>Fernando Hidalgo Pineda</title>
-      <link>https://example.com/author/fernando-hidalgo-pineda/</link>
+      <link>http://asgard-ari.github.io/author/fernando-hidalgo-pineda/</link>
     </image>
     
   </channel>

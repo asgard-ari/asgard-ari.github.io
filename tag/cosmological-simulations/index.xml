@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cosmological Simulations | ASGARD Group</title>
-    <link>https://example.com/tag/cosmological-simulations/</link>
-      <atom:link href="https://example.com/tag/cosmological-simulations/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://asgard-ari.github.io/tag/cosmological-simulations/</link>
+      <atom:link href="http://asgard-ari.github.io/tag/cosmological-simulations/index.xml" rel="self" type="application/rss+xml" />
     <description>Cosmological Simulations</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/media/icon_hu_be15dbaf67d618b8.png</url>
+      <url>http://asgard-ari.github.io/media/icon_hu_be15dbaf67d618b8.png</url>
       <title>Cosmological Simulations</title>
-      <link>https://example.com/tag/cosmological-simulations/</link>
+      <link>http://asgard-ari.github.io/tag/cosmological-simulations/</link>
     </image>
     
     <item>
       <title>Stability of Cold Streams in the Circumgalactic Medium</title>
-      <link>https://example.com/project/cold-streams-lss/</link>
+      <link>http://asgard-ari.github.io/project/cold-streams-lss/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/cold-streams-lss/</guid>
+      <guid>http://asgard-ari.github.io/project/cold-streams-lss/</guid>
       <description>&lt;p&gt;Cold streams are believed to supply a major fraction of the gas that fuels galaxy growth at high redshift, yet their stability as they penetrate the hot circumgalactic medium remains an open question. While analytical models and idealized simulations provide criteria for when streams should survive or fragment, it is unclear how these predictions translate to the complex, dynamical environments found in realistic halos.&lt;br&gt;
 In this project, you will use large-volume cosmological simulations to identify and extract cold streams, characterize their thermodynamic and kinematic properties, and systematically compare them to theoretical survival criteria. This work will clarify the physical conditions that regulate stream persistence and help connect idealized stability models to the multiphase structure of the CGM.&lt;/p&gt;
 </description>

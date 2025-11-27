@@ -2,117 +2,117 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Preprint | ASGARD Group</title>
-    <link>https://example.com/publication-type/preprint/</link>
-      <atom:link href="https://example.com/publication-type/preprint/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://asgard-ari.github.io/publication-type/preprint/</link>
+      <atom:link href="http://asgard-ari.github.io/publication-type/preprint/index.xml" rel="self" type="application/rss+xml" />
     <description>Preprint</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_be15dbaf67d618b8.png</url>
+      <url>http://asgard-ari.github.io/media/icon_hu_be15dbaf67d618b8.png</url>
       <title>Preprint</title>
-      <link>https://example.com/publication-type/preprint/</link>
+      <link>http://asgard-ari.github.io/publication-type/preprint/</link>
     </image>
     
     <item>
       <title>Multi-cloud crushing – the collective survival of cold clouds in galactic outflows</title>
-      <link>https://example.com/publication/preprint/2025-11-14-multi-cloud-crushing-the-collective-survival-of-cold-clouds-in-galactic-outflows/</link>
+      <link>http://asgard-ari.github.io/publication/preprint/2025-11-14-multi-cloud-crushing-the-collective-survival-of-cold-clouds-in-galactic-outflows/</link>
       <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/2025-11-14-multi-cloud-crushing-the-collective-survival-of-cold-clouds-in-galactic-outflows/</guid>
+      <guid>http://asgard-ari.github.io/publication/preprint/2025-11-14-multi-cloud-crushing-the-collective-survival-of-cold-clouds-in-galactic-outflows/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Woven by the Whirls: The growth and entrainment of cold clouds in turbulent hot winds</title>
-      <link>https://example.com/publication/preprint/2025-10-03-woven-by-the-whirls-the-growth-and-entrainment-of-cold-clouds-in-turbulent-hot-winds/</link>
+      <link>http://asgard-ari.github.io/publication/preprint/2025-10-03-woven-by-the-whirls-the-growth-and-entrainment-of-cold-clouds-in-turbulent-hot-winds/</link>
       <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/2025-10-03-woven-by-the-whirls-the-growth-and-entrainment-of-cold-clouds-in-turbulent-hot-winds/</guid>
+      <guid>http://asgard-ari.github.io/publication/preprint/2025-10-03-woven-by-the-whirls-the-growth-and-entrainment-of-cold-clouds-in-turbulent-hot-winds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inestabilidad de jeans debido a fuerzas de marea en regiones de formación estelar</title>
-      <link>https://example.com/publication/preprint/2022-06-08-inestabilidad-de-jeans-debido-a-fuerzas-de-marea-en-regiones-de-formaci-n-estelar/</link>
+      <link>http://asgard-ari.github.io/publication/preprint/2022-06-08-inestabilidad-de-jeans-debido-a-fuerzas-de-marea-en-regiones-de-formaci-n-estelar/</link>
       <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/2022-06-08-inestabilidad-de-jeans-debido-a-fuerzas-de-marea-en-regiones-de-formaci-n-estelar/</guid>
+      <guid>http://asgard-ari.github.io/publication/preprint/2022-06-08-inestabilidad-de-jeans-debido-a-fuerzas-de-marea-en-regiones-de-formaci-n-estelar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Line Formation of Lyα in Clumpy Circumgalactic and Intergalactic Media</title>
-      <link>https://example.com/publication/conference-paper/2020-01-01-line-formation-of-ly-in-clumpy-circumgalactic-and-intergalactic-media/</link>
+      <link>http://asgard-ari.github.io/publication/conference-paper/2020-01-01-line-formation-of-ly-in-clumpy-circumgalactic-and-intergalactic-media/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/2020-01-01-line-formation-of-ly-in-clumpy-circumgalactic-and-intergalactic-media/</guid>
+      <guid>http://asgard-ari.github.io/publication/conference-paper/2020-01-01-line-formation-of-ly-in-clumpy-circumgalactic-and-intergalactic-media/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Near Field Cosmology: Characterizing the Properties Leading to Radiation Leakage in Local Low- and Intermediate-Mass Galaxies</title>
-      <link>https://example.com/publication/conference-paper/2025-11-14-near-field-cosmology-characterizing-the-properties-leading-to-radiation-leakage-in-local-low-and-intermediate-mass-galaxies/</link>
+      <link>http://asgard-ari.github.io/publication/conference-paper/2025-11-14-near-field-cosmology-characterizing-the-properties-leading-to-radiation-leakage-in-local-low-and-intermediate-mass-galaxies/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/2025-11-14-near-field-cosmology-characterizing-the-properties-leading-to-radiation-leakage-in-local-low-and-intermediate-mass-galaxies/</guid>
+      <guid>http://asgard-ari.github.io/publication/conference-paper/2025-11-14-near-field-cosmology-characterizing-the-properties-leading-to-radiation-leakage-in-local-low-and-intermediate-mass-galaxies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Near Field Cosmology: Translating Galaxy Properties to Lyman-alpha and Lyman-continuum escape fractions</title>
-      <link>https://example.com/publication/conference-paper/2025-11-14-near-field-cosmology-translating-galaxy-properties-to-lyman-alpha-and-lyman-continuum-escape-fractions/</link>
+      <link>http://asgard-ari.github.io/publication/conference-paper/2025-11-14-near-field-cosmology-translating-galaxy-properties-to-lyman-alpha-and-lyman-continuum-escape-fractions/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/2025-11-14-near-field-cosmology-translating-galaxy-properties-to-lyman-alpha-and-lyman-continuum-escape-fractions/</guid>
+      <guid>http://asgard-ari.github.io/publication/conference-paper/2025-11-14-near-field-cosmology-translating-galaxy-properties-to-lyman-alpha-and-lyman-continuum-escape-fractions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VizieR Online Data Catalog: VLT/X-SHOOTER spectrum of COLA1 (Matthee&#43;, 2018)</title>
-      <link>https://example.com/publication/preprint/2025-11-14-vizier-online-data-catalog-vlt-x-shooter-spectrum-of-cola1-matthee-2018/</link>
+      <link>http://asgard-ari.github.io/publication/preprint/2025-11-14-vizier-online-data-catalog-vlt-x-shooter-spectrum-of-cola1-matthee-2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/2025-11-14-vizier-online-data-catalog-vlt-x-shooter-spectrum-of-cola1-matthee-2018/</guid>
+      <guid>http://asgard-ari.github.io/publication/preprint/2025-11-14-vizier-online-data-catalog-vlt-x-shooter-spectrum-of-cola1-matthee-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Near-Field Cosmology with Low-Mass Galaxies: Constraining the Escape of Radiation from the UV-slopes of Local Galaxies</title>
-      <link>https://example.com/publication/conference-paper/2025-11-14-near-field-cosmology-with-low-mass-galaxies-constraining-the-escape-of-radiation-from-the-uv-slopes-of-local-galaxies/</link>
+      <link>http://asgard-ari.github.io/publication/conference-paper/2025-11-14-near-field-cosmology-with-low-mass-galaxies-constraining-the-escape-of-radiation-from-the-uv-slopes-of-local-galaxies/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/2025-11-14-near-field-cosmology-with-low-mass-galaxies-constraining-the-escape-of-radiation-from-the-uv-slopes-of-local-galaxies/</guid>
+      <guid>http://asgard-ari.github.io/publication/conference-paper/2025-11-14-near-field-cosmology-with-low-mass-galaxies-constraining-the-escape-of-radiation-from-the-uv-slopes-of-local-galaxies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VizieR Online Data Catalog: Lyα profile in 43 Green Pea galaxies (Yang&#43;, 2017)</title>
-      <link>https://example.com/publication/preprint/2025-11-14-vizier-online-data-catalog-ly-profile-in-43-green-pea-galaxies-yang-2017/</link>
+      <link>http://asgard-ari.github.io/publication/preprint/2025-11-14-vizier-online-data-catalog-ly-profile-in-43-green-pea-galaxies-yang-2017/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/2025-11-14-vizier-online-data-catalog-ly-profile-in-43-green-pea-galaxies-yang-2017/</guid>
+      <guid>http://asgard-ari.github.io/publication/preprint/2025-11-14-vizier-online-data-catalog-ly-profile-in-43-green-pea-galaxies-yang-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VizieR Online Data Catalog: 237 Lyman-alpha spectra of MUSE-Wide survey (Gronke, 2017)</title>
-      <link>https://example.com/publication/preprint/2025-11-14-vizier-online-data-catalog-237-lyman-alpha-spectra-of-muse-wide-survey-gronke-2017/</link>
+      <link>http://asgard-ari.github.io/publication/preprint/2025-11-14-vizier-online-data-catalog-237-lyman-alpha-spectra-of-muse-wide-survey-gronke-2017/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/2025-11-14-vizier-online-data-catalog-237-lyman-alpha-spectra-of-muse-wide-survey-gronke-2017/</guid>
+      <guid>http://asgard-ari.github.io/publication/preprint/2025-11-14-vizier-online-data-catalog-237-lyman-alpha-spectra-of-muse-wide-survey-gronke-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Formation of broad Balmer wings in symbiotic stars</title>
-      <link>https://example.com/publication/conference-paper/2016-07-01-formation-of-broad-balmer-wings-in-symbiotic-stars/</link>
+      <link>http://asgard-ari.github.io/publication/conference-paper/2016-07-01-formation-of-broad-balmer-wings-in-symbiotic-stars/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/2016-07-01-formation-of-broad-balmer-wings-in-symbiotic-stars/</guid>
+      <guid>http://asgard-ari.github.io/publication/conference-paper/2016-07-01-formation-of-broad-balmer-wings-in-symbiotic-stars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Raman-scattered O VI λ1032 and He II λ1025 and Bipolar Outflow in the Symbiotic Star V455 Sco</title>
-      <link>https://example.com/publication/conference-paper/2016-07-01-raman-scattered-o-vi-1032-and-he-ii-1025-and-bipolar-outflow-in-the-symbiotic-star-v455-sco/</link>
+      <link>http://asgard-ari.github.io/publication/conference-paper/2016-07-01-raman-scattered-o-vi-1032-and-he-ii-1025-and-bipolar-outflow-in-the-symbiotic-star-v455-sco/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/2016-07-01-raman-scattered-o-vi-1032-and-he-ii-1025-and-bipolar-outflow-in-the-symbiotic-star-v455-sco/</guid>
+      <guid>http://asgard-ari.github.io/publication/conference-paper/2016-07-01-raman-scattered-o-vi-1032-and-he-ii-1025-and-bipolar-outflow-in-the-symbiotic-star-v455-sco/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Raman O VI Spectroscopy of Accretion Flows in the S-type Symbiotic Star V455 Sco</title>
-      <link>https://example.com/publication/conference-paper/2015-08-01-raman-o-vi-spectroscopy-of-accretion-flows-in-the-s-type-symbiotic-star-v455-sco/</link>
+      <link>http://asgard-ari.github.io/publication/conference-paper/2015-08-01-raman-o-vi-spectroscopy-of-accretion-flows-in-the-s-type-symbiotic-star-v455-sco/</link>
       <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/2015-08-01-raman-o-vi-spectroscopy-of-accretion-flows-in-the-s-type-symbiotic-star-v455-sco/</guid>
+      <guid>http://asgard-ari.github.io/publication/conference-paper/2015-08-01-raman-o-vi-spectroscopy-of-accretion-flows-in-the-s-type-symbiotic-star-v455-sco/</guid>
       <description></description>
     </item>
     

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About ASGARD | ASGARD Group</title>
-    <link>https://example.com/about/</link>
-      <atom:link href="https://example.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://asgard-ari.github.io/about/</link>
+      <atom:link href="http://asgard-ari.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     <description>About ASGARD</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/media/icon_hu_be15dbaf67d618b8.png</url>
+      <url>http://asgard-ari.github.io/media/icon_hu_be15dbaf67d618b8.png</url>
       <title>About ASGARD</title>
-      <link>https://example.com/about/</link>
+      <link>http://asgard-ari.github.io/about/</link>
     </image>
     
   </channel>

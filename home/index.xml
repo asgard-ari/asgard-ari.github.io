@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes | ASGARD Group</title>
-    <link>https://example.com/home/</link>
-      <atom:link href="https://example.com/home/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://asgard-ari.github.io/home/</link>
+      <atom:link href="http://asgard-ari.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     <description>Homes</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/media/icon_hu_be15dbaf67d618b8.png</url>
+      <url>http://asgard-ari.github.io/media/icon_hu_be15dbaf67d618b8.png</url>
       <title>Homes</title>
-      <link>https://example.com/home/</link>
+      <link>http://asgard-ari.github.io/home/</link>
     </image>
     
     <item>
       <title>Research</title>
-      <link>https://example.com/home/research/</link>
+      <link>http://asgard-ari.github.io/home/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/home/research/</guid>
+      <guid>http://asgard-ari.github.io/home/research/</guid>
       <description>&lt;p&gt;We investigate the complex interplay of &lt;strong&gt;gas dynamics&lt;/strong&gt; and &lt;strong&gt;radiative processes&lt;/strong&gt; that shape galaxy formation and evolution, using &lt;strong&gt;high-performance computing&lt;/strong&gt; and &lt;strong&gt;analytical theory&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;feature:&lt;/p&gt;
 &lt;ul&gt;
@@ -38,9 +38,9 @@ name: Computational Astrophysics&lt;/li&gt;
     
     <item>
       <title>People</title>
-      <link>https://example.com/home/people/</link>
+      <link>http://asgard-ari.github.io/home/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/home/people/</guid>
+      <guid>http://asgard-ari.github.io/home/people/</guid>
       <description></description>
     </item>
     

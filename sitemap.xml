@@ -2,840 +2,844 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/research/</loc>
+    <loc>http://asgard-ari.github.io/research/</loc>
     <lastmod>2025-11-10T15:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/home/research/</loc>
+    <loc>http://asgard-ari.github.io/home/research/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/home/people/</loc>
+    <loc>http://asgard-ari.github.io/home/people/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/dates/</loc>
+    <loc>http://asgard-ari.github.io/dates/</loc>
     <lastmod>2026-01-28T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/event/example/</loc>
+    <loc>http://asgard-ari.github.io/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/event/</loc>
+    <loc>http://asgard-ari.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/dates/2026-01-28-navonil-saha/</loc>
+    <loc>http://asgard-ari.github.io/dates/2026-01-28-navonil-saha/</loc>
     <lastmod>2026-01-28T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/dates/2026-01-21-natalia-lahen/</loc>
+    <loc>http://asgard-ari.github.io/dates/2026-01-21-natalia-lahen/</loc>
     <lastmod>2026-01-21T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/dates/2026-01-14-lise-ramambason/</loc>
+    <loc>http://asgard-ari.github.io/dates/2026-01-14-lise-ramambason/</loc>
     <lastmod>2026-01-14T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/dates/2025-12-17-caroline-chris-byrohl/</loc>
+    <loc>http://asgard-ari.github.io/dates/2025-12-17-caroline-chris-byrohl/</loc>
     <lastmod>2025-12-17T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/dates/2025-12-10-philipp-girichidis-fernando-max/</loc>
+    <loc>http://asgard-ari.github.io/dates/2025-12-10-philipp-girichidis-fernando-max/</loc>
     <lastmod>2025-12-10T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/dates/2025-12-03-jonathan-stern/</loc>
+    <loc>http://asgard-ari.github.io/dates/2025-12-03-jonathan-stern/</loc>
     <lastmod>2025-12-03T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/dates/2025-11-26-andreas-sander-rafael-benedikt/</loc>
+    <loc>http://asgard-ari.github.io/dates/2025-11-26-andreas-sander-rafael-benedikt/</loc>
     <lastmod>2025-11-26T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>http://asgard-ari.github.io/post/</loc>
     <lastmod>2025-11-25T12:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/2025-11-25-site-online/</loc>
+    <loc>http://asgard-ari.github.io/post/2025-11-25-site-online/</loc>
     <lastmod>2025-11-25T12:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/2025-11-21-hosted-renowned-guests/</loc>
+    <loc>http://asgard-ari.github.io/post/2025-11-21-hosted-renowned-guests/</loc>
     <lastmod>2025-11-21T12:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/dates/2025-11-19-hitesh-seok-jun-sunmyon/</loc>
+    <loc>http://asgard-ari.github.io/dates/2025-11-19-hitesh-seok-jun-sunmyon/</loc>
     <lastmod>2025-11-19T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication-type/article-journal/</loc>
+    <loc>http://asgard-ari.github.io/publication-type/article-journal/</loc>
     <lastmod>2025-11-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/authors/</loc>
+    <loc>http://asgard-ari.github.io/authors/</loc>
     <lastmod>2025-11-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/max-gronke/</loc>
+    <loc>http://asgard-ari.github.io/author/benedikt-seidl/</loc>
     <lastmod>2025-11-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/preprint/2025-11-14-multi-cloud-crushing-the-collective-survival-of-cold-clouds-in-galactic-outflows/</loc>
+    <loc>http://asgard-ari.github.io/author/max-gronke/</loc>
     <lastmod>2025-11-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication-type/preprint/</loc>
+    <loc>http://asgard-ari.github.io/publication/preprint/2025-11-14-multi-cloud-crushing-the-collective-survival-of-cold-clouds-in-galactic-outflows/</loc>
     <lastmod>2025-11-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication_types/</loc>
+    <loc>http://asgard-ari.github.io/publication-type/preprint/</loc>
     <lastmod>2025-11-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/</loc>
+    <loc>http://asgard-ari.github.io/publication_types/</loc>
     <lastmod>2025-11-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-survival-of-higher-overdensity-cold-gas-in-a-turbulent-multiphase-medium/</loc>
+    <loc>http://asgard-ari.github.io/publication/</loc>
     <lastmod>2025-11-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/dates/2025-11-12-tobias-buck-fernando-etal/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-survival-of-higher-overdensity-cold-gas-in-a-turbulent-multiphase-medium/</loc>
+    <lastmod>2025-11-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/dates/2025-11-12-tobias-buck-fernando-etal/</loc>
     <lastmod>2025-11-12T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-11-ruling-out-dominant-electron-scattering-in-little-red-dots-rosetta-stone-using-multiple-hydrogen-lines/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-11-ruling-out-dominant-electron-scattering-in-little-red-dots-rosetta-stone-using-multiple-hydrogen-lines/</loc>
     <lastmod>2025-11-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/seok-jun-chang/</loc>
+    <loc>http://asgard-ari.github.io/author/seok-jun-chang/</loc>
     <lastmod>2025-11-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/dates/2025-11-10-lyman-alpha-escape/</loc>
+    <loc>http://asgard-ari.github.io/dates/2025-11-10-lyman-alpha-escape/</loc>
     <lastmod>2025-11-10T15:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/research/2025-11-10-lyman-alpha-escape/</loc>
+    <loc>http://asgard-ari.github.io/research/2025-11-10-lyman-alpha-escape/</loc>
     <lastmod>2025-11-10T15:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/dates/2025-10-29-kathryn-kreckel-oleg-egorov/</loc>
+    <loc>http://asgard-ari.github.io/dates/2025-10-29-kathryn-kreckel-oleg-egorov/</loc>
     <lastmod>2025-10-29T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/dates/2025-10-22-kai-wu-silvia/</loc>
+    <loc>http://asgard-ari.github.io/dates/2025-10-22-kai-wu-silvia/</loc>
     <lastmod>2025-10-22T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/dates/2025-10-15-fernando-alankar-seok-jun/</loc>
+    <loc>http://asgard-ari.github.io/dates/2025-10-15-fernando-alankar-seok-jun/</loc>
     <lastmod>2025-10-15T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/dates/2025-10-15-magneto-rt-talk/</loc>
+    <loc>http://asgard-ari.github.io/dates/2025-10-15-magneto-rt-talk/</loc>
     <lastmod>2025-10-15T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/research/2025-10-15-magneto-rt-talk/</loc>
+    <loc>http://asgard-ari.github.io/research/2025-10-15-magneto-rt-talk/</loc>
     <lastmod>2025-10-15T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/ritali-ghosh/</loc>
+    <loc>http://asgard-ari.github.io/author/ritali-ghosh/</loc>
     <lastmod>2025-10-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/preprint/2025-10-03-woven-by-the-whirls-the-growth-and-entrainment-of-cold-clouds-in-turbulent-hot-winds/</loc>
+    <loc>http://asgard-ari.github.io/publication/preprint/2025-10-03-woven-by-the-whirls-the-growth-and-entrainment-of-cold-clouds-in-turbulent-hot-winds/</loc>
     <lastmod>2025-10-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/dates/2025-09-24-update-shotgun/</loc>
+    <loc>http://asgard-ari.github.io/dates/2025-09-24-update-shotgun/</loc>
     <lastmod>2025-09-24T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/</loc>
+    <loc>http://asgard-ari.github.io/project/</loc>
     <lastmod>2025-09-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-09-20-synergistic-radiative-transfer-modeling-of-mg-ii-and-ly-emission-in-multiphase-clumpy-galactic-environments-application-to-low-redshift-lyman-continuum-leakers/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-09-20-synergistic-radiative-transfer-modeling-of-mg-ii-and-ly-emission-in-multiphase-clumpy-galactic-environments-application-to-low-redshift-lyman-continuum-leakers/</loc>
     <lastmod>2025-09-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/dates/2025-09-17-rafael-chris-byrohl/</loc>
+    <loc>http://asgard-ari.github.io/dates/2025-09-17-rafael-chris-byrohl/</loc>
     <lastmod>2025-09-17T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/dates/2025-09-10-alankar-all/</loc>
+    <loc>http://asgard-ari.github.io/dates/2025-09-10-alankar-all/</loc>
     <lastmod>2025-09-10T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/dates/2025-09-03-hitesh-all/</loc>
+    <loc>http://asgard-ari.github.io/dates/2025-09-03-hitesh-all/</loc>
     <lastmod>2025-09-03T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/dates/2025-08-13-johannes-buchner-guang-xing-li/</loc>
+    <loc>http://asgard-ari.github.io/dates/2025-08-13-johannes-buchner-guang-xing-li/</loc>
     <lastmod>2025-08-13T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-08-07-modelling-mg-ii-resonance-doublet-spectra-from-star-forming-galaxies-at-z-1/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-08-07-modelling-mg-ii-resonance-doublet-spectra-from-star-forming-galaxies-at-z-1/</loc>
     <lastmod>2025-08-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/dates/2025-08-06-ioannis/</loc>
+    <loc>http://asgard-ari.github.io/dates/2025-08-06-ioannis/</loc>
     <lastmod>2025-08-06T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/dates/2025-07-30-ankita-pietro-vicky/</loc>
+    <loc>http://asgard-ari.github.io/dates/2025-07-30-ankita-pietro-vicky/</loc>
     <lastmod>2025-07-30T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/dates/2025-07-23-aip-recap/</loc>
+    <loc>http://asgard-ari.github.io/dates/2025-07-23-aip-recap/</loc>
     <lastmod>2025-07-23T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/silvia-almada-monter/</loc>
+    <loc>http://asgard-ari.github.io/author/silvia-almada-monter/</loc>
     <lastmod>2025-07-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/25-07-22-kippenhahn-prize/</loc>
+    <loc>http://asgard-ari.github.io/post/25-07-22-kippenhahn-prize/</loc>
     <lastmod>2025-07-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/dates/2025-07-16-rajesh-silvia/</loc>
+    <loc>http://asgard-ari.github.io/dates/2025-07-16-rajesh-silvia/</loc>
     <lastmod>2025-07-16T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/dates/2025-07-09-hitesh-vadim-semenov/</loc>
+    <loc>http://asgard-ari.github.io/dates/2025-07-09-hitesh-vadim-semenov/</loc>
     <lastmod>2025-07-09T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/dates/2025-07-02-mini-hackathon/</loc>
+    <loc>http://asgard-ari.github.io/dates/2025-07-02-mini-hackathon/</loc>
     <lastmod>2025-07-02T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/25-07-01-start-at-ari/</loc>
+    <loc>http://asgard-ari.github.io/post/25-07-01-start-at-ari/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-04-08-deciphering-spatially-resolved-lyman-alpha-profiles-in-reionization-analogs-the-sunburst-arc-at-cosmic-noon/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-04-08-deciphering-spatially-resolved-lyman-alpha-profiles-in-reionization-analogs-the-sunburst-arc-at-cosmic-noon/</loc>
     <lastmod>2025-04-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-constraining-the-geometry-of-the-gas-surrounding-a-typical-galaxy-at-z-3-4-with-ly-polarization/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-constraining-the-geometry-of-the-gas-surrounding-a-typical-galaxy-at-z-3-4-with-ly-polarization/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-02-01-high-resolution-boes-spectroscopy-of-raman-scattered-he-ii-6545-in-young-planetary-nebulae/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-02-01-high-resolution-boes-spectroscopy-of-raman-scattered-he-ii-6545-in-young-planetary-nebulae/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2024-11-01-a-model-of-the-c-iv-1548-1550-doublet-line-in-t-tauri-stars/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2024-11-01-a-model-of-the-c-iv-1548-1550-doublet-line-in-t-tauri-stars/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2024-08-07-crossing-walls-and-windows-the-curious-escape-of-lyman-photons-through-ionized-channels/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2024-08-07-crossing-walls-and-windows-the-curious-escape-of-lyman-photons-through-ionized-channels/</loc>
     <lastmod>2024-08-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2024-07-19-probing-cold-gas-with-mg-ii-and-ly-radiative-transfer/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2024-07-19-probing-cold-gas-with-mg-ii-and-ly-radiative-transfer/</loc>
     <lastmod>2024-07-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2024-06-14-beyond-radial-profiles-using-log-normal-distributions-to-model-the-multiphase-circumgalactic-medium/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2024-06-14-beyond-radial-profiles-using-log-normal-distributions-to-model-the-multiphase-circumgalactic-medium/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2024-06-05-ram-pressure-stripping-in-clusters-gravity-can-bind-the-ism-but-not-the-cgm/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2024-06-05-ram-pressure-stripping-in-clusters-gravity-can-bind-the-ism-but-not-the-cgm/</loc>
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2024-05-06-strength-in-numbers-a-multiphase-wind-model-with-multiple-cloud-populations/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2024-05-06-strength-in-numbers-a-multiphase-wind-model-with-multiple-cloud-populations/</loc>
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2024-03-18-first-detection-and-modelling-of-spatially-resolved-ly-in-tw-hya/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2024-03-18-first-detection-and-modelling-of-spatially-resolved-ly-in-tw-hya/</loc>
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2024-02-27-alpaca-a-new-semi-analytical-model-for-metal-absorption-lines-emerging-from-clumpy-galactic-environments/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2024-02-27-alpaca-a-new-semi-analytical-model-for-metal-absorption-lines-emerging-from-clumpy-galactic-environments/</loc>
     <lastmod>2024-02-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2024-01-01-a-morphokinematic-study-of-the-enigmatic-emission-nebula-ngc-6164-5-surrounding-the-magnetic-o-type-star-hd-148937/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2024-01-01-a-morphokinematic-study-of-the-enigmatic-emission-nebula-ngc-6164-5-surrounding-the-magnetic-o-type-star-hd-148937/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2024-01-01-erratum-the-circumgalactic-medium-of-extreme-emission-line-galaxies-at-z-2-resolved-spectroscopy-and-radiative-transfer-modeling-of-spatially-extended-ly-emission-in-the-kbss-kcwi-survey-2023-apj-953-/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2024-01-01-erratum-the-circumgalactic-medium-of-extreme-emission-line-galaxies-at-z-2-resolved-spectroscopy-and-radiative-transfer-modeling-of-spatially-extended-ly-emission-in-the-kbss-kcwi-survey-2023-apj-953-/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2023-10-28-better-together-the-complex-interplay-between-radiative-cooling-and-magnetic-draping/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2023-10-28-better-together-the-complex-interplay-between-radiative-cooling-and-magnetic-draping/</loc>
     <lastmod>2023-10-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2023-10-28-magnetic-fields-in-multiphase-turbulence-impact-on-dynamics-and-structure/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2023-10-28-magnetic-fields-in-multiphase-turbulence-impact-on-dynamics-and-structure/</loc>
     <lastmod>2023-10-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2023-10-01-classy-vii-ly-profiles-the-structure-and-kinematics-of-neutral-gas-and-implications-for-lyc-escape-in-reionization-era-analogs/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2023-10-01-classy-vii-ly-profiles-the-structure-and-kinematics-of-neutral-gas-and-implications-for-lyc-escape-in-reionization-era-analogs/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2023-08-21-multiphase-fragmentation-molecular-shattering/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2023-08-21-multiphase-fragmentation-molecular-shattering/</loc>
     <lastmod>2023-08-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2023-08-01-the-circumgalactic-medium-of-extreme-emission-line-galaxies-at-z-2-resolved-spectroscopy-and-radiative-transfer-modeling-of-spatially-extended-ly-emission-in-the-kbss-kcwi-survey/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2023-08-01-the-circumgalactic-medium-of-extreme-emission-line-galaxies-at-z-2-resolved-spectroscopy-and-radiative-transfer-modeling-of-spatially-extended-ly-emission-in-the-kbss-kcwi-survey/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2023-07-31-vol-55-issue-3-heliophysics-2024-decadal-whitepapers/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2023-07-31-vol-55-issue-3-heliophysics-2024-decadal-whitepapers/</loc>
     <lastmod>2023-07-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/rafael-zavala-molina/</loc>
+    <loc>http://asgard-ari.github.io/author/rafael-zavala-molina/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2023-07-13-the-effect-of-tidal-forces-on-the-jeans-instability-criterion-in-star-forming-regions/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2023-07-13-the-effect-of-tidal-forces-on-the-jeans-instability-criterion-in-star-forming-regions/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2023-07-04-cooling-driven-coagulation/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2023-07-04-cooling-driven-coagulation/</loc>
     <lastmod>2023-07-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2023-06-01-distribution-and-kinematics-of-h-i-through-raman-he-ii-spectroscopy-of-ngc-6302/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2023-06-01-distribution-and-kinematics-of-h-i-through-raman-he-ii-spectroscopy-of-ngc-6302/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2023-03-01-radiative-transfer-in-ly-nebulae-i-modeling-a-continuous-or-clumpy-spherical-halo-with-a-central-source/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2023-03-01-radiative-transfer-in-ly-nebulae-i-modeling-a-continuous-or-clumpy-spherical-halo-with-a-central-source/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2023-02-22-spectral-shapes-of-the-ly-emission-from-galaxies-ii-the-influence-of-stellar-properties-and-nebular-conditions-on-the-emergent-ly-profiles/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2023-02-22-spectral-shapes-of-the-ly-emission-from-galaxies-ii-the-influence-of-stellar-properties-and-nebular-conditions-on-the-emergent-ly-profiles/</loc>
     <lastmod>2023-02-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2023-02-07-cloudy-with-a-chance-of-rain-accretion-braking-of-cold-clouds/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2023-02-07-cloudy-with-a-chance-of-rain-accretion-braking-of-cold-clouds/</loc>
     <lastmod>2023-02-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2023-02-01-ly-scattering-models-trace-accretion-and-outflow-kinematics-in-t-tauri-systems/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2023-02-01-ly-scattering-models-trace-accretion-and-outflow-kinematics-in-t-tauri-systems/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2022-12-08-scrutiny-of-a-very-young-metal-poor-star-forming-ly-emitter-at-z-3-7/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2022-12-08-scrutiny-of-a-very-young-metal-poor-star-forming-ly-emitter-at-z-3-7/</loc>
     <lastmod>2022-12-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>http://asgard-ari.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/contact/</loc>
+    <loc>http://asgard-ari.github.io/contact/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tour/</loc>
+    <loc>http://asgard-ari.github.io/tour/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2022-08-01-ly-halos-around-o-iii-selected-galaxies-in-hetdex/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2022-08-01-ly-halos-around-o-iii-selected-galaxies-in-hetdex/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-the-cos-legacy-archive-spectroscopy-survey-classy-treasury-atlas/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-the-cos-legacy-archive-spectroscopy-survey-classy-treasury-atlas/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2022-07-01-radiative-turbulent-mixing-layers-and-the-survival-of-magellanic-debris/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2022-07-01-radiative-turbulent-mixing-layers-and-the-survival-of-magellanic-debris/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2022-07-01-tracing-ly-and-lyc-escape-in-galaxies-with-mg-ii-emission/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2022-07-01-tracing-ly-and-lyc-escape-in-galaxies-with-mg-ii-emission/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/preprint/2022-06-08-inestabilidad-de-jeans-debido-a-fuerzas-de-marea-en-regiones-de-formaci-n-estelar/</loc>
+    <loc>http://asgard-ari.github.io/publication/preprint/2022-06-08-inestabilidad-de-jeans-debido-a-fuerzas-de-marea-en-regiones-de-formaci-n-estelar/</loc>
     <lastmod>2022-06-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2022-05-24-deciphering-the-lyman-emission-line-towards-the-understanding-of-galactic-properties-extracted-from-ly-spectra-via-radiative-transfer-modelling/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2022-05-24-deciphering-the-lyman-emission-line-towards-the-understanding-of-galactic-properties-extracted-from-ly-spectra-via-radiative-transfer-modelling/</loc>
     <lastmod>2022-05-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2022-05-11-where-outflows-meet-inflows-gas-kinematics-in-ssa22-ly-blob-2-decoded-by-advanced-radiative-transfer-modelling/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2022-05-11-where-outflows-meet-inflows-gas-kinematics-in-ssa22-ly-blob-2-decoded-by-advanced-radiative-transfer-modelling/</loc>
     <lastmod>2022-05-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2022-04-19-re-solving-reionization-with-ly-how-bright-ly-emitters-account-for-the-z-2-8-cosmic-ionizing-background/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2022-04-19-re-solving-reionization-with-ly-how-bright-ly-emitters-account-for-the-z-2-8-cosmic-ionizing-background/</loc>
     <lastmod>2022-04-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2022-03-01-ly-radiative-transfer-a-stokes-vector-approach-to-ly-polarization/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2022-03-01-ly-radiative-transfer-a-stokes-vector-approach-to-ly-polarization/</loc>
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2022-02-03-survival-and-mass-growth-of-cold-gas-in-a-turbulent-multiphase-medium/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2022-02-03-survival-and-mass-growth-of-cold-gas-in-a-turbulent-multiphase-medium/</loc>
     <lastmod>2022-02-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2022-01-18-the-synchrony-of-production-and-escape-half-the-bright-ly-emitters-at-z-2-have-lyman-continuum-escape-fractions-50/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2022-01-18-the-synchrony-of-production-and-escape-half-the-bright-ly-emitters-at-z-2-have-lyman-continuum-escape-fractions-50/</loc>
     <lastmod>2022-01-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2022-01-18-zelda-fitting-lyman-alpha-line-profiles-using-deep-learning/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2022-01-18-zelda-fitting-lyman-alpha-line-profiles-using-deep-learning/</loc>
     <lastmod>2022-01-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2021-12-21-the-survival-of-multiphase-dusty-clouds-in-hot-winds/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2021-12-21-the-survival-of-multiphase-dusty-clouds-in-hot-winds/</loc>
     <lastmod>2021-12-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2021-10-20-lyman-transmission-properties-of-the-intergalactic-medium-in-the-codaii-simulation/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2021-10-20-lyman-transmission-properties-of-the-intergalactic-medium-in-the-codaii-simulation/</loc>
     <lastmod>2021-10-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2021-10-01-the-evolution-of-the-lyman-alpha-luminosity-function-during-reionization/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2021-10-01-the-evolution-of-the-lyman-alpha-luminosity-function-during-reionization/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2021-09-09-stellar-feedback-in-a-clumpy-galaxy-at-z-3-4/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2021-09-09-stellar-feedback-in-a-clumpy-galaxy-at-z-3-4/</loc>
     <lastmod>2021-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-gamma-ray-bursts-as-probes-of-high-redshift-lyman-emitters-and-radiative-transfer-models/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-gamma-ray-bursts-as-probes-of-high-redshift-lyman-emitters-and-radiative-transfer-models/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2021-07-06-erratum-radiative-mixing-layers-insights-from-turbulent-combustion/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2021-07-06-erratum-radiative-mixing-layers-insights-from-turbulent-combustion/</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2021-06-02-the-x-shooter-lyman-survey-at-z-2-xls-z2-i-what-makes-a-galaxy-a-lyman-emitter/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2021-06-02-the-x-shooter-lyman-survey-at-z-2-xls-z2-i-what-makes-a-galaxy-a-lyman-emitter/</loc>
     <lastmod>2021-06-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2021-05-01-resolved-galactic-superwinds-reconstructed-around-their-host-galaxies-at-z-gt-3/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2021-05-01-resolved-galactic-superwinds-reconstructed-around-their-host-galaxies-at-z-gt-3/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-the-source-of-leaking-ionizing-photons-from-haro11-clues-from-hst-cos-spectroscopy-of-knots-a-b-and-c/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-the-source-of-leaking-ionizing-photons-from-haro11-clues-from-hst-cos-spectroscopy-of-knots-a-b-and-c/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-three-lyman-emitting-filaments-converging-to-a-massive-galaxy-group-at-z-2-91-discussing-the-case-for-cold-gas-infall/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-three-lyman-emitting-filaments-converging-to-a-massive-galaxy-group-at-z-2-91-discussing-the-case-for-cold-gas-infall/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-the-lyman-alpha-spectral-database-lasd/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-the-lyman-alpha-spectral-database-lasd/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2021-02-17-radiative-mixing-layers-insights-from-turbulent-combustion/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2021-02-17-radiative-mixing-layers-insights-from-turbulent-combustion/</loc>
     <lastmod>2021-02-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2021-02-10-revisiting-the-gas-kinematics-in-ssa22-lyman-blob-1-with-radiative-transfer-modelling-in-a-multiphase-clumpy-medium/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2021-02-10-revisiting-the-gas-kinematics-in-ssa22-lyman-blob-1-with-radiative-transfer-modelling-in-a-multiphase-clumpy-medium/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2021-02-01-can-galaxy-evolution-mimic-cosmic-reionization/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2021-02-01-can-galaxy-evolution-mimic-cosmic-reionization/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2021-02-01-radiation-hydrodynamics-of-turbulent-h-ii-regions-in-molecular-clouds-a-physical-origin-of-lyc-leakage-and-the-associated-ly-spectra/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2021-02-01-radiation-hydrodynamics-of-turbulent-h-ii-regions-in-molecular-clouds-a-physical-origin-of-lyc-leakage-and-the-associated-ly-spectra/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2021-02-01-spectral-shapes-of-the-ly-emission-from-galaxies-i-blueshifted-emission-and-intrinsic-invariance-with-redshift/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2021-02-01-spectral-shapes-of-the-ly-emission-from-galaxies-i-blueshifted-emission-and-intrinsic-invariance-with-redshift/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-the-muse-deep-lensed-field-on-the-hubble-frontier-field-macs-j0416-star-forming-complexes-at-cosmological-distances/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-the-muse-deep-lensed-field-on-the-hubble-frontier-field-macs-j0416-star-forming-complexes-at-cosmological-distances/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2020-12-31-stars-a-3d-grid-based-monte-carlo-code-for-radiative-transfer-through-raman-and-rayleigh-scattering-with-atomic-hydrogen/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2020-12-31-stars-a-3d-grid-based-monte-carlo-code-for-radiative-transfer-through-raman-and-rayleigh-scattering-with-atomic-hydrogen/</loc>
     <lastmod>2020-12-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2020-10-14-measuring-the-properties-of-reionized-bubbles-with-resolved-ly-spectra/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2020-10-14-measuring-the-properties-of-reionized-bubbles-with-resolved-ly-spectra/</loc>
     <lastmod>2020-10-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-variations-in-shape-among-observed-lyman-spectra-due-to-intergalactic-absorption/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-variations-in-shape-among-observed-lyman-spectra-due-to-intergalactic-absorption/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-lyman-continuum-leakage-in-faint-star-forming-galaxies-at-redshift-z-3-3-5-probed-by-gamma-ray-bursts/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-lyman-continuum-leakage-in-faint-star-forming-galaxies-at-redshift-z-3-3-5-probed-by-gamma-ray-bursts/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2020-06-01-three-ly-emitting-galaxies-within-a-quasar-proximity-zone-at-z-5-8/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2020-06-01-three-ly-emitting-galaxies-within-a-quasar-proximity-zone-at-z-5-8/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2020-05-01-candidate-population-iii-stellar-complex-at-z-6-629-in-the-muse-deep-lensed-field/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2020-05-01-candidate-population-iii-stellar-complex-at-z-6-629-in-the-muse-deep-lensed-field/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2020-05-01-is-multiphase-gas-cloudy-or-misty/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2020-05-01-is-multiphase-gas-cloudy-or-misty/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2020-02-21-how-cold-gas-continuously-entrains-mass-and-momentum-from-a-hot-wind/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2020-02-21-how-cold-gas-continuously-entrains-mass-and-momentum-from-a-hot-wind/</loc>
     <lastmod>2020-02-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2020-02-21-resolved-lyman-properties-of-a-luminous-lyman-break-galaxy-in-a-large-ionized-bubble-at-z-6-53/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2020-02-21-resolved-lyman-properties-of-a-luminous-lyman-break-galaxy-in-a-large-ionized-bubble-at-z-6-53/</loc>
     <lastmod>2020-02-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/conference-paper/2020-01-01-line-formation-of-ly-in-clumpy-circumgalactic-and-intergalactic-media/</loc>
+    <loc>http://asgard-ari.github.io/publication/conference-paper/2020-01-01-line-formation-of-ly-in-clumpy-circumgalactic-and-intergalactic-media/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2020-01-01-line-formation-of-raman-scattered-he-ii-4851-in-an-expanding-spherical-h-i-shell-in-young-planetary-nebulae/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2020-01-01-line-formation-of-raman-scattered-he-ii-4851-in-an-expanding-spherical-h-i-shell-in-young-planetary-nebulae/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-slicing-the-cool-circumgalactic-medium-along-the-major-axis-of-a-star-forming-galaxy-at-z-0-7/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-slicing-the-cool-circumgalactic-medium-along-the-major-axis-of-a-star-forming-galaxy-at-z-0-7/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2019-11-08-gravitational-lensing-reveals-ionizing-ultraviolet-photons-escaping-from-a-distant-galaxy/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2019-11-08-gravitational-lensing-reveals-ionizing-ultraviolet-photons-escaping-from-a-distant-galaxy/</loc>
     <lastmod>2019-11-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-breaking-cosmic-degeneracies-disentangling-neutrinos-and-modified-gravity-with-kinematic-information/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-breaking-cosmic-degeneracies-disentangling-neutrinos-and-modified-gravity-with-kinematic-information/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/admin/</loc>
+    <loc>http://asgard-ari.github.io/author/admin/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/preprint/_example/</loc>
+    <loc>http://asgard-ari.github.io/publication/preprint/_example/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication-type/article/</loc>
+    <loc>http://asgard-ari.github.io/publication-type/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/source-themes/</loc>
+    <loc>http://asgard-ari.github.io/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>http://asgard-ari.github.io/tags/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/conference-paper/2025-11-14-near-field-cosmology-characterizing-the-properties-leading-to-radiation-leakage-in-local-low-and-intermediate-mass-galaxies/</loc>
+    <loc>http://asgard-ari.github.io/publication/conference-paper/2025-11-14-near-field-cosmology-characterizing-the-properties-leading-to-radiation-leakage-in-local-low-and-intermediate-mass-galaxies/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/conference-paper/2025-11-14-near-field-cosmology-translating-galaxy-properties-to-lyman-alpha-and-lyman-continuum-escape-fractions/</loc>
+    <loc>http://asgard-ari.github.io/publication/conference-paper/2025-11-14-near-field-cosmology-translating-galaxy-properties-to-lyman-alpha-and-lyman-continuum-escape-fractions/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-confirmation-of-double-peaked-ly-emission-at-z-6-593-witnessing-a-galaxy-directly-contributing-to-the-reionisation-of-the-universe/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-confirmation-of-double-peaked-ly-emission-at-z-6-593-witnessing-a-galaxy-directly-contributing-to-the-reionisation-of-the-universe/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-probing-modified-gravity-in-cosmic-filaments/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-probing-modified-gravity-in-cosmic-filaments/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2018-10-01-broad-wings-around-h-and-h-in-the-two-s-type-symbiotic-stars-z-andromedae-and-ag-draconis/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2018-10-01-broad-wings-around-h-and-h-in-the-two-s-type-symbiotic-stars-z-andromedae-and-ag-draconis/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-the-growth-and-entrainment-of-cold-gas-in-a-hot-wind/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-the-growth-and-entrainment-of-cold-gas-in-a-hot-wind/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-a-bright-lensed-galaxy-at-z-5-4-with-strong-ly-emission/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-a-bright-lensed-galaxy-at-z-5-4-with-strong-ly-emission/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/preprint/2025-11-14-vizier-online-data-catalog-vlt-x-shooter-spectrum-of-cola1-matthee-2018/</loc>
+    <loc>http://asgard-ari.github.io/publication/preprint/2025-11-14-vizier-online-data-catalog-vlt-x-shooter-spectrum-of-cola1-matthee-2018/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2018-07-20-the-imprint-of-cosmic-ray-driven-outflows-on-lyman-spectra/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2018-07-20-the-imprint-of-cosmic-ray-driven-outflows-on-lyman-spectra/</loc>
     <lastmod>2018-07-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/conference-paper/2025-11-14-near-field-cosmology-with-low-mass-galaxies-constraining-the-escape-of-radiation-from-the-uv-slopes-of-local-galaxies/</loc>
+    <loc>http://asgard-ari.github.io/publication/conference-paper/2025-11-14-near-field-cosmology-with-low-mass-galaxies-constraining-the-escape-of-radiation-from-the-uv-slopes-of-local-galaxies/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2018-04-01-unlocking-the-full-potential-of-extragalactic-ly-through-its-polarization-properties/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2018-04-01-unlocking-the-full-potential-of-extragalactic-ly-through-its-polarization-properties/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/preprint/2025-11-14-vizier-online-data-catalog-ly-profile-in-43-green-pea-galaxies-yang-2017/</loc>
+    <loc>http://asgard-ari.github.io/publication/preprint/2025-11-14-vizier-online-data-catalog-ly-profile-in-43-green-pea-galaxies-yang-2017/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2018-02-01-escape-of-resonantly-scattered-ly-and-h-from-hot-and-optically-thick-media/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2018-02-01-escape-of-resonantly-scattered-ly-and-h-from-hot-and-optically-thick-media/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-modelling-the-gas-kinematics-of-an-atypical-ly-emitting-compact-dwarf-galaxy/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-modelling-the-gas-kinematics-of-an-atypical-ly-emitting-compact-dwarf-galaxy/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2018-01-01-the-ly-reference-sample-viii-characterizing-ly-scattering-in-nearby-galaxies/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2018-01-01-the-ly-reference-sample-viii-characterizing-ly-scattering-in-nearby-galaxies/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-modeling-237-lyman-spectra-of-the-muse-wide-survey/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-modeling-237-lyman-spectra-of-the-muse-wide-survey/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-the-sunburst-arc-direct-lyman-escape-observed-in-the-brightest-known-lensed-galaxy/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-the-sunburst-arc-direct-lyman-escape-observed-in-the-brightest-known-lensed-galaxy/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-resonant-line-transfer-in-a-fog-using-lyman-alpha-to-probe-tiny-structures-in-atomic-gas/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-resonant-line-transfer-in-a-fog-using-lyman-alpha-to-probe-tiny-structures-in-atomic-gas/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/preprint/2025-11-14-vizier-online-data-catalog-237-lyman-alpha-spectra-of-muse-wide-survey-gronke-2017/</loc>
+    <loc>http://asgard-ari.github.io/publication/preprint/2025-11-14-vizier-online-data-catalog-237-lyman-alpha-spectra-of-muse-wide-survey-gronke-2017/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-magnifying-the-early-episodes-of-star-formation-super-star-clusters-at-cosmological-distances/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-magnifying-the-early-episodes-of-star-formation-super-star-clusters-at-cosmological-distances/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-illuminating-gas-inflows-outflows-in-the-muse-deepest-fields-ly-nebulae-around-forming-galaxies-at-z-3-3/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-illuminating-gas-inflows-outflows-in-the-muse-deepest-fields-ly-nebulae-around-forming-galaxies-at-z-3-3/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2017-02-01-giant-ly-nebulae-in-the-illustris-simulation/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2017-02-01-giant-ly-nebulae-in-the-illustris-simulation/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-muse-integral-field-spectroscopy-towards-the-frontier-fields-cluster-abell-s1063-ii-properties-of-low-luminosity-lyman-emitters-at-z-3/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-muse-integral-field-spectroscopy-towards-the-frontier-fields-cluster-abell-s1063-ii-properties-of-low-luminosity-lyman-emitters-at-z-3/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2017-02-01-polarization-of-rayleigh-scattered-ly-in-active-galactic-nuclei/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2017-02-01-polarization-of-rayleigh-scattered-ly-in-active-galactic-nuclei/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-ly-alpha-profile-dust-and-prediction-of-ly-alpha-escape-fraction-in-green-pea-galaxies/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-ly-alpha-profile-dust-and-prediction-of-ly-alpha-escape-fraction-in-green-pea-galaxies/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-studying-lyman-alpha-escape-and-reionization-in-green-pea-galaxies/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-studying-lyman-alpha-escape-and-reionization-in-green-pea-galaxies/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2016-12-20-from-mirrors-to-windows-lyman-alpha-radiative-transfer-in-a-very-clumpy-medium/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2016-12-20-from-mirrors-to-windows-lyman-alpha-radiative-transfer-in-a-very-clumpy-medium/</loc>
     <lastmod>2016-12-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2016-12-01-a-monte-carlo-study-of-flux-ratios-of-raman-scattered-o-vi-features-at-6825-and-7082-in-symbiotic-stars/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2016-12-01-a-monte-carlo-study-of-flux-ratios-of-raman-scattered-o-vi-features-at-6825-and-7082-in-symbiotic-stars/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-estimates-of-cluster-masses-in-screened-modified-gravity/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-estimates-of-cluster-masses-in-screened-modified-gravity/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-the-ly-lyc-connection-evidence-for-an-enhanced-contribution-of-uv-faint-galaxies-to-cosmic-reionization/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-the-ly-lyc-connection-evidence-for-an-enhanced-contribution-of-uv-faint-galaxies-to-cosmic-reionization/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/conference-paper/2016-07-01-formation-of-broad-balmer-wings-in-symbiotic-stars/</loc>
+    <loc>http://asgard-ari.github.io/publication/conference-paper/2016-07-01-formation-of-broad-balmer-wings-in-symbiotic-stars/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-lyman-spectra-from-multiphase-outflows-and-their-connection-to-shell-models/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-lyman-spectra-from-multiphase-outflows-and-their-connection-to-shell-models/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/conference-paper/2016-07-01-raman-scattered-o-vi-1032-and-he-ii-1025-and-bipolar-outflow-in-the-symbiotic-star-v455-sco/</loc>
+    <loc>http://asgard-ari.github.io/publication/conference-paper/2016-07-01-raman-scattered-o-vi-1032-and-he-ii-1025-and-bipolar-outflow-in-the-symbiotic-star-v455-sco/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-ly-signatures-from-direct-collapse-black-holes/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-ly-signatures-from-direct-collapse-black-holes/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-discovery-of-an-exceptionally-bright-giant-arc-at-z-2-369-gravitationally-lensed-by-the-planck-cluster-psz1-g311-65-18-48/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-discovery-of-an-exceptionally-bright-giant-arc-at-z-2-369-gravitationally-lensed-by-the-planck-cluster-psz1-g311-65-18-48/</loc>
     <lastmod>2016-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-green-pea-galaxies-reveal-secrets-of-ly-escape/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-green-pea-galaxies-reveal-secrets-of-ly-escape/</loc>
     <lastmod>2016-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-high-resolution-spectroscopy-of-a-young-low-metallicity-optically-thin-l-0-02l-star-forming-galaxy-at-z-3-12/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-high-resolution-spectroscopy-of-a-young-low-metallicity-optically-thin-l-0-02l-star-forming-galaxy-at-z-3-12/</loc>
     <lastmod>2016-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-ly-alpha-spectra-from-multiphase-outflows-and-their-connection-to-shell-models/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-ly-alpha-spectra-from-multiphase-outflows-and-their-connection-to-shell-models/</loc>
     <lastmod>2016-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-blue-wings-and-bumps-via-fermi-like-acceleration-of-ly-photons-across-shocks/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-blue-wings-and-bumps-via-fermi-like-acceleration-of-ly-photons-across-shocks/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2015-12-01-formation-of-raman-scattering-wings-around-h-alpha-h-beta-and-pa-alpha-in-active-galactic-nuclei/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2015-12-01-formation-of-raman-scattering-wings-around-h-alpha-h-beta-and-pa-alpha-in-active-galactic-nuclei/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-universal-predictions-of-screened-modified-gravity-on-cluster-scales/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-universal-predictions-of-screened-modified-gravity-on-cluster-scales/</loc>
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-a-systematic-study-of-lyman-transfer-through-outflowing-shells-model-parameter-estimation/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-a-systematic-study-of-lyman-transfer-through-outflowing-shells-model-parameter-estimation/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/_example/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/_example/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/robert-ford/</loc>
+    <loc>http://asgard-ari.github.io/author/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/conference-paper/2015-08-01-raman-o-vi-spectroscopy-of-accretion-flows-in-the-s-type-symbiotic-star-v455-sco/</loc>
+    <loc>http://asgard-ari.github.io/publication/conference-paper/2015-08-01-raman-o-vi-spectroscopy-of-accretion-flows-in-the-s-type-symbiotic-star-v455-sco/</loc>
     <lastmod>2015-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-connecting-faint-end-slopes-of-the-lyman-emitter-and-lyman-break-galaxy-luminosity-functions/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-connecting-faint-end-slopes-of-the-lyman-emitter-and-lyman-break-galaxy-luminosity-functions/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-halo-velocity-profiles-in-screened-modified-gravity-theories/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-halo-velocity-profiles-in-screened-modified-gravity-theories/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-directional-ly-equivalent-boosting-i-spherically-symmetric-distributions-of-clumps/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-directional-ly-equivalent-boosting-i-spherically-symmetric-distributions-of-clumps/</loc>
     <lastmod>2014-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/2025-11-14-gravitational-redshift-profiles-in-the-f-r-and-symmetron-models/</loc>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2025-11-14-gravitational-redshift-profiles-in-the-f-r-and-symmetron-models/</loc>
     <lastmod>2014-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/conference-paper/_example/</loc>
+    <loc>http://asgard-ari.github.io/publication/conference-paper/_example/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication-type/paper-conference/</loc>
+    <loc>http://asgard-ari.github.io/publication-type/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/admin/</loc>
+    <loc>http://asgard-ari.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/dates/readme/</loc>
+    <loc>http://asgard-ari.github.io/dates/readme/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/people/</loc>
+    <loc>http://asgard-ari.github.io/people/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>http://asgard-ari.github.io/about/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/benedikt-seidl/</loc>
+    <loc>http://asgard-ari.github.io/author/caitlin-doughty/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/caitlin-doughty/</loc>
+    <loc>http://asgard-ari.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>http://asgard-ari.github.io/tag/cgm/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/cgm/</loc>
+    <loc>http://asgard-ari.github.io/project/cc-extend/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/cc-extend/</loc>
+    <loc>http://asgard-ari.github.io/tag/cosmological-simulations/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/cosmological-simulations/</loc>
+    <loc>http://asgard-ari.github.io/tag/data-analysis/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/data-analysis/</loc>
+    <loc>http://asgard-ari.github.io/tag/epoch-of-reionization/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/epoch-of-reionization/</loc>
+    <loc>http://asgard-ari.github.io/author/fernando-hidalgo-pineda/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/fernando-hidalgo-pineda/</loc>
+    <loc>http://asgard-ari.github.io/author/former-members/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/former-members/</loc>
+    <loc>http://asgard-ari.github.io/author/gitanjali-gitanjali/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/gitanjali-gitanjali/</loc>
+    <loc>http://asgard-ari.github.io/home/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/home/</loc>
+    <loc>http://asgard-ari.github.io/tag/hpc/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/hpc/</loc>
+    <loc>http://asgard-ari.github.io/tag/icm/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/icm/</loc>
+    <loc>http://asgard-ari.github.io/tag/ism/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/ism/</loc>
+    <loc>http://asgard-ari.github.io/tag/lya/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/lya/</loc>
+    <loc>http://asgard-ari.github.io/project/lyalyc/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/lyalyc/</loc>
+    <loc>http://asgard-ari.github.io/project/lya-pumping/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/lya-pumping/</loc>
+    <loc>http://asgard-ari.github.io/tag/mhd/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/mhd/</loc>
+    <loc>http://asgard-ari.github.io/project/g2-cloud/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/g2-cloud/</loc>
+    <loc>http://asgard-ari.github.io/tag/multiphase-gas/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/multiphase-gas/</loc>
+    <loc>http://asgard-ari.github.io/tag/observations/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/observations/</loc>
+    <loc>http://asgard-ari.github.io/author/ole-wittig/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/cc-radiation-pressure/</loc>
+    <loc>http://asgard-ari.github.io/project/cc-radiation-pressure/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/radiative-transfer/</loc>
+    <loc>http://asgard-ari.github.io/tag/radiative-transfer/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/seok-jun-chang/</loc>
+    <loc>http://asgard-ari.github.io/author/seok-jun-chang/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/cold-streams-lss/</loc>
+    <loc>http://asgard-ari.github.io/project/cold-streams-lss/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/stacking/</loc>
+    <loc>http://asgard-ari.github.io/project/stacking/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/ti-stratified/</loc>
+    <loc>http://asgard-ari.github.io/project/ti-stratified/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/ti-turb/</loc>
+    <loc>http://asgard-ari.github.io/project/ti-turb/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/turbulence/</loc>
+    <loc>http://asgard-ari.github.io/tag/turbulence/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

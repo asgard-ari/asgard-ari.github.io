@@ -2,197 +2,165 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seok-Jun-Chang | ASGARD Group</title>
-    <link>https://example.com/author/seok-jun-chang/</link>
-      <atom:link href="https://example.com/author/seok-jun-chang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://asgard-ari.github.io/author/seok-jun-chang/</link>
+      <atom:link href="http://asgard-ari.github.io/author/seok-jun-chang/index.xml" rel="self" type="application/rss+xml" />
     <description>Seok-Jun-Chang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_be15dbaf67d618b8.png</url>
+      <url>http://asgard-ari.github.io/media/icon_hu_be15dbaf67d618b8.png</url>
       <title>Seok-Jun-Chang</title>
-      <link>https://example.com/author/seok-jun-chang/</link>
+      <link>http://asgard-ari.github.io/author/seok-jun-chang/</link>
     </image>
     
     <item>
       <title>Ruling out dominant electron scattering in Little Red Dots’ Rosetta Stone using multiple hydrogen lines</title>
-      <link>https://example.com/publication/journal-article/2025-11-11-ruling-out-dominant-electron-scattering-in-little-red-dots-rosetta-stone-using-multiple-hydrogen-lines/</link>
+      <link>http://asgard-ari.github.io/publication/journal-article/2025-11-11-ruling-out-dominant-electron-scattering-in-little-red-dots-rosetta-stone-using-multiple-hydrogen-lines/</link>
       <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/2025-11-11-ruling-out-dominant-electron-scattering-in-little-red-dots-rosetta-stone-using-multiple-hydrogen-lines/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modelling Mg ii resonance doublet spectra from star-forming galaxies at z ∼ 1</title>
-      <link>https://example.com/publication/journal-article/2025-08-07-modelling-mg-ii-resonance-doublet-spectra-from-star-forming-galaxies-at-z-1/</link>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/2025-08-07-modelling-mg-ii-resonance-doublet-spectra-from-star-forming-galaxies-at-z-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Constraining the geometry of the gas surrounding a typical galaxy at z = 3.4 with Lyα polarization</title>
-      <link>https://example.com/publication/journal-article/2025-11-14-constraining-the-geometry-of-the-gas-surrounding-a-typical-galaxy-at-z-3-4-with-ly-polarization/</link>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/2025-11-14-constraining-the-geometry-of-the-gas-surrounding-a-typical-galaxy-at-z-3-4-with-ly-polarization/</guid>
+      <guid>http://asgard-ari.github.io/publication/journal-article/2025-11-11-ruling-out-dominant-electron-scattering-in-little-red-dots-rosetta-stone-using-multiple-hydrogen-lines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-resolution BOES Spectroscopy of Raman-scattered He ii λ6545 in Young Planetary Nebulae</title>
-      <link>https://example.com/publication/journal-article/2025-02-01-high-resolution-boes-spectroscopy-of-raman-scattered-he-ii-6545-in-young-planetary-nebulae/</link>
+      <link>http://asgard-ari.github.io/publication/journal-article/2025-02-01-high-resolution-boes-spectroscopy-of-raman-scattered-he-ii-6545-in-young-planetary-nebulae/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/2025-02-01-high-resolution-boes-spectroscopy-of-raman-scattered-he-ii-6545-in-young-planetary-nebulae/</guid>
+      <guid>http://asgard-ari.github.io/publication/journal-article/2025-02-01-high-resolution-boes-spectroscopy-of-raman-scattered-he-ii-6545-in-young-planetary-nebulae/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Model of the C iv λ λ1548, 1550 Doublet Line in T Tauri Stars</title>
-      <link>https://example.com/publication/journal-article/2024-11-01-a-model-of-the-c-iv-1548-1550-doublet-line-in-t-tauri-stars/</link>
+      <link>http://asgard-ari.github.io/publication/journal-article/2024-11-01-a-model-of-the-c-iv-1548-1550-doublet-line-in-t-tauri-stars/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/2024-11-01-a-model-of-the-c-iv-1548-1550-doublet-line-in-t-tauri-stars/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Probing cold gas with Mg ii and Ly α radiative transfer</title>
-      <link>https://example.com/publication/journal-article/2024-07-19-probing-cold-gas-with-mg-ii-and-ly-radiative-transfer/</link>
-      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/2024-07-19-probing-cold-gas-with-mg-ii-and-ly-radiative-transfer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>First detection and modelling of spatially resolved Lyα in TW Hya</title>
-      <link>https://example.com/publication/journal-article/2024-03-18-first-detection-and-modelling-of-spatially-resolved-ly-in-tw-hya/</link>
-      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/2024-03-18-first-detection-and-modelling-of-spatially-resolved-ly-in-tw-hya/</guid>
+      <guid>http://asgard-ari.github.io/publication/journal-article/2024-11-01-a-model-of-the-c-iv-1548-1550-doublet-line-in-t-tauri-stars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Morphokinematic Study of the Enigmatic Emission Nebula NGC 6164/5 Surrounding the Magnetic O-type Star HD 148937</title>
-      <link>https://example.com/publication/journal-article/2024-01-01-a-morphokinematic-study-of-the-enigmatic-emission-nebula-ngc-6164-5-surrounding-the-magnetic-o-type-star-hd-148937/</link>
+      <link>http://asgard-ari.github.io/publication/journal-article/2024-01-01-a-morphokinematic-study-of-the-enigmatic-emission-nebula-ngc-6164-5-surrounding-the-magnetic-o-type-star-hd-148937/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/2024-01-01-a-morphokinematic-study-of-the-enigmatic-emission-nebula-ngc-6164-5-surrounding-the-magnetic-o-type-star-hd-148937/</guid>
+      <guid>http://asgard-ari.github.io/publication/journal-article/2024-01-01-a-morphokinematic-study-of-the-enigmatic-emission-nebula-ngc-6164-5-surrounding-the-magnetic-o-type-star-hd-148937/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distribution and Kinematics of H i through Raman He ii Spectroscopy of NGC 6302</title>
-      <link>https://example.com/publication/journal-article/2023-06-01-distribution-and-kinematics-of-h-i-through-raman-he-ii-spectroscopy-of-ngc-6302/</link>
+      <link>http://asgard-ari.github.io/publication/journal-article/2023-06-01-distribution-and-kinematics-of-h-i-through-raman-he-ii-spectroscopy-of-ngc-6302/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/2023-06-01-distribution-and-kinematics-of-h-i-through-raman-he-ii-spectroscopy-of-ngc-6302/</guid>
+      <guid>http://asgard-ari.github.io/publication/journal-article/2023-06-01-distribution-and-kinematics-of-h-i-through-raman-he-ii-spectroscopy-of-ngc-6302/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Radiative Transfer in Lyα Nebulae. I. Modeling a Continuous or Clumpy Spherical Halo with a Central Source</title>
-      <link>https://example.com/publication/journal-article/2023-03-01-radiative-transfer-in-ly-nebulae-i-modeling-a-continuous-or-clumpy-spherical-halo-with-a-central-source/</link>
+      <link>http://asgard-ari.github.io/publication/journal-article/2023-03-01-radiative-transfer-in-ly-nebulae-i-modeling-a-continuous-or-clumpy-spherical-halo-with-a-central-source/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/2023-03-01-radiative-transfer-in-ly-nebulae-i-modeling-a-continuous-or-clumpy-spherical-halo-with-a-central-source/</guid>
+      <guid>http://asgard-ari.github.io/publication/journal-article/2023-03-01-radiative-transfer-in-ly-nebulae-i-modeling-a-continuous-or-clumpy-spherical-halo-with-a-central-source/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lyα Scattering Models Trace Accretion and Outflow Kinematics in T Tauri Systems*</title>
-      <link>https://example.com/publication/journal-article/2023-02-01-ly-scattering-models-trace-accretion-and-outflow-kinematics-in-t-tauri-systems/</link>
+      <link>http://asgard-ari.github.io/publication/journal-article/2023-02-01-ly-scattering-models-trace-accretion-and-outflow-kinematics-in-t-tauri-systems/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/2023-02-01-ly-scattering-models-trace-accretion-and-outflow-kinematics-in-t-tauri-systems/</guid>
+      <guid>http://asgard-ari.github.io/publication/journal-article/2023-02-01-ly-scattering-models-trace-accretion-and-outflow-kinematics-in-t-tauri-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lyα Radiative Transfer: A Stokes Vector Approach to Lyα Polarization</title>
-      <link>https://example.com/publication/journal-article/2022-03-01-ly-radiative-transfer-a-stokes-vector-approach-to-ly-polarization/</link>
+      <link>http://asgard-ari.github.io/publication/journal-article/2022-03-01-ly-radiative-transfer-a-stokes-vector-approach-to-ly-polarization/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/2022-03-01-ly-radiative-transfer-a-stokes-vector-approach-to-ly-polarization/</guid>
+      <guid>http://asgard-ari.github.io/publication/journal-article/2022-03-01-ly-radiative-transfer-a-stokes-vector-approach-to-ly-polarization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>STARS: A 3D GRID-BASED MONTE CARLO CODE FOR RADIATIVE TRANSFER THROUGH RAMAN AND RAYLEIGH SCATTERING WITH ATOMIC HYDROGEN</title>
-      <link>https://example.com/publication/journal-article/2020-12-31-stars-a-3d-grid-based-monte-carlo-code-for-radiative-transfer-through-raman-and-rayleigh-scattering-with-atomic-hydrogen/</link>
+      <link>http://asgard-ari.github.io/publication/journal-article/2020-12-31-stars-a-3d-grid-based-monte-carlo-code-for-radiative-transfer-through-raman-and-rayleigh-scattering-with-atomic-hydrogen/</link>
       <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/2020-12-31-stars-a-3d-grid-based-monte-carlo-code-for-radiative-transfer-through-raman-and-rayleigh-scattering-with-atomic-hydrogen/</guid>
+      <guid>http://asgard-ari.github.io/publication/journal-article/2020-12-31-stars-a-3d-grid-based-monte-carlo-code-for-radiative-transfer-through-raman-and-rayleigh-scattering-with-atomic-hydrogen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Line Formation of Lyα in Clumpy Circumgalactic and Intergalactic Media</title>
-      <link>https://example.com/publication/conference-paper/2020-01-01-line-formation-of-ly-in-clumpy-circumgalactic-and-intergalactic-media/</link>
+      <link>http://asgard-ari.github.io/publication/conference-paper/2020-01-01-line-formation-of-ly-in-clumpy-circumgalactic-and-intergalactic-media/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/2020-01-01-line-formation-of-ly-in-clumpy-circumgalactic-and-intergalactic-media/</guid>
+      <guid>http://asgard-ari.github.io/publication/conference-paper/2020-01-01-line-formation-of-ly-in-clumpy-circumgalactic-and-intergalactic-media/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Line Formation of Raman-scattered He ii λ 4851 in an Expanding Spherical H i Shell in Young Planetary Nebulae</title>
-      <link>https://example.com/publication/journal-article/2020-01-01-line-formation-of-raman-scattered-he-ii-4851-in-an-expanding-spherical-h-i-shell-in-young-planetary-nebulae/</link>
+      <link>http://asgard-ari.github.io/publication/journal-article/2020-01-01-line-formation-of-raman-scattered-he-ii-4851-in-an-expanding-spherical-h-i-shell-in-young-planetary-nebulae/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/2020-01-01-line-formation-of-raman-scattered-he-ii-4851-in-an-expanding-spherical-h-i-shell-in-young-planetary-nebulae/</guid>
+      <guid>http://asgard-ari.github.io/publication/journal-article/2020-01-01-line-formation-of-raman-scattered-he-ii-4851-in-an-expanding-spherical-h-i-shell-in-young-planetary-nebulae/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Broad Wings around Hα and Hβ in the Two S-type Symbiotic Stars Z Andromedae and AG Draconis</title>
-      <link>https://example.com/publication/journal-article/2018-10-01-broad-wings-around-h-and-h-in-the-two-s-type-symbiotic-stars-z-andromedae-and-ag-draconis/</link>
+      <link>http://asgard-ari.github.io/publication/journal-article/2018-10-01-broad-wings-around-h-and-h-in-the-two-s-type-symbiotic-stars-z-andromedae-and-ag-draconis/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/2018-10-01-broad-wings-around-h-and-h-in-the-two-s-type-symbiotic-stars-z-andromedae-and-ag-draconis/</guid>
+      <guid>http://asgard-ari.github.io/publication/journal-article/2018-10-01-broad-wings-around-h-and-h-in-the-two-s-type-symbiotic-stars-z-andromedae-and-ag-draconis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Escape of Resonantly Scattered Lyβ and Hα from Hot and Optically Thick Media</title>
-      <link>https://example.com/publication/journal-article/2018-02-01-escape-of-resonantly-scattered-ly-and-h-from-hot-and-optically-thick-media/</link>
+      <link>http://asgard-ari.github.io/publication/journal-article/2018-02-01-escape-of-resonantly-scattered-ly-and-h-from-hot-and-optically-thick-media/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/2018-02-01-escape-of-resonantly-scattered-ly-and-h-from-hot-and-optically-thick-media/</guid>
+      <guid>http://asgard-ari.github.io/publication/journal-article/2018-02-01-escape-of-resonantly-scattered-ly-and-h-from-hot-and-optically-thick-media/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Polarization of Rayleigh scattered Lyα in active galactic nuclei</title>
-      <link>https://example.com/publication/journal-article/2017-02-01-polarization-of-rayleigh-scattered-ly-in-active-galactic-nuclei/</link>
+      <link>http://asgard-ari.github.io/publication/journal-article/2017-02-01-polarization-of-rayleigh-scattered-ly-in-active-galactic-nuclei/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/2017-02-01-polarization-of-rayleigh-scattered-ly-in-active-galactic-nuclei/</guid>
+      <guid>http://asgard-ari.github.io/publication/journal-article/2017-02-01-polarization-of-rayleigh-scattered-ly-in-active-galactic-nuclei/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Monte Carlo Study of Flux Ratios of Raman Scattered O VI Features at 6825 and 7082 Å in Symbiotic Stars</title>
-      <link>https://example.com/publication/journal-article/2016-12-01-a-monte-carlo-study-of-flux-ratios-of-raman-scattered-o-vi-features-at-6825-and-7082-in-symbiotic-stars/</link>
+      <link>http://asgard-ari.github.io/publication/journal-article/2016-12-01-a-monte-carlo-study-of-flux-ratios-of-raman-scattered-o-vi-features-at-6825-and-7082-in-symbiotic-stars/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/2016-12-01-a-monte-carlo-study-of-flux-ratios-of-raman-scattered-o-vi-features-at-6825-and-7082-in-symbiotic-stars/</guid>
+      <guid>http://asgard-ari.github.io/publication/journal-article/2016-12-01-a-monte-carlo-study-of-flux-ratios-of-raman-scattered-o-vi-features-at-6825-and-7082-in-symbiotic-stars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Formation of broad Balmer wings in symbiotic stars</title>
-      <link>https://example.com/publication/conference-paper/2016-07-01-formation-of-broad-balmer-wings-in-symbiotic-stars/</link>
+      <link>http://asgard-ari.github.io/publication/conference-paper/2016-07-01-formation-of-broad-balmer-wings-in-symbiotic-stars/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/2016-07-01-formation-of-broad-balmer-wings-in-symbiotic-stars/</guid>
+      <guid>http://asgard-ari.github.io/publication/conference-paper/2016-07-01-formation-of-broad-balmer-wings-in-symbiotic-stars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Raman-scattered O VI λ1032 and He II λ1025 and Bipolar Outflow in the Symbiotic Star V455 Sco</title>
-      <link>https://example.com/publication/conference-paper/2016-07-01-raman-scattered-o-vi-1032-and-he-ii-1025-and-bipolar-outflow-in-the-symbiotic-star-v455-sco/</link>
+      <link>http://asgard-ari.github.io/publication/conference-paper/2016-07-01-raman-scattered-o-vi-1032-and-he-ii-1025-and-bipolar-outflow-in-the-symbiotic-star-v455-sco/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/2016-07-01-raman-scattered-o-vi-1032-and-he-ii-1025-and-bipolar-outflow-in-the-symbiotic-star-v455-sco/</guid>
+      <guid>http://asgard-ari.github.io/publication/conference-paper/2016-07-01-raman-scattered-o-vi-1032-and-he-ii-1025-and-bipolar-outflow-in-the-symbiotic-star-v455-sco/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Formation of Raman Scattering Wings around H alpha, H beta, and Pa alpha in Active Galactic Nuclei</title>
-      <link>https://example.com/publication/journal-article/2015-12-01-formation-of-raman-scattering-wings-around-h-alpha-h-beta-and-pa-alpha-in-active-galactic-nuclei/</link>
+      <link>http://asgard-ari.github.io/publication/journal-article/2015-12-01-formation-of-raman-scattering-wings-around-h-alpha-h-beta-and-pa-alpha-in-active-galactic-nuclei/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/2015-12-01-formation-of-raman-scattering-wings-around-h-alpha-h-beta-and-pa-alpha-in-active-galactic-nuclei/</guid>
+      <guid>http://asgard-ari.github.io/publication/journal-article/2015-12-01-formation-of-raman-scattering-wings-around-h-alpha-h-beta-and-pa-alpha-in-active-galactic-nuclei/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Raman O VI Spectroscopy of Accretion Flows in the S-type Symbiotic Star V455 Sco</title>
-      <link>https://example.com/publication/conference-paper/2015-08-01-raman-o-vi-spectroscopy-of-accretion-flows-in-the-s-type-symbiotic-star-v455-sco/</link>
+      <link>http://asgard-ari.github.io/publication/conference-paper/2015-08-01-raman-o-vi-spectroscopy-of-accretion-flows-in-the-s-type-symbiotic-star-v455-sco/</link>
       <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/2015-08-01-raman-o-vi-spectroscopy-of-accretion-flows-in-the-s-type-symbiotic-star-v455-sco/</guid>
+      <guid>http://asgard-ari.github.io/publication/conference-paper/2015-08-01-raman-o-vi-spectroscopy-of-accretion-flows-in-the-s-type-symbiotic-star-v455-sco/</guid>
       <description></description>
     </item>
     
