@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meetings | ASGARD Group</title>
+    <link>http://asgard-ari.github.io/tag/meetings/</link>
+      <atom:link href="http://asgard-ari.github.io/tag/meetings/index.xml" rel="self" type="application/rss+xml" />
+    <description>Meetings</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Feb 2026 14:00:00 +0100</lastBuildDate>
+    <image>
+      <url>http://asgard-ari.github.io/media/icon_hu_be15dbaf67d618b8.png</url>
+      <title>Meetings</title>
+      <link>http://asgard-ari.github.io/tag/meetings/</link>
+    </image>
+    
+    <item>
+      <title>Numerical/Theoretical Journal Club started!</title>
+      <link>http://asgard-ari.github.io/post/2026-02-09-numerical-theoretical-journal-club/</link>
+      <pubDate>Mon, 09 Feb 2026 14:00:00 +0100</pubDate>
+      <guid>http://asgard-ari.github.io/post/2026-02-09-numerical-theoretical-journal-club/</guid>
+      <description>&lt;p&gt;We have started a weekly Numerical/Theoretical Journal Club, organized by Caitlin Doughty and Fernando Hidalgo-Pineda. The club meets every Monday, 14:00–14:30 in the library lounge of ARI. Sessions are informal; everyone is welcome.&lt;/p&gt;
+&lt;p&gt;To be added to the mailing list, for questions or to suggest papers, contact the organizers.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

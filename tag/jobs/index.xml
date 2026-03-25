@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jobs | ASGARD Group</title>
+    <link>http://asgard-ari.github.io/tag/jobs/</link>
+      <atom:link href="http://asgard-ari.github.io/tag/jobs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jobs</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Dec 2025 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://asgard-ari.github.io/media/icon_hu_be15dbaf67d618b8.png</url>
+      <title>Jobs</title>
+      <link>http://asgard-ari.github.io/tag/jobs/</link>
+    </image>
+    
+    <item>
+      <title>Postdoc Position Open</title>
+      <link>http://asgard-ari.github.io/post/2025-12-03-postdoc-position-open/</link>
+      <pubDate>Wed, 03 Dec 2025 09:00:00 +0000</pubDate>
+      <guid>http://asgard-ari.github.io/post/2025-12-03-postdoc-position-open/</guid>
+      <description>&lt;p&gt;A postdoctoral position in the group is open: &lt;a href=&#34;https://aas.org/jobregister/ad/5573c942&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://aas.org/jobregister/ad/5573c942&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Interested candidates should follow the AAS Job Register link for details and application instructions. Also feel free to reach out if there are any questions about the position!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

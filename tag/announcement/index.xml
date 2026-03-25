@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Announcement | ASGARD Group</title>
+    <link>http://asgard-ari.github.io/tag/announcement/</link>
+      <atom:link href="http://asgard-ari.github.io/tag/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <description>Announcement</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Feb 2026 14:00:00 +0100</lastBuildDate>
+    <image>
+      <url>http://asgard-ari.github.io/media/icon_hu_be15dbaf67d618b8.png</url>
+      <title>Announcement</title>
+      <link>http://asgard-ari.github.io/tag/announcement/</link>
+    </image>
+    
+    <item>
+      <title>Numerical/Theoretical Journal Club started!</title>
+      <link>http://asgard-ari.github.io/post/2026-02-09-numerical-theoretical-journal-club/</link>
+      <pubDate>Mon, 09 Feb 2026 14:00:00 +0100</pubDate>
+      <guid>http://asgard-ari.github.io/post/2026-02-09-numerical-theoretical-journal-club/</guid>
+      <description>&lt;p&gt;We have started a weekly Numerical/Theoretical Journal Club, organized by Caitlin Doughty and Fernando Hidalgo-Pineda. The club meets every Monday, 14:00–14:30 in the library lounge of ARI. Sessions are informal; everyone is welcome.&lt;/p&gt;
+&lt;p&gt;To be added to the mailing list, for questions or to suggest papers, contact the organizers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Postdoc Position Open</title>
+      <link>http://asgard-ari.github.io/post/2025-12-03-postdoc-position-open/</link>
+      <pubDate>Wed, 03 Dec 2025 09:00:00 +0000</pubDate>
+      <guid>http://asgard-ari.github.io/post/2025-12-03-postdoc-position-open/</guid>
+      <description>&lt;p&gt;A postdoctoral position in the group is open: &lt;a href=&#34;https://aas.org/jobregister/ad/5573c942&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://aas.org/jobregister/ad/5573c942&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Interested candidates should follow the AAS Job Register link for details and application instructions. Also feel free to reach out if there are any questions about the position!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

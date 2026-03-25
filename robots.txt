@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://asgard-ari.github.io/sitemap.xml

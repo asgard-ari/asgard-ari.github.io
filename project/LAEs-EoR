@@ -1,0 +1,7 @@
+---
+title: "Lyman-alpha emitters as a probe of the Epoch of Reionization"
+summary: "This project explores how intrinsic Lyα radiative-transfer effects within galaxies modulate their observability through the neutral IGM, thereby affecting how Lyα emitters trace reionization. By modeling the progress of reionization and predicting which galaxies would be detectable, the project aims to identify — with machine-learning methods — the optimal combination of observables to constrain the EoR."
+tags: ["Lya", "Epoch of Reionization", "cosmological simulations", "radiative transfer", "machine learning"]
+---
+Since Ly𝛼 is absorbed in the neutral intergalactic medium (IGM), the (non)visibility of Ly𝛼 emitters can constrain the abundances and sizes of the ionized regions (see cf. Fig. 1 and review Dijkstra, 2014). However, it is not so trivial since radiative transfer effects within the ISM can change the spectrum and make it harder or more difficult to be absorbed in the IGM. The goal of this project is to fold in this information. You would create your own models of the progress of reionization and then to calculate which Ly𝛼 emitting galaxies would be observable. The ultimate hope is to find (maybe using machine learning techniques) the optimal set of information (e.g., clustering, spectral and brightness data) to constrain the EoR.
+

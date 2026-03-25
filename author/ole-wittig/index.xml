@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ole Wittig | ASGARD Group</title>
+    <link>http://asgard-ari.github.io/author/ole-wittig/</link>
+      <atom:link href="http://asgard-ari.github.io/author/ole-wittig/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ole Wittig</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://asgard-ari.github.io/media/icon_hu_be15dbaf67d618b8.png</url>
+      <title>Ole Wittig</title>
+      <link>http://asgard-ari.github.io/author/ole-wittig/</link>
+    </image>
+    
+  </channel>
+</rss>
