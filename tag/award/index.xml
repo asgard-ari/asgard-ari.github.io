@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Award | ASGARD Group</title>
+    <link>http://asgard-ari.github.io/tag/award/</link>
+      <atom:link href="http://asgard-ari.github.io/tag/award/index.xml" rel="self" type="application/rss+xml" />
+    <description>Award</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Apr 2026 12:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://asgard-ari.github.io/media/icon_hu_be15dbaf67d618b8.png</url>
+      <title>Award</title>
+      <link>http://asgard-ari.github.io/tag/award/</link>
+    </image>
+    
+    <item>
+      <title>Fernando Hidalgo Pineda receives UMass-BW scholarship</title>
+      <link>http://asgard-ari.github.io/post/2026-04-20-fernando-umass-bw-scholarship/</link>
+      <pubDate>Mon, 20 Apr 2026 12:00:00 +0200</pubDate>
+      <guid>http://asgard-ari.github.io/post/2026-04-20-fernando-umass-bw-scholarship/</guid>
+      <description>&lt;p&gt;Fernando Hidalgo Pineda has been selected for a research stay at the University of Massachusetts Amherst in fall 2026, through the Baden-Wurttemberg-UMass coordinated by the University of Hohenheim.&lt;/p&gt;
+&lt;p&gt;He has been awarded a scholarship funded by the Ministry of Science, Research and the Arts, Baden-Wurttemberg, to support the visit. Congratulations, Fernando!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
