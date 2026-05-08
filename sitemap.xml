@@ -32,6 +32,26 @@
     <lastmod>2026-05-13T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://asgard-ari.github.io/post/</loc>
+    <lastmod>2026-05-08T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/tag/media/</loc>
+    <lastmod>2026-05-08T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/tag/news/</loc>
+    <lastmod>2026-05-08T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/tags/</loc>
+    <lastmod>2026-05-08T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/post/2026-05-08-seok-jun-work-featured-on-mpa/</loc>
+    <lastmod>2026-05-08T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://asgard-ari.github.io/dates/2026-05-06-uli-steinwandel-caitlin/</loc>
     <lastmod>2026-05-06T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -56,15 +76,7 @@
     <lastmod>2026-04-20T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://asgard-ari.github.io/post/</loc>
-    <lastmod>2026-04-20T12:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://asgard-ari.github.io/tag/scholarship/</loc>
-    <lastmod>2026-04-20T12:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://asgard-ari.github.io/tags/</loc>
     <lastmod>2026-04-20T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -222,14 +234,6 @@
   </url><url>
     <loc>http://asgard-ari.github.io/post/2025-12-03-postdoc-position-open/</loc>
     <lastmod>2025-12-03T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://asgard-ari.github.io/tag/media/</loc>
-    <lastmod>2025-12-01T10:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://asgard-ari.github.io/tag/news/</loc>
-    <lastmod>2025-12-01T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/post/2025-12-01-hitesh-work-featured-on-mpa/</loc>
