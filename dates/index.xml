@@ -5,7 +5,7 @@
     <link>http://asgard-ari.github.io/dates/</link>
       <atom:link href="http://asgard-ari.github.io/dates/index.xml" rel="self" type="application/rss+xml" />
     <description>Dates</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 May 2026 14:00:00 +0100</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jun 2026 14:00:00 +0100</lastBuildDate>
     <image>
       <url>http://asgard-ari.github.io/media/icon_hu_be15dbaf67d618b8.png</url>
       <title>Dates</title>
@@ -13,12 +13,40 @@
     </image>
     
     <item>
+      <title>Oleg Gnedin — External talk</title>
+      <link>http://asgard-ari.github.io/dates/2026-06-10-oleg-gnedin/</link>
+      <pubDate>Wed, 10 Jun 2026 14:00:00 +0100</pubDate>
+      <guid>http://asgard-ari.github.io/dates/2026-06-10-oleg-gnedin/</guid>
+      <description>&lt;p&gt;External talk by Oleg Gnedin.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AIM preparation / Hackathon</title>
+      <link>http://asgard-ari.github.io/dates/2026-06-03-aim-preparation-hackathon/</link>
+      <pubDate>Wed, 03 Jun 2026 14:00:00 +0100</pubDate>
+      <guid>http://asgard-ari.github.io/dates/2026-06-03-aim-preparation-hackathon/</guid>
+      <description>&lt;p&gt;Group session for AIM preparation/hackathon.&lt;/p&gt;
+&lt;p&gt;Special location: Weberstr. lounge.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ole Wittig project update &amp; turbulence book</title>
+      <link>http://asgard-ari.github.io/dates/2026-05-27-ole-wittig-turbulence-book/</link>
+      <pubDate>Wed, 27 May 2026 14:00:00 +0100</pubDate>
+      <guid>http://asgard-ari.github.io/dates/2026-05-27-ole-wittig-turbulence-book/</guid>
+      <description>&lt;p&gt;Project update by Ole Wittig (about 10+10) followed by a turbulence book discussion.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Lachlan Lancaster — External talk (CCA)</title>
       <link>http://asgard-ari.github.io/dates/2026-05-20-lachlan-lancaster/</link>
       <pubDate>Wed, 20 May 2026 14:00:00 +0100</pubDate>
       <guid>http://asgard-ari.github.io/dates/2026-05-20-lachlan-lancaster/</guid>
-      <description>&lt;p&gt;External seminar by Lachlan Lancaster (CCA).&lt;/p&gt;
-&lt;p&gt;Abstract and location details will be added when available.&lt;/p&gt;
+      <description>&lt;p&gt;External seminar by Lachlan Lancaster (CCA).
+Usual location: Library lounge&lt;/p&gt;
 </description>
     </item>
     
