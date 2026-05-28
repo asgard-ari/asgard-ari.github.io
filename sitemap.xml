@@ -13,7 +13,7 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/dates/</loc>
-    <lastmod>2026-06-10T14:00:00+01:00</lastmod>
+    <lastmod>2026-06-24T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/event/example/</loc>
@@ -22,6 +22,14 @@
   </url><url>
     <loc>http://asgard-ari.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/dates/2026-06-24-intro-update-round/</loc>
+    <lastmod>2026-06-24T14:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/dates/2026-06-17-group-retreat/</loc>
+    <lastmod>2026-06-17T10:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/dates/2026-06-10-oleg-gnedin/</loc>

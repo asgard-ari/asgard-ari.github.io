@@ -5,12 +5,30 @@
     <link>http://asgard-ari.github.io/dates/</link>
       <atom:link href="http://asgard-ari.github.io/dates/index.xml" rel="self" type="application/rss+xml" />
     <description>Dates</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jun 2026 14:00:00 +0100</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2026 14:00:00 +0100</lastBuildDate>
     <image>
       <url>http://asgard-ari.github.io/media/icon_hu_be15dbaf67d618b8.png</url>
       <title>Dates</title>
       <link>http://asgard-ari.github.io/dates/</link>
     </image>
+    
+    <item>
+      <title>Round of intros and research updates</title>
+      <link>http://asgard-ari.github.io/dates/2026-06-24-intro-update-round/</link>
+      <pubDate>Wed, 24 Jun 2026 14:00:00 +0100</pubDate>
+      <guid>http://asgard-ari.github.io/dates/2026-06-24-intro-update-round/</guid>
+      <description>&lt;p&gt;Everyone a ~5+3 (research project) intro / update. Please add (&amp;lt;=3!) slides to joined presentation (see Mattermost).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Group retreat</title>
+      <link>http://asgard-ari.github.io/dates/2026-06-17-group-retreat/</link>
+      <pubDate>Wed, 17 Jun 2026 10:00:00 +0100</pubDate>
+      <guid>http://asgard-ari.github.io/dates/2026-06-17-group-retreat/</guid>
+      <description>&lt;p&gt;No group meeting this week because of our mini group retreat / hike :)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Oleg Gnedin &amp; Benedikt Seidl — External talks</title>
