@@ -934,61 +934,61 @@
 
   <nav class="project-tags-wrap mb-3" aria-label="Project filters">
     <span class="default-project-filter" style="display:none">*</span>
-    <div class="project-filters btn-group" role="tablist">
+    <div class="project-multifilters btn-group" role="group" aria-label="Project tag filters">
       
-      <a class="btn btn-outline-secondary btn-sm active all" href="#" data-filter="*">All</a>
-      
-        
-        
-        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-cgm">CGM</a>
+      <a class="btn btn-outline-secondary btn-sm active all" href="#" data-filter="*" aria-pressed="true">All</a>
       
         
         
-        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-cosmological-simulations">cosmological simulations</a>
+        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-cgm" aria-pressed="false">CGM</a>
       
         
         
-        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-data-analysis">data analysis</a>
+        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-cosmological-simulations" aria-pressed="false">cosmological simulations</a>
       
         
         
-        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-epoch-of-reionization">Epoch of Reionization</a>
+        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-data-analysis" aria-pressed="false">data analysis</a>
       
         
         
-        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-hpc">HPC</a>
+        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-epoch-of-reionization" aria-pressed="false">Epoch of Reionization</a>
       
         
         
-        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-icm">ICM</a>
+        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-hpc" aria-pressed="false">HPC</a>
       
         
         
-        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-ism">ISM</a>
+        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-icm" aria-pressed="false">ICM</a>
       
         
         
-        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-lya">Lya</a>
+        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-ism" aria-pressed="false">ISM</a>
       
         
         
-        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-mhd">MHD</a>
+        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-lya" aria-pressed="false">Lya</a>
       
         
         
-        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-multiphase-gas">multiphase gas</a>
+        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-mhd" aria-pressed="false">MHD</a>
       
         
         
-        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-observations">observations</a>
+        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-multiphase-gas" aria-pressed="false">multiphase gas</a>
       
         
         
-        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-radiative-transfer">radiative transfer</a>
+        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-observations" aria-pressed="false">observations</a>
       
         
         
-        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-turbulence">turbulence</a>
+        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-radiative-transfer" aria-pressed="false">radiative transfer</a>
+      
+        
+        
+        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-turbulence" aria-pressed="false">turbulence</a>
       
     </div>
   </nav>
@@ -1007,11 +1007,60 @@
       return null;
     }
 
-    document.querySelectorAll('.project-filters a').forEach(function(btn){
-      btn.addEventListener('click', function(e){
+    function getActiveSelector(filters){
+      var activeSelectors = Array.from(filters.querySelectorAll('.project-tag.active'))
+        .map(function(activeBtn){ return activeBtn.getAttribute('data-filter'); })
+        .filter(Boolean);
+
+      return activeSelectors.length ? activeSelectors.join('') : '*';
+    }
+
+    function applyFallbackFilter(container, selector){
+      var requiredClasses = selector === '*' ? [] : (selector.match(/\.[A-Za-z0-9_-]+/g) || []);
+      var items = container.querySelectorAll('.isotope-item');
+
+      items.forEach(function(it){
+        var matches = requiredClasses.every(function(requiredClass){
+          return it.classList.contains(requiredClass.slice(1));
+        });
+
+        it.style.display = matches ? '' : 'none';
+      });
+    }
+
+    function syncPressedState(filters){
+      filters.querySelectorAll('a').forEach(function(filterBtn){
+        filterBtn.setAttribute('aria-pressed', filterBtn.classList.contains('active') ? 'true' : 'false');
+      });
+    }
+
+    document.querySelectorAll('.project-multifilters').forEach(function(filters){
+      filters.querySelectorAll('a').forEach(function(btn){
+        btn.addEventListener('click', function(e){
         e.preventDefault();
-        var selector = btn.getAttribute('data-filter') || '*';
-        var section = btn.closest('section');
+        e.stopImmediatePropagation();
+        var allBtn = filters.querySelector('.all');
+
+        if(btn.classList.contains('all')){
+          filters.querySelectorAll('.project-tag.active').forEach(function(activeBtn){
+            activeBtn.classList.remove('active');
+          });
+          btn.classList.add('active');
+        } else {
+          btn.classList.toggle('active');
+          if(allBtn){
+            allBtn.classList.remove('active');
+            allBtn.classList.add('all');
+          }
+          if(!filters.querySelector('.project-tag.active') && allBtn){
+            allBtn.classList.add('active');
+          }
+        }
+
+        syncPressedState(filters);
+
+        var selector = getActiveSelector(filters);
+        var section = filters.closest('section');
         var container = section ? section.querySelector('.projects-container, .isotope') : document.querySelector('.projects-container, .isotope');
         var iso = getIsotopeInstance(container);
         if(window && window.console && window.console.debug){ console.debug('[project-tags] click:', selector); }
@@ -1020,25 +1069,10 @@
           iso.arrange({filter: selector});
         } else if(container){
           if(window && window.console && window.console.debug){ console.debug('[project-tags] Isotope instance not found, using fallback show/hide'); }
-          
-          var items = container.querySelectorAll('.isotope-item');
-          items.forEach(function(it){
-            if(selector === '*'){
-              it.style.display = '';
-            } else if(selector.charAt(0) === '.' && it.classList.contains(selector.slice(1))){
-              it.style.display = '';
-            } else {
-              it.style.display = 'none';
-            }
-          });
+          applyFallbackFilter(container, selector);
         }
-        
-        try{
-          btn.classList.add('active');
-          var siblings = Array.from(btn.parentNode.querySelectorAll('a'));
-          siblings.forEach(function(s){ if(s !== btn){ s.classList.remove('active'); s.classList.remove('all'); }});
-        }catch(e){}
-      });
+      }, true);
+    });
     });
   })();
   </script>
