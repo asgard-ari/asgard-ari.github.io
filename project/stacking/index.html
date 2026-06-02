@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: June 1, 2026 --><html lang="en-us" >
+<!-- Last Published: June 2, 2026 --><html lang="en-us" >
 
 
 <head>
@@ -750,48 +750,229 @@
     
 
     
-<main class="container">
-  <article class="project single wc-project-card">
-    <header class="project-header">
-      <h1 class="project-title">The effect of spectral stacking on the information content</h1>
-      
-      
-        <p class="project-summary">This project investigates how stacking resonant-line spectra (e.g. Lyα, Mg II) alters their spectral shape and information content, a key question for interpreting faint circumgalactic emission. By combining radiative-transfer simulations, synthetic spectra, and a dedicated stacking and fitting pipeline, the project will systematically compare the constraints achievable from individual spectra versus stacks.</p>
-      
-      
-      
-      
-        <div class="project-meta-groups" aria-label="Project metadata">
-          
-            <p class="project-meta-line">
-              <span class="project-meta-label">Tags</span>
-              <span class="project-meta-items">
-                
-                  <span class="project-meta-pill">observations</span>
-                
-                  <span class="project-meta-pill">data analysis</span>
-                
-                  <span class="project-meta-pill">radiative transfer</span>
-                
-                  <span class="project-meta-pill">CGM</span>
-                
-              </span>
-            </p>
-          
-          
-        </div>
-      
-    </header>
 
-    <section class="project-content">
-      <p>Electromagnetic radiation is our primary window to observe galaxies and to constrain our theoretical models. In particular, resonant lines such as Lyman-alpha or MgII play a pivotal role in astrophysics as a tool to study low surface brightness region such as the circumgalactic medium. As the detection of a single object is so challenging, it is common practice to perform &ldquo;stacking&rdquo; of individual object, thus beating down the noise and enhancing the signal. However, from a theoretical perspective it is unclear what the stacking analysis does to the spectral shape or the information contained in the data.
+
+
+
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+
+
+
+<script>
+(function(){
+  if(window.asgardProjectAccess){
+    return;
+  }
+
+  var config = {"enabled":true,"privateHash":"162c60be131ad958b1fbaf7f88f57e14dac9eeb9d3366f6a7fe8bd463c909937","storageKey":"asgard-project-access","studentHash":"358899f754858ad932a4af1c6fc0b80f92875382a37417c7f00026ca51679c37"};
+  var accessRank = { public: 0, student: 1, private: 2 };
+
+  function syncRootClass(level){
+    var normalized = normalizeAccess(level);
+    var root = document.documentElement;
+
+    root.classList.remove('project-access-public', 'project-access-student', 'project-access-private');
+    root.classList.add('project-access-' + normalized);
+
+    return normalized;
+  }
+
+  function emitChange(level){
+    document.dispatchEvent(new CustomEvent('asgard-project-access-change', {
+      detail: { level: normalizeAccess(level) }
+    }));
+  }
+
+  function accessUiRequested(){
+    try {
+      var url = new URL(window.location.href);
+      return url.searchParams.get('project_access') === '1' || url.hash === '#project-access';
+    } catch (error) {
+      return false;
+    }
+  }
+
+  function normalizeAccess(level){
+    return accessRank[level] === undefined ? 'public' : level;
+  }
+
+  function getStoredAccess(){
+    if(!config.enabled){
+      return 'private';
+    }
+
+    try {
+      return normalizeAccess(window.sessionStorage.getItem(config.storageKey) || 'public');
+    } catch (error) {
+      return 'public';
+    }
+  }
+
+  function setStoredAccess(level){
+    var normalized = normalizeAccess(level);
+
+    try {
+      window.sessionStorage.setItem(config.storageKey, normalized);
+    } catch (error) { }
+
+    return normalized;
+  }
+
+  function setAccessLevel(level){
+    var normalized = setStoredAccess(level);
+    syncRootClass(normalized);
+    emitChange(normalized);
+    return normalized;
+  }
+
+  function clearStoredAccess(){
+    try {
+      window.sessionStorage.removeItem(config.storageKey);
+    } catch (error) { }
+
+    return 'public';
+  }
+
+  function resetAccess(){
+    var normalized = clearStoredAccess();
+    syncRootClass(normalized);
+    emitChange(normalized);
+    return normalized;
+  }
+
+  function canAccess(requiredLevel, currentLevel){
+    return accessRank[normalizeAccess(currentLevel)] >= accessRank[normalizeAccess(requiredLevel)];
+  }
+
+  async function sha256Hex(value){
+    var data = new TextEncoder().encode(value);
+    var digest = await window.crypto.subtle.digest('SHA-256', data);
+    return Array.from(new Uint8Array(digest)).map(function(byte){
+      return byte.toString(16).padStart(2, '0');
+    }).join('');
+  }
+
+  async function unlockWithPassword(password){
+    if(!config.enabled || !password){
+      return null;
+    }
+
+    var hash = await sha256Hex(password.trim());
+
+    if(config.privateHash && hash === config.privateHash){
+      return setAccessLevel('private');
+    }
+
+    if(config.studentHash && hash === config.studentHash){
+      return setAccessLevel('student');
+    }
+
+    return null;
+  }
+
+  syncRootClass(getStoredAccess());
+
+  window.asgardProjectAccess = {
+    config: config,
+    normalizeAccess: normalizeAccess,
+    getStoredAccess: getStoredAccess,
+    setStoredAccess: setStoredAccess,
+    setAccessLevel: setAccessLevel,
+    clearStoredAccess: clearStoredAccess,
+    resetAccess: resetAccess,
+    canAccess: canAccess,
+    unlockWithPassword: unlockWithPassword,
+    syncRootClass: syncRootClass,
+    emitChange: emitChange,
+    accessUiRequested: accessUiRequested
+  };
+})();
+</script>
+<main class="container">
+  <article class="project single wc-project-card" data-required-access="public">
+    
+
+    <div class="project-protected-content">
+      <header class="project-header">
+        <h1 class="project-title">The effect of spectral stacking on the information content</h1>
+        
+        
+          <p class="project-summary">This project investigates how stacking resonant-line spectra (e.g. Lyα, Mg II) alters their spectral shape and information content, a key question for interpreting faint circumgalactic emission. By combining radiative-transfer simulations, synthetic spectra, and a dedicated stacking and fitting pipeline, the project will systematically compare the constraints achievable from individual spectra versus stacks.</p>
+        
+        
+          <div class="project-meta-groups" aria-label="Project metadata">
+            
+              <p class="project-meta-line">
+                <span class="project-meta-label">Tags</span>
+                <span class="project-meta-items">
+                  
+                    <span class="project-meta-pill">observations</span>
+                  
+                    <span class="project-meta-pill">data analysis</span>
+                  
+                    <span class="project-meta-pill">radiative transfer</span>
+                  
+                    <span class="project-meta-pill">CGM</span>
+                  
+                </span>
+              </p>
+            
+            
+          </div>
+        
+      </header>
+
+      <section class="project-content">
+        <p>Electromagnetic radiation is our primary window to observe galaxies and to constrain our theoretical models. In particular, resonant lines such as Lyman-alpha or MgII play a pivotal role in astrophysics as a tool to study low surface brightness region such as the circumgalactic medium. As the detection of a single object is so challenging, it is common practice to perform &ldquo;stacking&rdquo; of individual object, thus beating down the noise and enhancing the signal. However, from a theoretical perspective it is unclear what the stacking analysis does to the spectral shape or the information contained in the data.
 In this project, we will systematically explore the information content of individual spectra versus stacks. To do so, you will run radiative transfer simulations and assemble individual synthetic spectra, perform a stacking analysis, and build a fitting pipeline to obtain the information contained in the stacks.</p>
 
-    </section>
+      </section>
+    </div>
   </article>
 </main>
 
 <style>
+.project-access-guard {
+  margin-bottom: 1.25rem;
+  padding: 1rem 1.05rem;
+  border: 1px solid rgba(107, 114, 128, 0.2);
+  border-radius: 0.9rem;
+  background: rgba(107, 114, 128, 0.06);
+}
+
+.project-access-copy {
+  margin: 0 0 0.75rem;
+}
+
+.project-access-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  align-items: center;
+}
+
+.project-access-input {
+  width: min(18rem, 100%);
+}
+
+.project-access-status {
+  margin: 0.7rem 0 0;
+  font-size: 0.84rem;
+  color: var(--muted-text, #6b7280);
+}
+
 .project-meta-groups {
   margin: 1rem 0 0;
 }
@@ -829,7 +1010,104 @@ In this project, we will systematically explore the information content of indiv
   color: inherit;
   background: rgba(107, 114, 128, 0.08);
 }
+
+@media (max-width: 575px) {
+  .project-access-controls {
+    align-items: stretch;
+  }
+
+  .project-access-input {
+    width: 100%;
+  }
+}
 </style>
+
+<script>
+(function(){
+  var access = window.asgardProjectAccess;
+  if(!access){
+    return;
+  }
+
+  function describeAccess(requiredLevel){
+    if(!access.config.enabled){
+      return 'Password-based project access is disabled in the site configuration.';
+    }
+
+    if(!access.config.studentHash || !access.config.privateHash){
+      return 'Set student and private password hashes in config/_default/params.yaml to enable restricted project pages.';
+    }
+
+    if(requiredLevel === 'private'){
+      return 'Private password required.';
+    }
+
+    return 'Student or private password required.';
+  }
+
+  function syncGuard(guard, overrideMessage){
+    var requiredLevel = guard.getAttribute('data-required-access') || 'public';
+    var article = guard.closest('.project');
+    var protectedContent = article ? article.querySelector('.project-protected-content') : null;
+    var status = guard.querySelector('.project-access-status');
+    var allowed = access.canAccess(requiredLevel, access.getStoredAccess());
+
+    guard.hidden = allowed;
+    if(protectedContent){
+      protectedContent.hidden = !allowed;
+    }
+    if(status){
+      status.textContent = overrideMessage || describeAccess(requiredLevel);
+    }
+  }
+
+  function bindGuard(guard){
+    var input = guard.querySelector('.project-access-input');
+    var unlockBtn = guard.querySelector('.project-access-unlock');
+    var resetBtn = guard.querySelector('.project-access-reset');
+
+    if(unlockBtn){
+      unlockBtn.addEventListener('click', async function(){
+        if(!input) return;
+
+        var result = await access.unlockWithPassword(input.value || '');
+        input.value = '';
+
+        if(result){
+          syncGuard(guard);
+        } else {
+          syncGuard(guard, 'Password not recognized.');
+        }
+      });
+    }
+
+    if(input){
+      input.addEventListener('keydown', function(event){
+        if(event.key === 'Enter' && unlockBtn){
+          event.preventDefault();
+          unlockBtn.click();
+        }
+      });
+    }
+
+    if(resetBtn){
+      resetBtn.addEventListener('click', function(){
+        access.resetAccess();
+        syncGuard(guard);
+      });
+    }
+
+    syncGuard(guard);
+  }
+
+  document.querySelectorAll('.project-access-guard').forEach(bindGuard);
+  document.addEventListener('asgard-project-access-change', function(){
+    document.querySelectorAll('.project-access-guard').forEach(function(guard){
+      syncGuard(guard);
+    });
+  });
+})();
+</script>
 
   </div>
 

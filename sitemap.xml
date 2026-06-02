@@ -964,6 +964,9 @@
     <loc>http://asgard-ari.github.io/about/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://asgard-ari.github.io/tag/agn/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://asgard-ari.github.io/author/caitlin-doughty/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -979,6 +982,9 @@
     <loc>http://asgard-ari.github.io/tag/cosmological-simulations/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://asgard-ari.github.io/project/cc-crs/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://asgard-ari.github.io/tag/data-analysis/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -991,6 +997,9 @@
     <loc>http://asgard-ari.github.io/author/gitanjali-gitanjali/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://asgard-ari.github.io/tag/hidden/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://asgard-ari.github.io/home/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1001,6 +1010,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/tag/ism/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/project/jet-ism/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/tag/lya/</loc>
@@ -1018,13 +1030,28 @@
     <loc>http://asgard-ari.github.io/project/g2-cloud/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://asgard-ari.github.io/project/lya-mw/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://asgard-ari.github.io/tag/multiphase-gas/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/tag/numerical-methods/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/tag/observations/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/author/ole-wittig/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/project/ovi-rt/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/tag/pen-paper/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/tag/private/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/project/cc-radiation-pressure/</loc>
@@ -1039,10 +1066,16 @@
     <loc>http://asgard-ari.github.io/author/seok-jun-chang/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://asgard-ari.github.io/project/turb-shattering/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://asgard-ari.github.io/project/cold-streams-lss/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/project/stacking/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/project/turbulence-amr/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/project/ti-stratified/</loc>

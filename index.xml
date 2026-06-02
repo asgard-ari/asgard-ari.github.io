@@ -2058,6 +2058,25 @@ In this project, you will run high-resolution hydrodynamical simulations across 
     </item>
     
     <item>
+      <title>CRs in CC</title>
+      <link>http://asgard-ari.github.io/project/cc-crs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://asgard-ari.github.io/project/cc-crs/</guid>
+      <description>&lt;p&gt;..&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jet-ISM interactions and radiative energy losses</title>
+      <link>http://asgard-ari.github.io/project/jet-ism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://asgard-ari.github.io/project/jet-ism/</guid>
+      <description>&lt;p&gt;Relativistic jets launched by accreting black holes can have a major impact on the gas in their host galaxies. As they propagate through the dense and highly structured interstellar medium, they inflate bubbles, drive shocks, stir turbulence, and compress or destroy cold gas clouds. However, not all of the injected jet energy necessarily couples efficiently to the galaxy: part of it may be lost through radiative cooling, while in other cases the jet may stall and deposit most of its energy locally.&lt;/p&gt;
+&lt;p&gt;In this project you will perform idealized hydrodynamical or magnetohydrodynamical simulations of a jet propagating through a multiphase ISM. The goal is to measure how the injected energy is partitioned into kinetic, thermal, magnetic, and radiated components, and to determine under which conditions the jet breaks out of the ISM or stalls inside the galaxy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Lyman-alpha as a proxy for ionizing photon escape</title>
       <link>http://asgard-ari.github.io/project/lyalyc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2087,12 +2106,40 @@ In this project you will perform hydrodynamical simulations to study the evoluti
     </item>
     
     <item>
+      <title>Montroll-Weiss formalism for Lya RT</title>
+      <link>http://asgard-ari.github.io/project/lya-mw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://asgard-ari.github.io/project/lya-mw/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OVI resonant scattering?</title>
+      <link>http://asgard-ari.github.io/project/ovi-rt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://asgard-ari.github.io/project/ovi-rt/</guid>
+      <description>&lt;p&gt;Recent observations have revealed extended halos of O VI emission around galaxies, tracing gas at temperatures of roughly a few hundred thousand Kelvin in the circumgalactic medium. However, the physical origin of this emission remains uncertain. While O VI photons may be produced locally through collisional excitation or recombination, they may also undergo resonant scattering, redistributing photons over large distances and altering the observed morphology and spectral signatures.&lt;/p&gt;
+&lt;p&gt;In this project you will develop and apply radiative transfer models for O VI emission and scattering in realistic circumgalactic gas distributions. The goal is to predict spectra, line profiles, and surface brightness distributions, and to determine whether the observed O VI halos can plausibly arise from resonant scattering or require substantial in-situ emission throughout the halo.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Radiation Pressure–Driven Acceleration and Survival of Cold Gas</title>
       <link>http://asgard-ari.github.io/project/cc-radiation-pressure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://asgard-ari.github.io/project/cc-radiation-pressure/</guid>
       <description>&lt;p&gt;Radiation pressure from young stars or AGN is often invoked as a mechanism to accelerate cold gas, yet its role in enabling — or preventing — the long-term survival of this gas remains poorly understood. Competing processes such as shear, instabilities, and radiative cooling complicate the dynamics, and current theories do not reliably predict when radiation pressure helps preserve clouds versus tearing them apart.&lt;br&gt;
 In this project, you will conduct radiation–hydrodynamic simulations to study how cold gas clouds respond to radiation pressure under a range of luminosities, optical depths, and ambient conditions. By identifying the regimes in which clouds accelerate, remain coherent, or fragment, the project will shed light on the physical pathways through which radiation pressure shapes multiphase outflows.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shattering Turbulent Multiphase Media</title>
+      <link>http://asgard-ari.github.io/project/turb-shattering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://asgard-ari.github.io/project/turb-shattering/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
@@ -2113,6 +2160,16 @@ In this project, you will use large-volume cosmological simulations to identify 
       <guid>http://asgard-ari.github.io/project/stacking/</guid>
       <description>&lt;p&gt;Electromagnetic radiation is our primary window to observe galaxies and to constrain our theoretical models. In particular, resonant lines such as Lyman-alpha or MgII play a pivotal role in astrophysics as a tool to study low surface brightness region such as the circumgalactic medium. As the detection of a single object is so challenging, it is common practice to perform &amp;ldquo;stacking&amp;rdquo; of individual object, thus beating down the noise and enhancing the signal. However, from a theoretical perspective it is unclear what the stacking analysis does to the spectral shape or the information contained in the data.
 In this project, we will systematically explore the information content of individual spectra versus stacks. To do so, you will run radiative transfer simulations and assemble individual synthetic spectra, perform a stacking analysis, and build a fitting pipeline to obtain the information contained in the stacks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The impact of adaptive mesh refinement on astrophysical turbulence</title>
+      <link>http://asgard-ari.github.io/project/turbulence-amr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://asgard-ari.github.io/project/turbulence-amr/</guid>
+      <description>&lt;p&gt;Turbulence plays a central role in many astrophysical systems, ranging from the interstellar medium and galaxy clusters to stellar atmospheres and accretion flows. Because fully resolving all relevant scales is computationally impossible, many simulations employ adaptive mesh refinement (AMR), which dynamically increases the resolution only where it is deemed necessary. While this approach greatly reduces computational cost, it may also influence the turbulent cascade and the resulting gas structure.&lt;/p&gt;
+&lt;p&gt;In this project you will perform and analyze turbulence simulations using different refinement strategies. By comparing quantities such as velocity power spectra, density distributions, turbulent dissipation rates, and mixing efficiencies, you will investigate how adaptive meshes affect the statistical properties of turbulence and identify potential biases introduced by commonly used refinement criteria.&lt;/p&gt;
 </description>
     </item>
     

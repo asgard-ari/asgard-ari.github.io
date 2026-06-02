@@ -23,6 +23,16 @@
     </item>
     
     <item>
+      <title>OVI resonant scattering?</title>
+      <link>http://asgard-ari.github.io/project/ovi-rt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://asgard-ari.github.io/project/ovi-rt/</guid>
+      <description>&lt;p&gt;Recent observations have revealed extended halos of O VI emission around galaxies, tracing gas at temperatures of roughly a few hundred thousand Kelvin in the circumgalactic medium. However, the physical origin of this emission remains uncertain. While O VI photons may be produced locally through collisional excitation or recombination, they may also undergo resonant scattering, redistributing photons over large distances and altering the observed morphology and spectral signatures.&lt;/p&gt;
+&lt;p&gt;In this project you will develop and apply radiative transfer models for O VI emission and scattering in realistic circumgalactic gas distributions. The goal is to predict spectra, line profiles, and surface brightness distributions, and to determine whether the observed O VI halos can plausibly arise from resonant scattering or require substantial in-situ emission throughout the halo.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The effect of spectral stacking on the information content</title>
       <link>http://asgard-ari.github.io/project/stacking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

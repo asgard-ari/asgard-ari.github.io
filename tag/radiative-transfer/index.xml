@@ -13,6 +13,15 @@
     </image>
     
     <item>
+      <title>CRs in CC</title>
+      <link>http://asgard-ari.github.io/project/cc-crs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://asgard-ari.github.io/project/cc-crs/</guid>
+      <description>&lt;p&gt;..&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Lyman-alpha as a proxy for ionizing photon escape</title>
       <link>http://asgard-ari.github.io/project/lyalyc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -28,6 +37,25 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://asgard-ari.github.io/project/lya-pumping/</guid>
       <description>&lt;p&gt;The next generation of telescopes such as the SKA target the 21cm spinflip transition line of neutral hydrogen to map out the Epoch of Reionization (EoR). Ly𝛼 scattering changes the state of hydrogen and thus affects the 21cm signal through the so-called Wouthuysen–Field effect. While this effect is known since a long time, models studying it are very rudimentary. This is because the range of scales (≪pc mean free path of Ly𝛼 photons to &amp;gt;Mpc coherent regions in the EoR) is simply too large to model the effect correctly. In this project, you will run Ly𝛼 radiative transfer simulations of models of galaxies and their surroundings, record the scattering rates and try to find prescriptions to model this effect correctly in larger scale EoR simulations where the gas and radiative transfer around galaxies cannot properly be resolved.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Montroll-Weiss formalism for Lya RT</title>
+      <link>http://asgard-ari.github.io/project/lya-mw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://asgard-ari.github.io/project/lya-mw/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OVI resonant scattering?</title>
+      <link>http://asgard-ari.github.io/project/ovi-rt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://asgard-ari.github.io/project/ovi-rt/</guid>
+      <description>&lt;p&gt;Recent observations have revealed extended halos of O VI emission around galaxies, tracing gas at temperatures of roughly a few hundred thousand Kelvin in the circumgalactic medium. However, the physical origin of this emission remains uncertain. While O VI photons may be produced locally through collisional excitation or recombination, they may also undergo resonant scattering, redistributing photons over large distances and altering the observed morphology and spectral signatures.&lt;/p&gt;
+&lt;p&gt;In this project you will develop and apply radiative transfer models for O VI emission and scattering in realistic circumgalactic gas distributions. The goal is to predict spectra, line profiles, and surface brightness distributions, and to determine whether the observed O VI halos can plausibly arise from resonant scattering or require substantial in-situ emission throughout the halo.&lt;/p&gt;
 </description>
     </item>
     

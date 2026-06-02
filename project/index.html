@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: June 1, 2026 --><html lang="en-us" >
+<!-- Last Published: June 2, 2026 --><html lang="en-us" >
 
 
 <head>
@@ -820,10 +820,39 @@
 
 
 
+
   
     
       
+        
+      
     
+      
+        
+      
+    
+      
+        
+      
+    
+  
+
+  
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
       
     
       
@@ -833,9 +862,87 @@
   
     
       
-    
+        
       
     
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+  
+
+  
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+  
+
+  
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+  
+
+  
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+  
+
+  
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
       
     
       
@@ -845,7 +952,69 @@
   
     
       
+        
+      
     
+      
+        
+      
+    
+      
+    
+      
+        
+      
+    
+  
+
+  
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+  
+
+  
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
       
     
       
@@ -855,33 +1024,19 @@
   
     
       
-    
+        
       
     
       
-    
-  
-
-  
-    
+        
       
     
       
-    
+        
       
     
       
-    
-  
-
-  
-    
-      
-    
-      
-    
-      
-    
+        
       
     
   
@@ -889,25 +1044,19 @@
   
     
       
-    
+        
       
     
       
-    
-      
-    
-  
-
-  
-    
+        
       
     
       
-    
+        
       
     
       
-    
+        
       
     
   
@@ -915,17 +1064,71 @@
   
     
       
-    
+        
       
     
       
-    
+        
       
     
       
-    
+        
       
     
+  
+
+  
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+  
+
+  
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
       
     
   
@@ -937,6 +1140,10 @@
     <div class="project-multifilters btn-group" role="group" aria-label="Project tag filters">
       
       <a class="btn btn-outline-secondary btn-sm active all" href="#" data-filter="*" aria-pressed="true">All</a>
+      
+        
+        
+        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-agn" aria-pressed="false">AGN</a>
       
         
         
@@ -980,7 +1187,15 @@
       
         
         
+        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-numerical-methods" aria-pressed="false">numerical methods</a>
+      
+        
+        
         <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-observations" aria-pressed="false">observations</a>
+      
+        
+        
+        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-pen&#43;paper" aria-pressed="false">pen&#43;paper</a>
       
         
         
@@ -992,10 +1207,214 @@
       
     </div>
   </nav>
+
+  <section class="project-access-panel" aria-label="Project access" hidden>
+    <p class="project-access-copy">Enter a password to reveal additional projects. Student access shows discussed projects. Private access shows all project ideas.</p>
+    <div class="project-access-controls">
+      <input class="project-access-input form-control form-control-sm" type="password" placeholder="Password" aria-label="Project access password" autocomplete="current-password">
+      <button class="project-access-unlock btn btn-outline-secondary btn-sm" type="button">Unlock</button>
+      <button class="project-access-reset btn btn-link btn-sm" type="button">Public only</button>
+    </div>
+    <p class="project-access-status" aria-live="polite"></p>
+  </section>
+
+  <style>
+  .project-access-panel {
+    margin: 1rem 0 1.5rem;
+    padding: 0.9rem 1rem;
+    border: 1px solid rgba(107, 114, 128, 0.2);
+    border-radius: 0.9rem;
+    background: rgba(107, 114, 128, 0.06);
+  }
+
+  .project-access-copy {
+    margin: 0 0 0.75rem;
+    font-size: 0.92rem;
+  }
+
+  .project-access-controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    align-items: center;
+  }
+
+  .project-access-input {
+    width: min(18rem, 100%);
+  }
+
+  .project-access-status {
+    margin: 0.7rem 0 0;
+    font-size: 0.84rem;
+    color: var(--muted-text, #6b7280);
+  }
+
+  .project-access-panel[hidden] {
+    display: none !important;
+  }
+
+  .projects-container .js-id-hidden,
+  .projects-container .js-id-private {
+    display: none;
+  }
+
+  html.project-access-student .projects-container .js-id-hidden,
+  html.project-access-private .projects-container .js-id-hidden,
+  html.project-access-private .projects-container .js-id-private {
+    display: block;
+  }
+
+  @media (max-width: 575px) {
+    .project-access-controls {
+      align-items: stretch;
+    }
+
+    .project-access-input {
+      width: 100%;
+    }
+  }
+  </style>
+
   
+
+<script>
+(function(){
+  if(window.asgardProjectAccess){
+    return;
+  }
+
+  var config = {"enabled":true,"privateHash":"162c60be131ad958b1fbaf7f88f57e14dac9eeb9d3366f6a7fe8bd463c909937","storageKey":"asgard-project-access","studentHash":"358899f754858ad932a4af1c6fc0b80f92875382a37417c7f00026ca51679c37"};
+  var accessRank = { public: 0, student: 1, private: 2 };
+
+  function syncRootClass(level){
+    var normalized = normalizeAccess(level);
+    var root = document.documentElement;
+
+    root.classList.remove('project-access-public', 'project-access-student', 'project-access-private');
+    root.classList.add('project-access-' + normalized);
+
+    return normalized;
+  }
+
+  function emitChange(level){
+    document.dispatchEvent(new CustomEvent('asgard-project-access-change', {
+      detail: { level: normalizeAccess(level) }
+    }));
+  }
+
+  function accessUiRequested(){
+    try {
+      var url = new URL(window.location.href);
+      return url.searchParams.get('project_access') === '1' || url.hash === '#project-access';
+    } catch (error) {
+      return false;
+    }
+  }
+
+  function normalizeAccess(level){
+    return accessRank[level] === undefined ? 'public' : level;
+  }
+
+  function getStoredAccess(){
+    if(!config.enabled){
+      return 'private';
+    }
+
+    try {
+      return normalizeAccess(window.sessionStorage.getItem(config.storageKey) || 'public');
+    } catch (error) {
+      return 'public';
+    }
+  }
+
+  function setStoredAccess(level){
+    var normalized = normalizeAccess(level);
+
+    try {
+      window.sessionStorage.setItem(config.storageKey, normalized);
+    } catch (error) { }
+
+    return normalized;
+  }
+
+  function setAccessLevel(level){
+    var normalized = setStoredAccess(level);
+    syncRootClass(normalized);
+    emitChange(normalized);
+    return normalized;
+  }
+
+  function clearStoredAccess(){
+    try {
+      window.sessionStorage.removeItem(config.storageKey);
+    } catch (error) { }
+
+    return 'public';
+  }
+
+  function resetAccess(){
+    var normalized = clearStoredAccess();
+    syncRootClass(normalized);
+    emitChange(normalized);
+    return normalized;
+  }
+
+  function canAccess(requiredLevel, currentLevel){
+    return accessRank[normalizeAccess(currentLevel)] >= accessRank[normalizeAccess(requiredLevel)];
+  }
+
+  async function sha256Hex(value){
+    var data = new TextEncoder().encode(value);
+    var digest = await window.crypto.subtle.digest('SHA-256', data);
+    return Array.from(new Uint8Array(digest)).map(function(byte){
+      return byte.toString(16).padStart(2, '0');
+    }).join('');
+  }
+
+  async function unlockWithPassword(password){
+    if(!config.enabled || !password){
+      return null;
+    }
+
+    var hash = await sha256Hex(password.trim());
+
+    if(config.privateHash && hash === config.privateHash){
+      return setAccessLevel('private');
+    }
+
+    if(config.studentHash && hash === config.studentHash){
+      return setAccessLevel('student');
+    }
+
+    return null;
+  }
+
+  syncRootClass(getStoredAccess());
+
+  window.asgardProjectAccess = {
+    config: config,
+    normalizeAccess: normalizeAccess,
+    getStoredAccess: getStoredAccess,
+    setStoredAccess: setStoredAccess,
+    setAccessLevel: setAccessLevel,
+    clearStoredAccess: clearStoredAccess,
+    resetAccess: resetAccess,
+    canAccess: canAccess,
+    unlockWithPassword: unlockWithPassword,
+    syncRootClass: syncRootClass,
+    emitChange: emitChange,
+    accessUiRequested: accessUiRequested
+  };
+})();
+</script>
+
   <script>
   (function(){
-    
+    var access = window.asgardProjectAccess;
+    if(!access){
+      return;
+    }
+
     function getIsotopeInstance(container){
       try{
         if(!container) return null;
@@ -1007,22 +1426,94 @@
       return null;
     }
 
-    function getActiveSelector(filters){
-      var activeSelectors = Array.from(filters.querySelectorAll('.project-tag.active'))
-        .map(function(activeBtn){ return activeBtn.getAttribute('data-filter'); })
-        .filter(Boolean);
-
-      return activeSelectors.length ? activeSelectors.join('') : '*';
+    function getRequiredAccess(item){
+      if(item.classList.contains('js-id-private')) return 'private';
+      if(item.classList.contains('js-id-hidden')) return 'student';
+      return 'public';
     }
 
-    function applyFallbackFilter(container, selector){
-      var requiredClasses = selector === '*' ? [] : (selector.match(/\.[A-Za-z0-9_-]+/g) || []);
+    function resolveItemElement(item){
+      var element = null;
+
+      if(!item){
+        return null;
+      }
+
+      if(item.nodeType === 1){
+        element = item;
+      } else if(item.element && item.element.nodeType === 1){
+        element = item.element;
+      } else if(item[0] && item[0].nodeType === 1){
+        element = item[0];
+      }
+
+      if(!element){
+        return null;
+      }
+
+      if(element.classList && element.classList.contains('isotope-item')){
+        return element;
+      }
+
+      return element.closest ? element.closest('.isotope-item') : null;
+    }
+
+    function getRequiredClasses(filters){
+      return Array.from(filters.querySelectorAll('.project-tag.active'))
+        .map(function(activeBtn){ return activeBtn.getAttribute('data-filter'); })
+        .filter(Boolean)
+        .map(function(selector){ return selector.slice(1); });
+    }
+
+    function getSelectorForAccess(level){
+      if(level === 'private'){
+        return '';
+      }
+
+      if(level === 'student'){
+        return ':not(.js-id-private)';
+      }
+
+      return ':not(.js-id-hidden):not(.js-id-private)';
+    }
+
+    function getActiveSelector(filters){
+      var tagSelector = getRequiredClasses(filters).map(function(requiredClass){
+        return '.' + requiredClass;
+      }).join('');
+      var accessSelector = getSelectorForAccess(access.getStoredAccess());
+      var selector = (tagSelector || '') + accessSelector;
+
+      return selector || '*';
+    }
+
+    function matchesTags(item, filters){
+      item = resolveItemElement(item);
+      if(!item){
+        return false;
+      }
+
+      var requiredClasses = getRequiredClasses(filters);
+
+      return requiredClasses.every(function(requiredClass){
+        return item.classList.contains(requiredClass);
+      });
+    }
+
+    function matchesAccess(item){
+      item = resolveItemElement(item);
+      if(!item){
+        return false;
+      }
+
+      return access.canAccess(getRequiredAccess(item), access.getStoredAccess());
+    }
+
+    function applyFallbackFilter(container, filters){
       var items = container.querySelectorAll('.isotope-item');
 
       items.forEach(function(it){
-        var matches = requiredClasses.every(function(requiredClass){
-          return it.classList.contains(requiredClass.slice(1));
-        });
+        var matches = matchesAccess(it) && matchesTags(it, filters);
 
         it.style.display = matches ? '' : 'none';
       });
@@ -1034,45 +1525,134 @@
       });
     }
 
+    function applyProjectFilters(filters){
+      var section = filters.closest('section');
+      var container = section ? section.querySelector('.projects-container, .isotope') : document.querySelector('.projects-container, .isotope');
+      var iso = getIsotopeInstance(container);
+      var selector = getActiveSelector(filters);
+
+      if(iso && typeof iso.arrange === 'function'){
+        iso.arrange({filter: selector});
+      } else if(container){
+        applyFallbackFilter(container, filters);
+      }
+    }
+
+    function describeAccess(level){
+      if(!access.config.enabled){
+        return 'Password-based project access is disabled in the site configuration.';
+      }
+
+      if(!access.config.studentHash || !access.config.privateHash){
+        return 'Set student and private password hashes in config/_default/params.yaml to enable restricted project views.';
+      }
+
+      if(level === 'private'){
+        return 'Private access enabled. Public, student, and private projects are visible.';
+      }
+
+      if(level === 'student'){
+        return 'Student access enabled. Public and discussed student projects are visible.';
+      }
+
+      return 'Public view enabled. Only public projects are visible.';
+    }
+
+    function syncAccessPanel(panel, overrideMessage){
+      var status = panel.querySelector('.project-access-status');
+      var requested = access.accessUiRequested();
+      var unlocked = access.getStoredAccess() !== 'public';
+
+      panel.hidden = !(requested || unlocked);
+
+      if(status){
+        status.textContent = overrideMessage || describeAccess(access.getStoredAccess());
+      }
+    }
+
+    function bindAccessPanel(panel){
+      var input = panel.querySelector('.project-access-input');
+      var unlockBtn = panel.querySelector('.project-access-unlock');
+      var resetBtn = panel.querySelector('.project-access-reset');
+
+      if(unlockBtn){
+        unlockBtn.addEventListener('click', async function(){
+          if(!input) return;
+
+          var result = await access.unlockWithPassword(input.value || '');
+          input.value = '';
+
+          if(result){
+            syncAccessPanel(panel);
+            document.querySelectorAll('.project-multifilters').forEach(applyProjectFilters);
+          } else {
+            syncAccessPanel(panel, 'Password not recognized.');
+          }
+        });
+      }
+
+      if(input){
+        input.addEventListener('keydown', function(event){
+          if(event.key === 'Enter' && unlockBtn){
+            event.preventDefault();
+            unlockBtn.click();
+          }
+        });
+      }
+
+      if(resetBtn){
+        resetBtn.addEventListener('click', function(){
+          access.resetAccess();
+          syncAccessPanel(panel);
+          document.querySelectorAll('.project-multifilters').forEach(applyProjectFilters);
+        });
+      }
+
+      syncAccessPanel(panel);
+    }
+
     document.querySelectorAll('.project-multifilters').forEach(function(filters){
       filters.querySelectorAll('a').forEach(function(btn){
         btn.addEventListener('click', function(e){
-        e.preventDefault();
-        e.stopImmediatePropagation();
-        var allBtn = filters.querySelector('.all');
+          e.preventDefault();
+          e.stopImmediatePropagation();
+          var allBtn = filters.querySelector('.all');
 
-        if(btn.classList.contains('all')){
-          filters.querySelectorAll('.project-tag.active').forEach(function(activeBtn){
-            activeBtn.classList.remove('active');
-          });
-          btn.classList.add('active');
-        } else {
-          btn.classList.toggle('active');
-          if(allBtn){
-            allBtn.classList.remove('active');
-            allBtn.classList.add('all');
+          if(btn.classList.contains('all')){
+            filters.querySelectorAll('.project-tag.active').forEach(function(activeBtn){
+              activeBtn.classList.remove('active');
+            });
+            btn.classList.add('active');
+          } else {
+            btn.classList.toggle('active');
+            if(allBtn){
+              allBtn.classList.remove('active');
+              allBtn.classList.add('all');
+            }
+            if(!filters.querySelector('.project-tag.active') && allBtn){
+              allBtn.classList.add('active');
+            }
           }
-          if(!filters.querySelector('.project-tag.active') && allBtn){
-            allBtn.classList.add('active');
-          }
-        }
 
-        syncPressedState(filters);
-
-        var selector = getActiveSelector(filters);
-        var section = filters.closest('section');
-        var container = section ? section.querySelector('.projects-container, .isotope') : document.querySelector('.projects-container, .isotope');
-        var iso = getIsotopeInstance(container);
-        if(window && window.console && window.console.debug){ console.debug('[project-tags] click:', selector); }
-        if(iso && typeof iso.arrange === 'function'){
-          if(window && window.console && window.console.debug){ console.debug('[project-tags] using Isotope arrange'); }
-          iso.arrange({filter: selector});
-        } else if(container){
-          if(window && window.console && window.console.debug){ console.debug('[project-tags] Isotope instance not found, using fallback show/hide'); }
-          applyFallbackFilter(container, selector);
-        }
-      }, true);
+          syncPressedState(filters);
+          applyProjectFilters(filters);
+        }, true);
+      });
     });
+
+    document.querySelectorAll('.project-access-panel').forEach(bindAccessPanel);
+
+    document.addEventListener('asgard-project-access-change', function(){
+      document.querySelectorAll('.project-access-panel').forEach(function(panel){
+        syncAccessPanel(panel);
+      });
+      document.querySelectorAll('.project-multifilters').forEach(applyProjectFilters);
+    });
+
+    window.addEventListener('load', function(){
+      window.setTimeout(function(){
+        document.querySelectorAll('.project-multifilters').forEach(applyProjectFilters);
+      }, 0);
     });
   })();
   </script>
@@ -1144,6 +1724,98 @@
     <div class="pub-summary-wrapper">
       
         <div class="pub-summary">This project investigates the conditions under which cold gas clouds can persist while being entrained in galactic winds, focusing on the interplay between turbulent mixing and radiative cooling. By extending previous studies beyond the narrow parameter regimes explored so far, it aims to map out the full landscape of cold-gas survival in realistic outflow conditions.</div>
+      
+    </div>
+
+    
+    
+  </div>
+</article>
+ 
+      </div>
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-mhd js-id-radiative-transfer js-id-multiphase-gas js-id-hpc js-id-private">
+        
+        
+
+
+
+<article class="publication-compact wc-publication-card" aria-label="publication">
+  <header class="pub-meta">
+    <h4 class="pub-title">
+      <a href="/project/cc-crs/" class="pub-title-link">CRs in CC</a>
+    </h4>
+    <div class="pub-meta-line">
+      
+      
+    </div>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+  </header>
+
+  <div class="pub-body-row">
+    <div class="pub-summary-wrapper">
+      
+        <div class="pub-summary">How B field tanglement and resolution affects CR pressure etc.</div>
+      
+    </div>
+
+    
+    
+  </div>
+</article>
+ 
+      </div>
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-mhd js-id-multiphase-gas js-id-agn js-id-hpc">
+        
+        
+
+
+
+<article class="publication-compact wc-publication-card" aria-label="publication">
+  <header class="pub-meta">
+    <h4 class="pub-title">
+      <a href="/project/jet-ism/" class="pub-title-link">Jet-ISM interactions and radiative energy losses</a>
+    </h4>
+    <div class="pub-meta-line">
+      
+      
+    </div>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+  </header>
+
+  <div class="pub-body-row">
+    <div class="pub-summary-wrapper">
+      
+        <div class="pub-summary">This project studies how energetic jets interact with the turbulent, multiphase interstellar medium of galaxies. By performing hydrodynamical or magnetohydrodynamical simulations, it aims to quantify how much jet energy is radiated away, how efficiently the ISM is heated or stirred, and under which conditions jets stall before escaping the galaxy.</div>
       
     </div>
 
@@ -1294,6 +1966,98 @@
     
       
         
+          <div class="project-card project-item isotope-item js-id-lya js-id-radiative-transfer js-id-pen&#43;paper js-id-private">
+        
+        
+
+
+
+<article class="publication-compact wc-publication-card" aria-label="publication">
+  <header class="pub-meta">
+    <h4 class="pub-title">
+      <a href="/project/lya-mw/" class="pub-title-link">Montroll-Weiss formalism for Lya RT</a>
+    </h4>
+    <div class="pub-meta-line">
+      
+      
+    </div>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+  </header>
+
+  <div class="pub-body-row">
+    <div class="pub-summary-wrapper">
+      
+        <div class="pub-summary">Use the MW formalism to find analytical solutions and speed up Lya RT.</div>
+      
+    </div>
+
+    
+    
+  </div>
+</article>
+ 
+      </div>
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-radiative-transfer js-id-cgm js-id-hidden js-id-observations">
+        
+        
+
+
+
+<article class="publication-compact wc-publication-card" aria-label="publication">
+  <header class="pub-meta">
+    <h4 class="pub-title">
+      <a href="/project/ovi-rt/" class="pub-title-link">OVI resonant scattering?</a>
+    </h4>
+    <div class="pub-meta-line">
+      
+      
+    </div>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+  </header>
+
+  <div class="pub-body-row">
+    <div class="pub-summary-wrapper">
+      
+        <div class="pub-summary">This project investigates whether the extended O VI emission observed around galaxies can be explained by resonant radiative transfer. By combining radiative transfer calculations with models of the circumgalactic medium, it aims to predict observable spectra and surface brightness profiles and assess the importance of scattering in shaping O VI halos.</div>
+      
+    </div>
+
+    
+    
+  </div>
+</article>
+ 
+      </div>
+    
+      
+        
           <div class="project-card project-item isotope-item js-id-mhd js-id-radiative-transfer js-id-multiphase-gas js-id-hpc">
         
         
@@ -1328,6 +2092,52 @@
     <div class="pub-summary-wrapper">
       
         <div class="pub-summary">This project explores how radiation pressure accelerates cold gas and determines the conditions under which such gas can withstand shear forces and remain intact. Using radiation–hydrodynamic simulations, it aims to clarify when radiation pressure aids entrainment versus when it leads to cloud disruption.</div>
+      
+    </div>
+
+    
+    
+  </div>
+</article>
+ 
+      </div>
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-mhd js-id-turbulence js-id-multiphase-gas js-id-hpc js-id-cgm js-id-ism js-id-icm js-id-hidden">
+        
+        
+
+
+
+<article class="publication-compact wc-publication-card" aria-label="publication">
+  <header class="pub-meta">
+    <h4 class="pub-title">
+      <a href="/project/turb-shattering/" class="pub-title-link">Shattering Turbulent Multiphase Media</a>
+    </h4>
+    <div class="pub-meta-line">
+      
+      
+    </div>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+  </header>
+
+  <div class="pub-body-row">
+    <div class="pub-summary-wrapper">
+      
+        <div class="pub-summary">Can we shatter in turbulence?</div>
       
     </div>
 
@@ -1420,6 +2230,52 @@
     <div class="pub-summary-wrapper">
       
         <div class="pub-summary">This project investigates how stacking resonant-line spectra (e.g. Lyα, Mg II) alters their spectral shape and information content, a key question for interpreting faint circumgalactic emission. By combining radiative-transfer simulations, synthetic spectra, and a dedicated stacking and fitting pipeline, the project will systematically compare the constraints achievable from individual spectra versus stacks.</div>
+      
+    </div>
+
+    
+    
+  </div>
+</article>
+ 
+      </div>
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-turbulence js-id-numerical-methods js-id-hpc">
+        
+        
+
+
+
+<article class="publication-compact wc-publication-card" aria-label="publication">
+  <header class="pub-meta">
+    <h4 class="pub-title">
+      <a href="/project/turbulence-amr/" class="pub-title-link">The impact of adaptive mesh refinement on astrophysical turbulence</a>
+    </h4>
+    <div class="pub-meta-line">
+      
+      
+    </div>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+  </header>
+
+  <div class="pub-body-row">
+    <div class="pub-summary-wrapper">
+      
+        <div class="pub-summary">This project investigates how adaptive mesh refinement influences the statistical properties of turbulence in numerical simulations. By comparing simulations with different refinement strategies, it aims to determine how reliably adaptive methods capture turbulent cascades, mixing, and small-scale structure formation.</div>
       
     </div>
 

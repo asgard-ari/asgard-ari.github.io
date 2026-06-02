@@ -23,6 +23,25 @@ In this project, you will run high-resolution hydrodynamical simulations across 
     </item>
     
     <item>
+      <title>CRs in CC</title>
+      <link>http://asgard-ari.github.io/project/cc-crs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://asgard-ari.github.io/project/cc-crs/</guid>
+      <description>&lt;p&gt;..&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jet-ISM interactions and radiative energy losses</title>
+      <link>http://asgard-ari.github.io/project/jet-ism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://asgard-ari.github.io/project/jet-ism/</guid>
+      <description>&lt;p&gt;Relativistic jets launched by accreting black holes can have a major impact on the gas in their host galaxies. As they propagate through the dense and highly structured interstellar medium, they inflate bubbles, drive shocks, stir turbulence, and compress or destroy cold gas clouds. However, not all of the injected jet energy necessarily couples efficiently to the galaxy: part of it may be lost through radiative cooling, while in other cases the jet may stall and deposit most of its energy locally.&lt;/p&gt;
+&lt;p&gt;In this project you will perform idealized hydrodynamical or magnetohydrodynamical simulations of a jet propagating through a multiphase ISM. The goal is to measure how the injected energy is partitioned into kinetic, thermal, magnetic, and radiated components, and to determine under which conditions the jet breaks out of the ISM or stalls inside the galaxy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Modeling gas clouds in the vicinity of a black hole</title>
       <link>http://asgard-ari.github.io/project/g2-cloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -43,12 +62,31 @@ In this project, you will conduct radiation–hydrodynamic simulations to study 
     </item>
     
     <item>
+      <title>Shattering Turbulent Multiphase Media</title>
+      <link>http://asgard-ari.github.io/project/turb-shattering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://asgard-ari.github.io/project/turb-shattering/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Stability of Cold Streams in the Circumgalactic Medium</title>
       <link>http://asgard-ari.github.io/project/cold-streams-lss/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://asgard-ari.github.io/project/cold-streams-lss/</guid>
       <description>&lt;p&gt;Cold streams are believed to supply a major fraction of the gas that fuels galaxy growth at high redshift, yet their stability as they penetrate the hot circumgalactic medium remains an open question. While analytical models and idealized simulations provide criteria for when streams should survive or fragment, it is unclear how these predictions translate to the complex, dynamical environments found in realistic halos.&lt;br&gt;
 In this project, you will use large-volume cosmological simulations to identify and extract cold streams, characterize their thermodynamic and kinematic properties, and systematically compare them to theoretical survival criteria. This work will clarify the physical conditions that regulate stream persistence and help connect idealized stability models to the multiphase structure of the CGM.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The impact of adaptive mesh refinement on astrophysical turbulence</title>
+      <link>http://asgard-ari.github.io/project/turbulence-amr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://asgard-ari.github.io/project/turbulence-amr/</guid>
+      <description>&lt;p&gt;Turbulence plays a central role in many astrophysical systems, ranging from the interstellar medium and galaxy clusters to stellar atmospheres and accretion flows. Because fully resolving all relevant scales is computationally impossible, many simulations employ adaptive mesh refinement (AMR), which dynamically increases the resolution only where it is deemed necessary. While this approach greatly reduces computational cost, it may also influence the turbulent cascade and the resulting gas structure.&lt;/p&gt;
+&lt;p&gt;In this project you will perform and analyze turbulence simulations using different refinement strategies. By comparing quantities such as velocity power spectra, density distributions, turbulent dissipation rates, and mixing efficiencies, you will investigate how adaptive meshes affect the statistical properties of turbulence and identify potential biases introduced by commonly used refinement criteria.&lt;/p&gt;
 </description>
     </item>
     
