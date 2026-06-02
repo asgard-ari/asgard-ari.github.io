@@ -1,0 +1,1353 @@
+<!DOCTYPE html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: June 2, 2026 --><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Hugo Blox Builder 5.9.7" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.ce9dc72618cc1d7513a57358c9014ef8.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="Max Gronke" />
+
+
+
+
+
+  
+
+<meta name="description" content="This project compares galactic wind simulations performed with different hydrodynamical methods, including mesh-free finite-mass, moving-mesh, fixed-grid, and adaptive-mesh approaches. By analyzing wind morphology, phase structure, mixing, and mass loading, it aims to identify which wind properties are robust and which depend on the numerical method." />
+
+
+
+<link rel="alternate" hreflang="en-us" href="http://asgard-ari.github.io/project/winds-code-comparison/" />
+<link rel="canonical" href="http://asgard-ari.github.io/project/winds-code-comparison/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu_10bf8d6ee6a36f4a.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_97fd35af14b0d81f.png" />
+
+<meta name="theme-color" content="#1565c0" />
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+
+  <meta property="twitter:site" content="@GetResearchDev" />
+  <meta property="twitter:creator" content="@GetResearchDev" />
+<meta property="twitter:image" content="http://asgard-ari.github.io/media/icon_hu_be15dbaf67d618b8.png" />
+
+
+
+  
+
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="ASGARD Group" />
+<meta property="og:url" content="http://asgard-ari.github.io/project/winds-code-comparison/" />
+<meta property="og:title" content="How numerical methods shape simulated galactic winds | ASGARD Group" />
+<meta property="og:description" content="This project compares galactic wind simulations performed with different hydrodynamical methods, including mesh-free finite-mass, moving-mesh, fixed-grid, and adaptive-mesh approaches. By analyzing wind morphology, phase structure, mixing, and mass loading, it aims to identify which wind properties are robust and which depend on the numerical method." /><meta property="og:image" content="http://asgard-ari.github.io/media/icon_hu_be15dbaf67d618b8.png" /><meta property="og:locale" content="en-us" />
+
+  
+  
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://asgard-ari.github.io/project/winds-code-comparison/"
+  },
+  "headline": "How numerical methods shape simulated galactic winds",
+  
+  "datePublished": "0001-01-01T00:00:00Z",
+  "dateModified": "0001-01-01T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Max Gronke"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "ASGARD Group",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://asgard-ari.github.io/media/icon_hu_63bfa80072b4a84c.png"
+    }
+  },
+  "description": "This project compares galactic wind simulations performed with different hydrodynamical methods, including mesh-free finite-mass, moving-mesh, fixed-grid, and adaptive-mesh approaches. By analyzing wind morphology, phase structure, mixing, and mass loading, it aims to identify which wind properties are robust and which depend on the numerical method."
+}
+</script>
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>How numerical methods shape simulated galactic winds | ASGARD Group</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="77be26d246782d40b184fc6952b04f8e" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.9e4214442a7711d35691acd58f6f6361.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">ASGARD Group</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">ASGARD Group</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/post"><span>News</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/people"><span>People</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/dates"><span>Dates</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/publication"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/project"><span>Projects</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    
+
+
+
+
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+      
+    
+  
+
+
+
+<script>
+(function(){
+  if(window.asgardProjectAccess){
+    return;
+  }
+
+  var config = {"enabled":true,"privateHash":"162c60be131ad958b1fbaf7f88f57e14dac9eeb9d3366f6a7fe8bd463c909937","storageKey":"asgard-project-access","studentHash":"358899f754858ad932a4af1c6fc0b80f92875382a37417c7f00026ca51679c37"};
+  var accessRank = { public: 0, student: 1, private: 2 };
+
+  function syncRootClass(level){
+    var normalized = normalizeAccess(level);
+    var root = document.documentElement;
+
+    root.classList.remove('project-access-public', 'project-access-student', 'project-access-private');
+    root.classList.add('project-access-' + normalized);
+
+    return normalized;
+  }
+
+  function emitChange(level){
+    document.dispatchEvent(new CustomEvent('asgard-project-access-change', {
+      detail: { level: normalizeAccess(level) }
+    }));
+  }
+
+  function accessUiRequested(){
+    try {
+      var url = new URL(window.location.href);
+      return url.searchParams.get('project_access') === '1' || url.hash === '#project-access';
+    } catch (error) {
+      return false;
+    }
+  }
+
+  function normalizeAccess(level){
+    return accessRank[level] === undefined ? 'public' : level;
+  }
+
+  function getStoredAccess(){
+    if(!config.enabled){
+      return 'private';
+    }
+
+    try {
+      return normalizeAccess(window.sessionStorage.getItem(config.storageKey) || 'public');
+    } catch (error) {
+      return 'public';
+    }
+  }
+
+  function setStoredAccess(level){
+    var normalized = normalizeAccess(level);
+
+    try {
+      window.sessionStorage.setItem(config.storageKey, normalized);
+    } catch (error) { }
+
+    return normalized;
+  }
+
+  function setAccessLevel(level){
+    var normalized = setStoredAccess(level);
+    syncRootClass(normalized);
+    emitChange(normalized);
+    return normalized;
+  }
+
+  function clearStoredAccess(){
+    try {
+      window.sessionStorage.removeItem(config.storageKey);
+    } catch (error) { }
+
+    return 'public';
+  }
+
+  function resetAccess(){
+    var normalized = clearStoredAccess();
+    syncRootClass(normalized);
+    emitChange(normalized);
+    return normalized;
+  }
+
+  function canAccess(requiredLevel, currentLevel){
+    return accessRank[normalizeAccess(currentLevel)] >= accessRank[normalizeAccess(requiredLevel)];
+  }
+
+  async function sha256Hex(value){
+    var data = new TextEncoder().encode(value);
+    var digest = await window.crypto.subtle.digest('SHA-256', data);
+    return Array.from(new Uint8Array(digest)).map(function(byte){
+      return byte.toString(16).padStart(2, '0');
+    }).join('');
+  }
+
+  async function unlockWithPassword(password){
+    if(!config.enabled || !password){
+      return null;
+    }
+
+    var hash = await sha256Hex(password.trim());
+
+    if(config.privateHash && hash === config.privateHash){
+      return setAccessLevel('private');
+    }
+
+    if(config.studentHash && hash === config.studentHash){
+      return setAccessLevel('student');
+    }
+
+    return null;
+  }
+
+  syncRootClass(getStoredAccess());
+
+  window.asgardProjectAccess = {
+    config: config,
+    normalizeAccess: normalizeAccess,
+    getStoredAccess: getStoredAccess,
+    setStoredAccess: setStoredAccess,
+    setAccessLevel: setAccessLevel,
+    clearStoredAccess: clearStoredAccess,
+    resetAccess: resetAccess,
+    canAccess: canAccess,
+    unlockWithPassword: unlockWithPassword,
+    syncRootClass: syncRootClass,
+    emitChange: emitChange,
+    accessUiRequested: accessUiRequested
+  };
+})();
+</script>
+<main class="container">
+  <article class="project single wc-project-card project-access-shell" data-required-access="student">
+    
+      <section class="project-access-guard" aria-label="Restricted project access" data-required-access="student">
+        <h1 class="project-title">Restricted Project</h1>
+        <p class="project-access-copy">
+          
+            Enter the student or private password to view this project page.
+          
+        </p>
+        <div class="project-access-controls">
+          <input class="project-access-input form-control form-control-sm" type="password" placeholder="Password" aria-label="Project access password" autocomplete="current-password">
+          <button class="project-access-unlock btn btn-outline-secondary btn-sm" type="button">Unlock</button>
+          <button class="project-access-reset btn btn-link btn-sm" type="button">Public only</button>
+        </div>
+        <p class="project-access-status" aria-live="polite"></p>
+      </section>
+    
+
+    <div class="project-protected-content" hidden>
+      <header class="project-header">
+        <h1 class="project-title">How numerical methods shape simulated galactic winds</h1>
+        
+        
+          <p class="project-summary">This project compares galactic wind simulations performed with different hydrodynamical methods, including mesh-free finite-mass, moving-mesh, fixed-grid, and adaptive-mesh approaches. By analyzing wind morphology, phase structure, mixing, and mass loading, it aims to identify which wind properties are robust and which depend on the numerical method.</p>
+        
+        
+          <div class="project-meta-groups" aria-label="Project metadata">
+            
+              <p class="project-meta-line">
+                <span class="project-meta-label">Tags</span>
+                <span class="project-meta-items">
+                  
+                    <span class="project-meta-pill">galactic winds</span>
+                  
+                    <span class="project-meta-pill">numerics</span>
+                  
+                    <span class="project-meta-pill">multiphase gas</span>
+                  
+                    <span class="project-meta-pill">HPC</span>
+                  
+                    <span class="project-meta-pill">hidden</span>
+                  
+                </span>
+              </p>
+            
+            
+          </div>
+        
+      </header>
+
+      <section class="project-content">
+        <p>Galactic winds are highly multiphase, turbulent, and numerically challenging. Their predicted properties can depend not only on the physical model, but also on the hydrodynamical method used to simulate them. Mesh-free finite-mass methods, Voronoi moving meshes, fixed grids, and adaptive mesh refinement each treat advection, mixing, shocks, and small-scale structure differently, which may affect how winds fragment, cool, and escape from galaxies.</p>
+<p>In this project you will compare idealized or existing galactic wind simulations performed with different numerical methods. The goal is to quantify how robust key wind properties are across codes, including mass loading, energy loading, temperature and density distributions, phase structure, turbulent mixing, and observable emission or absorption signatures.</p>
+
+      </section>
+    </div>
+  </article>
+</main>
+
+<style>
+.project-access-guard {
+  margin-bottom: 1.25rem;
+  padding: 1rem 1.05rem;
+  border: 1px solid rgba(107, 114, 128, 0.2);
+  border-radius: 0.9rem;
+  background: rgba(107, 114, 128, 0.06);
+}
+
+.project-access-copy {
+  margin: 0 0 0.75rem;
+}
+
+.project-access-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  align-items: center;
+}
+
+.project-access-input {
+  width: min(18rem, 100%);
+}
+
+.project-access-status {
+  margin: 0.7rem 0 0;
+  font-size: 0.84rem;
+  color: var(--muted-text, #6b7280);
+}
+
+.project-meta-groups {
+  margin: 1rem 0 0;
+}
+
+.project-meta-line {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+  margin: 0.5rem 0 0;
+}
+
+.project-meta-label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted-text, #6b7280);
+}
+
+.project-meta-items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.project-meta-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.2rem 0.55rem;
+  border: 1px solid rgba(107, 114, 128, 0.25);
+  border-radius: 999px;
+  font-size: 0.8rem;
+  line-height: 1.2;
+  color: inherit;
+  background: rgba(107, 114, 128, 0.08);
+}
+
+@media (max-width: 575px) {
+  .project-access-controls {
+    align-items: stretch;
+  }
+
+  .project-access-input {
+    width: 100%;
+  }
+}
+</style>
+
+<script>
+(function(){
+  var access = window.asgardProjectAccess;
+  if(!access){
+    return;
+  }
+
+  function describeAccess(requiredLevel){
+    if(!access.config.enabled){
+      return 'Password-based project access is disabled in the site configuration.';
+    }
+
+    if(!access.config.studentHash || !access.config.privateHash){
+      return 'Set student and private password hashes in config/_default/params.yaml to enable restricted project pages.';
+    }
+
+    if(requiredLevel === 'private'){
+      return 'Private password required.';
+    }
+
+    return 'Student or private password required.';
+  }
+
+  function syncGuard(guard, overrideMessage){
+    var requiredLevel = guard.getAttribute('data-required-access') || 'public';
+    var article = guard.closest('.project');
+    var protectedContent = article ? article.querySelector('.project-protected-content') : null;
+    var status = guard.querySelector('.project-access-status');
+    var allowed = access.canAccess(requiredLevel, access.getStoredAccess());
+
+    guard.hidden = allowed;
+    if(protectedContent){
+      protectedContent.hidden = !allowed;
+    }
+    if(status){
+      status.textContent = overrideMessage || describeAccess(requiredLevel);
+    }
+  }
+
+  function bindGuard(guard){
+    var input = guard.querySelector('.project-access-input');
+    var unlockBtn = guard.querySelector('.project-access-unlock');
+    var resetBtn = guard.querySelector('.project-access-reset');
+
+    if(unlockBtn){
+      unlockBtn.addEventListener('click', async function(){
+        if(!input) return;
+
+        var result = await access.unlockWithPassword(input.value || '');
+        input.value = '';
+
+        if(result){
+          syncGuard(guard);
+        } else {
+          syncGuard(guard, 'Password not recognized.');
+        }
+      });
+    }
+
+    if(input){
+      input.addEventListener('keydown', function(event){
+        if(event.key === 'Enter' && unlockBtn){
+          event.preventDefault();
+          unlockBtn.click();
+        }
+      });
+    }
+
+    if(resetBtn){
+      resetBtn.addEventListener('click', function(){
+        access.resetAccess();
+        syncGuard(guard);
+      });
+    }
+
+    syncGuard(guard);
+  }
+
+  document.querySelectorAll('.project-access-guard').forEach(bindGuard);
+  document.addEventListener('asgard-project-access-change', function(){
+    document.querySelectorAll('.project-access-guard').forEach(function(guard){
+      syncGuard(guard);
+    });
+  });
+})();
+</script>
+
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.0dfcdd67ca42b8dbc94d6bf1aa446ffb.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.69fc52a6dc16aaf1a452cfbb36466dac.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

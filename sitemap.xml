@@ -994,6 +994,9 @@
     <loc>http://asgard-ari.github.io/author/former-members/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://asgard-ari.github.io/tag/galactic-winds/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://asgard-ari.github.io/author/gitanjali-gitanjali/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1001,6 +1004,12 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/home/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/project/cr-winds-obs/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/project/winds-code-comparison/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/tag/hpc/</loc>
@@ -1036,7 +1045,7 @@
     <loc>http://asgard-ari.github.io/tag/multiphase-gas/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://asgard-ari.github.io/tag/numerical-methods/</loc>
+    <loc>http://asgard-ari.github.io/tag/numerics/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/tag/observations/</loc>

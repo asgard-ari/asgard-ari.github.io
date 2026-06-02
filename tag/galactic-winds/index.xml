@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galactic Winds | ASGARD Group</title>
+    <link>http://asgard-ari.github.io/tag/galactic-winds/</link>
+      <atom:link href="http://asgard-ari.github.io/tag/galactic-winds/index.xml" rel="self" type="application/rss+xml" />
+    <description>Galactic Winds</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://asgard-ari.github.io/media/icon_hu_be15dbaf67d618b8.png</url>
+      <title>Galactic Winds</title>
+      <link>http://asgard-ari.github.io/tag/galactic-winds/</link>
+    </image>
+    
+    <item>
+      <title>How do cosmic rays shape galactic winds?</title>
+      <link>http://asgard-ari.github.io/project/cr-winds-obs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://asgard-ari.github.io/project/cr-winds-obs/</guid>
+      <description>&lt;p&gt;Galactic winds play a key role in regulating galaxy evolution by transporting gas, metals, and energy from galaxies into their surroundings. However, the physical mechanisms driving these outflows remain uncertain. One promising ingredient is cosmic rays, which can provide a distributed source of pressure and accelerate gas more gently than purely thermal feedback. Simulations predict that winds driven without cosmic rays tend to be highly fragmented and clumpy, whereas cosmic ray pressure may lead to smoother and more volume-filling outflows.&lt;/p&gt;
+&lt;p&gt;In this project you will analyze state-of-the-art simulations of galactic winds with and without cosmic rays and compare their predicted properties to observations. Particular emphasis will be placed on quantifying the degree of clumping, the distribution of gas phases, and observable tracers such as emission and absorption lines. The goal is to determine whether current observations favor a significant role for cosmic rays in shaping the structure of galactic winds.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How numerical methods shape simulated galactic winds</title>
+      <link>http://asgard-ari.github.io/project/winds-code-comparison/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://asgard-ari.github.io/project/winds-code-comparison/</guid>
+      <description>&lt;p&gt;Galactic winds are highly multiphase, turbulent, and numerically challenging. Their predicted properties can depend not only on the physical model, but also on the hydrodynamical method used to simulate them. Mesh-free finite-mass methods, Voronoi moving meshes, fixed grids, and adaptive mesh refinement each treat advection, mixing, shocks, and small-scale structure differently, which may affect how winds fragment, cool, and escape from galaxies.&lt;/p&gt;
+&lt;p&gt;In this project you will compare idealized or existing galactic wind simulations performed with different numerical methods. The goal is to quantify how robust key wind properties are across codes, including mass loading, energy loading, temperature and density distributions, phase structure, turbulent mixing, and observable emission or absorption signatures.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

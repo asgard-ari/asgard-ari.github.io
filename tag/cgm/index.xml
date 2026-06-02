@@ -13,6 +13,16 @@
     </image>
     
     <item>
+      <title>How do cosmic rays shape galactic winds?</title>
+      <link>http://asgard-ari.github.io/project/cr-winds-obs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://asgard-ari.github.io/project/cr-winds-obs/</guid>
+      <description>&lt;p&gt;Galactic winds play a key role in regulating galaxy evolution by transporting gas, metals, and energy from galaxies into their surroundings. However, the physical mechanisms driving these outflows remain uncertain. One promising ingredient is cosmic rays, which can provide a distributed source of pressure and accelerate gas more gently than purely thermal feedback. Simulations predict that winds driven without cosmic rays tend to be highly fragmented and clumpy, whereas cosmic ray pressure may lead to smoother and more volume-filling outflows.&lt;/p&gt;
+&lt;p&gt;In this project you will analyze state-of-the-art simulations of galactic winds with and without cosmic rays and compare their predicted properties to observations. Particular emphasis will be placed on quantifying the degree of clumping, the distribution of gas phases, and observable tracers such as emission and absorption lines. The goal is to determine whether current observations favor a significant role for cosmic rays in shaping the structure of galactic winds.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>OVI resonant scattering?</title>
       <link>http://asgard-ari.github.io/project/ovi-rt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Numerical Methods | ASGARD Group</title>
-    <link>http://asgard-ari.github.io/tag/numerical-methods/</link>
-      <atom:link href="http://asgard-ari.github.io/tag/numerical-methods/index.xml" rel="self" type="application/rss+xml" />
-    <description>Numerical Methods</description>
+    <title>Numerics | ASGARD Group</title>
+    <link>http://asgard-ari.github.io/tag/numerics/</link>
+      <atom:link href="http://asgard-ari.github.io/tag/numerics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Numerics</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
       <url>http://asgard-ari.github.io/media/icon_hu_be15dbaf67d618b8.png</url>
-      <title>Numerical Methods</title>
-      <link>http://asgard-ari.github.io/tag/numerical-methods/</link>
+      <title>Numerics</title>
+      <link>http://asgard-ari.github.io/tag/numerics/</link>
     </image>
+    
+    <item>
+      <title>How numerical methods shape simulated galactic winds</title>
+      <link>http://asgard-ari.github.io/project/winds-code-comparison/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://asgard-ari.github.io/project/winds-code-comparison/</guid>
+      <description>&lt;p&gt;Galactic winds are highly multiphase, turbulent, and numerically challenging. Their predicted properties can depend not only on the physical model, but also on the hydrodynamical method used to simulate them. Mesh-free finite-mass methods, Voronoi moving meshes, fixed grids, and adaptive mesh refinement each treat advection, mixing, shocks, and small-scale structure differently, which may affect how winds fragment, cool, and escape from galaxies.&lt;/p&gt;
+&lt;p&gt;In this project you will compare idealized or existing galactic wind simulations performed with different numerical methods. The goal is to quantify how robust key wind properties are across codes, including mass loading, energy loading, temperature and density distributions, phase structure, turbulent mixing, and observable emission or absorption signatures.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The impact of adaptive mesh refinement on astrophysical turbulence</title>
