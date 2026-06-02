@@ -72,6 +72,15 @@ In this project, you will run high-resolution hydrodynamical simulations across 
     </item>
     
     <item>
+      <title>Lyman-alpha emitters as a probe of the Epoch of Reionization</title>
+      <link>http://asgard-ari.github.io/project/laes-eor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://asgard-ari.github.io/project/laes-eor/</guid>
+      <description>&lt;p&gt;Since Lya is absorbed in the neutral intergalactic medium (IGM), the (non)visibility of Lya emitters can constrain the abundances and sizes of the ionized regions (see cf. Fig. 1 and review Dijkstra, 2014). However, it is not so trivial since radiative transfer effects within the ISM can change the spectrum and make it harder or more difficult to be absorbed in the IGM. The goal of this project is to fold in this information. You would create your own models of the progress of reionization and then to calculate which Ly𝛼 emitting galaxies would be observable. The ultimate hope is to find (maybe using machine learning techniques) the optimal set of information (e.g., clustering, spectral and brightness data) to constrain the EoR.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Lyman-alpha pumping during the dark ages</title>
       <link>http://asgard-ari.github.io/project/lya-pumping/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

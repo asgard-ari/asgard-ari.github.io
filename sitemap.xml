@@ -1030,7 +1030,13 @@
     <loc>http://asgard-ari.github.io/project/lyalyc/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://asgard-ari.github.io/project/laes-eor/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://asgard-ari.github.io/project/lya-pumping/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/tag/machine-learning/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/tag/mhd/</loc>

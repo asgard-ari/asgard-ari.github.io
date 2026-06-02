@@ -943,6 +943,34 @@
         
       
     
+      
+        
+      
+    
+  
+
+  
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
   
 
   
@@ -1183,7 +1211,7 @@
 
   <nav class="project-tags-wrap mb-3" aria-label="Project filters">
     <span class="default-project-filter" style="display:none">*</span>
-    <div class="project-multifilters btn-group" role="group" aria-label="Project tag filters">
+    <div class="project-multifilters" role="group" aria-label="Project tag filters">
       
       <a class="btn btn-outline-secondary btn-sm active all" href="#" data-filter="*" aria-pressed="true">All</a>
       
@@ -1229,6 +1257,10 @@
       
         
         
+        <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-machine-learning" aria-pressed="false">machine learning</a>
+      
+        
+        
         <a class="btn btn-outline-secondary btn-sm project-tag" href="#" data-filter=".js-id-mhd" aria-pressed="false">MHD</a>
       
         
@@ -1269,7 +1301,29 @@
   </section>
 
   <style>
+  .project-tags-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    align-items: flex-start;
+  }
+
+  .project-multifilters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.55rem;
+    align-items: center;
+  }
+
+  .project-multifilters .btn {
+    margin: 0;
+    border-radius: 999px;
+    white-space: normal;
+    line-height: 1.25;
+  }
+
   .project-access-panel {
+    flex: 1 1 20rem;
     margin: 1rem 0 1.5rem;
     padding: 0.9rem 1rem;
     border: 1px solid rgba(107, 114, 128, 0.2);
@@ -1315,6 +1369,11 @@
   }
 
   @media (max-width: 575px) {
+    .project-multifilters .btn {
+      width: auto;
+      max-width: 100%;
+    }
+
     .project-access-controls {
       align-items: stretch;
     }
@@ -1970,7 +2029,7 @@
     
       
         
-          <div class="project-card project-item isotope-item js-id-lya js-id-epoch-of-reionization js-id-radiative-transfer js-id-observations">
+          <div class="project-card project-item isotope-item js-id-lya js-id-epoch-of-reionization js-id-radiative-transfer js-id-observations js-id-ism">
         
         
 
@@ -2004,6 +2063,52 @@
     <div class="pub-summary-wrapper">
       
         <div class="pub-summary">How ionizing photons escaped the dense neutral hydrogen envelopes of galaxies to reionize the Universe is unknown. This project aims to investiate the issue using Lyman-alpha radiative transfer simulations and a comparison with data.</div>
+      
+    </div>
+
+    
+    
+  </div>
+</article>
+ 
+      </div>
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-lya js-id-epoch-of-reionization js-id-cosmological-simulations js-id-radiative-transfer js-id-machine-learning">
+        
+        
+
+
+
+<article class="publication-compact wc-publication-card" aria-label="publication">
+  <header class="pub-meta">
+    <h4 class="pub-title">
+      <a href="/project/laes-eor/" class="pub-title-link">Lyman-alpha emitters as a probe of the Epoch of Reionization</a>
+    </h4>
+    <div class="pub-meta-line">
+      
+      
+    </div>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+  </header>
+
+  <div class="pub-body-row">
+    <div class="pub-summary-wrapper">
+      
+        <div class="pub-summary">This project explores how intrinsic Lya radiative-transfer effects within galaxies modulate their observability through the neutral IGM, thereby affecting how Lyα emitters trace reionization. By modeling the progress of reionization and predicting which galaxies would be detectable, the project aims to identify — with machine-learning methods — the optimal combination of observables to constrain the EoR.</div>
       
     </div>
 
