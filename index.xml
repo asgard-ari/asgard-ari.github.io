@@ -1206,14 +1206,6 @@ speakers:&lt;/p&gt;
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>http://asgard-ari.github.io/contact/</link>
-      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://asgard-ari.github.io/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Tour</title>
       <link>http://asgard-ari.github.io/tour/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
@@ -2048,6 +2040,16 @@ show_interests: false
 show_role: true
 show_social: true&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AIM26 - Link Tree</title>
+      <link>http://asgard-ari.github.io/contact/aim26/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://asgard-ari.github.io/contact/aim26/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://asgard-ari.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASGARD Group Webpage&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdCk4wCtF-bPQl75QxElF40xAVAMnxjT7H6a82LR0Sk0EEc6g/viewform?usp=publish-editor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Interested in doing a Bachelor/Master thesis with us?&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

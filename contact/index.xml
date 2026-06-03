@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact | ASGARD Group</title>
+    <link>http://asgard-ari.github.io/contact/</link>
+      <atom:link href="http://asgard-ari.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    <description>Contact</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://asgard-ari.github.io/media/icon_hu_be15dbaf67d618b8.png</url>
+      <title>Contact</title>
+      <link>http://asgard-ari.github.io/contact/</link>
+    </image>
+    
+    <item>
+      <title>AIM26 - Link Tree</title>
+      <link>http://asgard-ari.github.io/contact/aim26/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://asgard-ari.github.io/contact/aim26/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://asgard-ari.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASGARD Group Webpage&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdCk4wCtF-bPQl75QxElF40xAVAMnxjT7H6a82LR0Sk0EEc6g/viewform?usp=publish-editor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Interested in doing a Bachelor/Master thesis with us?&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
