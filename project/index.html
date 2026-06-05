@@ -1039,40 +1039,6 @@
         
       
     
-      
-        
-      
-    
-      
-        
-      
-    
-      
-        
-      
-    
-      
-    
-  
-
-  
-    
-      
-        
-      
-    
-      
-        
-      
-    
-      
-        
-      
-    
-      
-        
-      
-    
   
 
   
@@ -1594,6 +1560,13 @@
       });
     }
 
+    function refreshAllProjectFilters(){
+      document.querySelectorAll('.project-multifilters').forEach(function(filters){
+        syncPressedState(filters);
+        applyProjectFilters(filters);
+      });
+    }
+
     function applyProjectFilters(filters){
       var section = filters.closest('section');
       var container = section ? section.querySelector('.projects-container, .isotope') : document.querySelector('.projects-container, .isotope');
@@ -1653,7 +1626,7 @@
 
           if(result){
             syncAccessPanel(panel);
-            document.querySelectorAll('.project-multifilters').forEach(applyProjectFilters);
+            refreshAllProjectFilters();
           } else {
             syncAccessPanel(panel, 'Password not recognized.');
           }
@@ -1673,7 +1646,7 @@
         resetBtn.addEventListener('click', function(){
           access.resetAccess();
           syncAccessPanel(panel);
-          document.querySelectorAll('.project-multifilters').forEach(applyProjectFilters);
+          refreshAllProjectFilters();
         });
       }
 
@@ -1700,6 +1673,14 @@
             }
             if(!filters.querySelector('.project-tag.active') && allBtn){
               allBtn.classList.add('active');
+
+        document.addEventListener('asgard-project-access-change', function(){
+          refreshAllProjectFilters();
+        });
+
+        window.addEventListener('load', function(){
+          refreshAllProjectFilters();
+        });
             }
           }
 
@@ -2291,53 +2272,6 @@
           <img src="/uploads/project-ideas/cc-radiation-pressure.png" alt="Radiation Pressure–Driven Acceleration and Survival of Cold Gas" class="pub-thumb" loading="lazy" />
         </a>
       </div>
-    
-  </div>
-</article>
- 
-      </div>
-    
-      
-        
-          <div class="project-card project-item isotope-item js-id-mhd js-id-turbulence js-id-multiphase-gas js-id-hpc js-id-cgm js-id-ism js-id-icm js-id-hidden">
-        
-        
-
-
-
-
-<article class="publication-compact wc-publication-card project-compact-card" aria-label="publication">
-  <header class="pub-meta">
-    <h4 class="pub-title">
-      <a href="/project/turb-shattering/" class="pub-title-link">Shattering Turbulent Multiphase Media</a>
-    </h4>
-    <div class="pub-meta-line">
-      
-      
-    </div>
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-  </header>
-
-  <div class="pub-body-row">
-    <div class="pub-summary-wrapper">
-      
-        <div class="pub-summary">Can we shatter in turbulence?</div>
-      
-    </div>
-
-    
     
   </div>
 </article>
