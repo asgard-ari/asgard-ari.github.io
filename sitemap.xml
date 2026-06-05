@@ -985,9 +985,6 @@
     <loc>http://asgard-ari.github.io/tag/cosmological-simulations/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://asgard-ari.github.io/project/cc-crs/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://asgard-ari.github.io/tag/data-analysis/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1048,9 +1045,6 @@
     <loc>http://asgard-ari.github.io/project/g2-cloud/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://asgard-ari.github.io/project/lya-mw/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://asgard-ari.github.io/tag/multiphase-gas/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1064,12 +1058,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/project/ovi-rt/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://asgard-ari.github.io/tag/pen-paper/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://asgard-ari.github.io/tag/private/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/project/cc-radiation-pressure/</loc>
