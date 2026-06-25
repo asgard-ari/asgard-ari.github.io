@@ -5,12 +5,28 @@
     <link>http://asgard-ari.github.io/author/rafael-zavala-molina/</link>
       <atom:link href="http://asgard-ari.github.io/author/rafael-zavala-molina/index.xml" rel="self" type="application/rss+xml" />
     <description>Rafael Zavala Molina</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://asgard-ari.github.io/media/icon_hu_be15dbaf67d618b8.png</url>
       <title>Rafael Zavala Molina</title>
       <link>http://asgard-ari.github.io/author/rafael-zavala-molina/</link>
     </image>
+    
+    <item>
+      <title>Star formation activity in molecular clouds: the role of geometry and initial virial parameter</title>
+      <link>http://asgard-ari.github.io/publication/journal-article/2026-05-05-star-formation-activity-in-molecular-clouds-the-role-of-geometry-and-initial-virial-parameter/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://asgard-ari.github.io/publication/journal-article/2026-05-05-star-formation-activity-in-molecular-clouds-the-role-of-geometry-and-initial-virial-parameter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The low efficiency of star formation as a consequence of the filamentary structure</title>
+      <link>http://asgard-ari.github.io/publication/preprint/2024-12-01-the-low-efficiency-of-star-formation-as-a-consequence-of-the-filamentary-structure/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://asgard-ari.github.io/publication/preprint/2024-12-01-the-low-efficiency-of-star-formation-as-a-consequence-of-the-filamentary-structure/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The effect of tidal forces on the Jeans instability criterion in star-forming regions</title>

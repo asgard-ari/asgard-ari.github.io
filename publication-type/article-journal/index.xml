@@ -5,12 +5,36 @@
     <link>http://asgard-ari.github.io/publication-type/article-journal/</link>
       <atom:link href="http://asgard-ari.github.io/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://asgard-ari.github.io/media/icon_hu_be15dbaf67d618b8.png</url>
       <title>Article-Journal</title>
       <link>http://asgard-ari.github.io/publication-type/article-journal/</link>
     </image>
+    
+    <item>
+      <title>The (limited) effect of viscosity in multiphase turbulent mixing</title>
+      <link>http://asgard-ari.github.io/publication/journal-article/2026-06-01-the-limited-effect-of-viscosity-in-multiphase-turbulent-mixing/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://asgard-ari.github.io/publication/journal-article/2026-06-01-the-limited-effect-of-viscosity-in-multiphase-turbulent-mixing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Star formation activity in molecular clouds: the role of geometry and initial virial parameter</title>
+      <link>http://asgard-ari.github.io/publication/journal-article/2026-05-05-star-formation-activity-in-molecular-clouds-the-role-of-geometry-and-initial-virial-parameter/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://asgard-ari.github.io/publication/journal-article/2026-05-05-star-formation-activity-in-molecular-clouds-the-role-of-geometry-and-initial-virial-parameter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulations of multi-phase gas in and around galaxies</title>
+      <link>http://asgard-ari.github.io/publication/journal-article/2026-04-28-simulations-of-multi-phase-gas-in-and-around-galaxies/</link>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://asgard-ari.github.io/publication/journal-article/2026-04-28-simulations-of-multi-phase-gas-in-and-around-galaxies/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Kinematics of H i and O vi Absorbers: Insights into the Turbulence Driver of the Multiphase Circumgalactic Medium</title>

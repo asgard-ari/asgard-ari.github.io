@@ -5,12 +5,21 @@
     <link>http://asgard-ari.github.io/dates/</link>
       <atom:link href="http://asgard-ari.github.io/dates/index.xml" rel="self" type="application/rss+xml" />
     <description>Dates</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2026 14:00:00 +0100</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2026 14:00:00 +0100</lastBuildDate>
     <image>
       <url>http://asgard-ari.github.io/media/icon_hu_be15dbaf67d618b8.png</url>
       <title>Dates</title>
       <link>http://asgard-ari.github.io/dates/</link>
     </image>
+    
+    <item>
+      <title>Recap of AI ML conference &amp; chapter 3 of turbulence book</title>
+      <link>http://asgard-ari.github.io/dates/2026-07-08-aiml-conf-turbbook/</link>
+      <pubDate>Wed, 08 Jul 2026 14:00:00 +0100</pubDate>
+      <guid>http://asgard-ari.github.io/dates/2026-07-08-aiml-conf-turbbook/</guid>
+      <description>&lt;p&gt;Max (and Ole) will give a summary of the AI ML conference and Fernando will discuss chapter 3 of the turbulence book.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Round of intros and research updates</title>

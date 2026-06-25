@@ -13,7 +13,7 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/dates/</loc>
-    <lastmod>2026-07-01T14:00:00+01:00</lastmod>
+    <lastmod>2026-07-08T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/event/example/</loc>
@@ -22,6 +22,10 @@
   </url><url>
     <loc>http://asgard-ari.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/dates/2026-07-08-aiml-conf-turbbook/</loc>
+    <lastmod>2026-07-08T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/dates/2026-07-01-intro-update-round/</loc>
@@ -72,6 +76,22 @@
     <lastmod>2026-06-03T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://asgard-ari.github.io/publication-type/article-journal/</loc>
+    <lastmod>2026-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/publication_types/</loc>
+    <lastmod>2026-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/publication/</loc>
+    <lastmod>2026-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2026-06-01-the-limited-effect-of-viscosity-in-multiphase-turbulent-mixing/</loc>
+    <lastmod>2026-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://asgard-ari.github.io/dates/2026-05-27-ole-wittig-turbulence-book/</loc>
     <lastmod>2026-05-27T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -96,8 +116,20 @@
     <lastmod>2026-05-06T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://asgard-ari.github.io/author/rafael-zavala-molina/</loc>
+    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2026-05-05-star-formation-activity-in-molecular-clouds-the-role-of-geometry-and-initial-virial-parameter/</loc>
+    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://asgard-ari.github.io/dates/2026-04-29-project-update-benedikt-seidl-max/</loc>
     <lastmod>2026-04-29T14:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/publication/journal-article/2026-04-28-simulations-of-multi-phase-gas-in-and-around-galaxies/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/dates/2026-04-22-rainer-weinberger/</loc>
@@ -136,19 +168,7 @@
     <lastmod>2026-03-25T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://asgard-ari.github.io/publication-type/article-journal/</loc>
-    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://asgard-ari.github.io/publication/journal-article/2026-03-20-kinematics-of-h-i-and-o-vi-absorbers-insights-into-the-turbulence-driver-of-the-multiphase-circumgalactic-medium/</loc>
-    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://asgard-ari.github.io/publication_types/</loc>
-    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://asgard-ari.github.io/publication/</loc>
     <lastmod>2026-03-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -452,6 +472,10 @@
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://asgard-ari.github.io/publication/preprint/2024-12-01-the-low-efficiency-of-star-formation-as-a-consequence-of-the-filamentary-structure/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://asgard-ari.github.io/publication/journal-article/2024-11-01-a-model-of-the-c-iv-1548-1550-doublet-line-in-t-tauri-stars/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -518,10 +542,6 @@
   </url><url>
     <loc>http://asgard-ari.github.io/publication/journal-article/2023-07-31-vol-55-issue-3-heliophysics-2024-decadal-whitepapers/</loc>
     <lastmod>2023-07-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://asgard-ari.github.io/author/rafael-zavala-molina/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/publication/journal-article/2023-07-13-the-effect-of-tidal-forces-on-the-jeans-instability-criterion-in-star-forming-regions/</loc>
