@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pen &amp; Paper | ASGARD Group</title>
+    <link>http://asgard-ari.github.io/tag/pen-paper/</link>
+      <atom:link href="http://asgard-ari.github.io/tag/pen-paper/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pen &amp; Paper</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://asgard-ari.github.io/media/icon_hu_be15dbaf67d618b8.png</url>
+      <title>Pen &amp; Paper</title>
+      <link>http://asgard-ari.github.io/tag/pen-paper/</link>
+    </image>
+    
+    <item>
+      <title>Thermal Instability and Heating Mechanisms in Stratified Atmospheres</title>
+      <link>http://asgard-ari.github.io/project/ti-stratified/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://asgard-ari.github.io/project/ti-stratified/</guid>
+      <description>&lt;p&gt;Thermal instability (TI) in stratified atmospheres is believed to play a central role in producing the cold gas observed in galaxy clusters’ intracluster medium. A key but poorly understood ingredient is the form of heating that balances cooling: previous work has typically assumed highly idealized, spatially uniform “magic heating” to maintain global thermal equilibrium.&lt;br&gt;
+In this project, you will explore TI both theoretically and with numerical simulations, replacing such ad hoc heating prescriptions with more realistic, physically motivated models. By mapping how different heating mechanisms influence condensation, stability criteria, and cold-gas morphology, this work will help build a more robust understanding of how multiphase structure forms in cluster atmospheres.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

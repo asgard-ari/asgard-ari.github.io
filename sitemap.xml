@@ -13,7 +13,7 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/dates/</loc>
-    <lastmod>2026-07-29T14:00:00+01:00</lastmod>
+    <lastmod>2026-08-12T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/event/example/</loc>
@@ -25,6 +25,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/dates/2026-07-29-icmrecap/</loc>
+    <lastmod>2026-08-12T14:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/dates/2026-07-29-icmrecap-copy/</loc>
     <lastmod>2026-07-29T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1110,6 +1114,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/project/ovi-rt/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/tag/pen-paper/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/project/cc-radiation-pressure/</loc>
