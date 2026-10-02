@@ -5,12 +5,25 @@
     <link>http://asgard-ari.github.io/tag/news/</link>
       <atom:link href="http://asgard-ari.github.io/tag/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jul 2026 12:00:00 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Oct 2026 14:00:00 +0100</lastBuildDate>
     <image>
       <url>http://asgard-ari.github.io/media/icon_hu_be15dbaf67d618b8.png</url>
       <title>News</title>
       <link>http://asgard-ari.github.io/tag/news/</link>
     </image>
+    
+    <item>
+      <title>Welcome to Bertalan &amp; Tom, and congratulations Benedikt!</title>
+      <link>http://asgard-ari.github.io/post/2026-10-02-welcome-new-members/</link>
+      <pubDate>Fri, 02 Oct 2026 14:00:00 +0100</pubDate>
+      <guid>http://asgard-ari.github.io/post/2026-10-02-welcome-new-members/</guid>
+      <description>&lt;p&gt;We have some new faces (and one new role) in the group!&lt;/p&gt;
+&lt;p&gt;Benedikt, who did his Master (and Bachelor) thesis with us, has moved with us from Munich to Heidelberg and now started his PhD in the group as of October 1st. Congratulations!&lt;/p&gt;
+&lt;p&gt;Bertalan is joining us as a Master student and will work on how non-uniform meshes impact the dynamics of turbulence.&lt;/p&gt;
+&lt;p&gt;Tom is starting his Bachelor thesis with us, working on the disruption of gas clouds close to a black hole.&lt;/p&gt;
+&lt;p&gt;Welcome to the group! We&amp;rsquo;re looking forward to working with you! :)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Silvia Almada Monter Successfully Defends Her PhD Thesis</title>
