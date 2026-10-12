@@ -13,7 +13,7 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/dates/</loc>
-    <lastmod>2026-10-14T14:00:00+02:00</lastmod>
+    <lastmod>2026-11-25T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/event/example/</loc>
@@ -22,6 +22,26 @@
   </url><url>
     <loc>http://asgard-ari.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/dates/2026-11-25-lucia-haerer-thibault-vieu/</loc>
+    <lastmod>2026-11-25T14:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/dates/2026-11-11-bring-a-plot-update-round/</loc>
+    <lastmod>2026-11-11T14:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/dates/2026-11-04-yizhan-zhang-seok-jun-chang/</loc>
+    <lastmod>2026-11-04T14:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/dates/2026-10-28-bring-a-plot/</loc>
+    <lastmod>2026-10-28T14:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/dates/2026-10-21-leonard-storcks-bertalan-tom/</loc>
+    <lastmod>2026-10-21T14:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/dates/2026-10-14-akash-vani-group-initiatives/</loc>
@@ -33,15 +53,23 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/post/</loc>
-    <lastmod>2026-10-02T14:00:00+01:00</lastmod>
+    <lastmod>2026-10-07T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/tag/media/</loc>
+    <lastmod>2026-10-07T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/tag/news/</loc>
-    <lastmod>2026-10-02T14:00:00+01:00</lastmod>
+    <lastmod>2026-10-07T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/tags/</loc>
-    <lastmod>2026-10-02T14:00:00+01:00</lastmod>
+    <lastmod>2026-10-07T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/post/2026-10-07-ritali-work-featured-on-mpa/</loc>
+    <lastmod>2026-10-07T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/post/2026-10-02-welcome-new-members/</loc>
@@ -146,10 +174,6 @@
   </url><url>
     <loc>http://asgard-ari.github.io/dates/2026-05-13-project-updates-alankar-silvia/</loc>
     <lastmod>2026-05-13T14:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://asgard-ari.github.io/tag/media/</loc>
-    <lastmod>2026-05-08T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/post/2026-05-08-seok-jun-work-featured-on-mpa/</loc>
