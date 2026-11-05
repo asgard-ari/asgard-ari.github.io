@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Silvia Almada Monter | ASGARD Group</title>
+    <title>Silvia-Almada-Monter | ASGARD Group</title>
     <link>http://asgard-ari.github.io/author/silvia-almada-monter/</link>
       <atom:link href="http://asgard-ari.github.io/author/silvia-almada-monter/index.xml" rel="self" type="application/rss+xml" />
-    <description>Silvia Almada Monter</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jul 2026 12:00:00 +0200</lastBuildDate>
+    <description>Silvia-Almada-Monter</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Nov 2026 12:00:00 +0100</lastBuildDate>
     <image>
       <url>http://asgard-ari.github.io/media/icon_hu_be15dbaf67d618b8.png</url>
-      <title>Silvia Almada Monter</title>
+      <title>Silvia-Almada-Monter</title>
       <link>http://asgard-ari.github.io/author/silvia-almada-monter/</link>
     </image>
+    
+    <item>
+      <title>Goodbye Silvia and welcome Yizhan!</title>
+      <link>http://asgard-ari.github.io/post/2026-11-05-goodbye-silvia-welcome-yizhan/</link>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 +0100</pubDate>
+      <guid>http://asgard-ari.github.io/post/2026-11-05-goodbye-silvia-welcome-yizhan/</guid>
+      <description>&lt;p&gt;Some comings and goings in the group!&lt;/p&gt;
+&lt;p&gt;Silvia is leaving us for Edinburgh, where she starts a postdoc at the Institute for Astronomy (IfA). Thank you for everything, Silvia, and all the best!&lt;/p&gt;
+&lt;p&gt;Yizhan is visiting us from Fudan University for the next three months. Welcome to the group, Yizhan! :)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Silvia Almada Monter Successfully Defends Her PhD Thesis</title>

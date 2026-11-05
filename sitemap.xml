@@ -28,8 +28,36 @@
     <lastmod>2026-11-25T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://asgard-ari.github.io/dates/2026-11-18-flow-conference-llm-workflows/</loc>
+    <lastmod>2026-11-18T14:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://asgard-ari.github.io/dates/2026-11-11-bring-a-plot-update-round/</loc>
     <lastmod>2026-11-11T14:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/authors/</loc>
+    <lastmod>2026-11-05T12:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/post/2026-11-05-goodbye-silvia-welcome-yizhan/</loc>
+    <lastmod>2026-11-05T12:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/post/</loc>
+    <lastmod>2026-11-05T12:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/tag/news/</loc>
+    <lastmod>2026-11-05T12:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/author/silvia-almada-monter/</loc>
+    <lastmod>2026-11-05T12:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/tags/</loc>
+    <lastmod>2026-11-05T12:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/dates/2026-11-04-yizhan-zhang-seok-jun-chang/</loc>
@@ -52,19 +80,7 @@
     <lastmod>2026-10-07T14:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://asgard-ari.github.io/post/</loc>
-    <lastmod>2026-10-07T12:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://asgard-ari.github.io/tag/media/</loc>
-    <lastmod>2026-10-07T12:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://asgard-ari.github.io/tag/news/</loc>
-    <lastmod>2026-10-07T12:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://asgard-ari.github.io/tags/</loc>
     <lastmod>2026-10-07T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -92,15 +108,7 @@
     <lastmod>2026-07-15T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://asgard-ari.github.io/authors/</loc>
-    <lastmod>2026-07-14T12:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://asgard-ari.github.io/tag/defense/</loc>
-    <lastmod>2026-07-14T12:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://asgard-ari.github.io/author/silvia-almada-monter/</loc>
     <lastmod>2026-07-14T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1168,6 +1176,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/author/seok-jun-chang/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://asgard-ari.github.io/author/silvia-almada-monter/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://asgard-ari.github.io/project/cold-streams-lss/</loc>
